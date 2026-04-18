@@ -6,15 +6,15 @@ BHAASHA is a voice-enabled, multi-lingual triage console that empowers ASHA work
 ### Architecture
 ```mermaid
 graph TD
-    A[ASHA Worker] -->|Voice Input (Hindi/Local)| B(Sarvam AI Speech-to-Text)
-    B -->|Translated English| C[BHAASHA Streamlit App]
-    C -->|Vector Search| D[(Databricks FAISS RAG)]
-    D -->|Clinical Protocols| E[Databricks Foundation Model: Llama-3 70B]
-    C -.->|SQL Check| F[(Databricks Unity Catalog)]
-    F --> G[Inventory & Facility Tables]
-    E -->|Triage Output| C
-    C -->|Real-time Insert| H[(Delta Lake: triage_logs)]
-    H -->|DBSCAN Clustering| I[Live Outbreak Dashboard]
+    A["ASHA Worker"] -->|"Voice Input"| B["Sarvam AI STT"]
+    B -->|"Translated English"| C["BHAASHA Streamlit App"]
+    C -->|"Vector Search"| D[("FAISS RAG Index")]
+    D -->|"Clinical Protocols"| E["Llama-3 70B via Databricks"]
+    C -.->|"SQL Check"| F[("Unity Catalog")]
+    F --> G["Inventory and Facility Tables"]
+    E -->|"Triage Output"| C
+    C -->|"Real-time INSERT"| H[("Delta Lake: triage_logs")]
+    H -->|"DBSCAN Clustering"| I["Live Outbreak Dashboard"]
 ```
 
 ### Databricks Technologies & Models Used
