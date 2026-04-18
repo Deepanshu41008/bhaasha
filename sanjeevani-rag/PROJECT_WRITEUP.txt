@@ -1,0 +1,12 @@
+BHAASHA is a multi-lingual, voice-enabled rural healthcare triage engine built for India. ASHA workers can speak native symptoms which are routed safely into a Databricks Lakehouse. We built this to solve rural diagnostic delays and predict epidemics. Using Databricks Serverless Apps, Python, Delta Lake, and Llama-3 API, the system queries RAG clinical protocols, checks Unity Catalog hospital inventory, and runs real-time DBSCAN clustering to map live disease outbreaks instantly.
+
+Tech Used: 
+- Databricks Serverless Apps
+- Databricks Unity Catalog & Delta Lake
+- Databricks SQL Statement Execution API
+- Databricks Foundation Models: databricks-meta-llama-3-3-70b-instruct
+- Sarvam AI (Speech-to-Text Any Indian Language)
+- FAISS (Vector DB for Clinical Protocols)
+- Scikit-Learn (DBSCAN Clustering)
+
+Deployed Prototype: https://dbc-746e6173-db1c.cloud.databricks.com/apps/sanjeevani-rag
