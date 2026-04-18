@@ -1,0 +1,101 @@
+log_id,timestamp,asha_worker_id,patient_age,patient_gender,symptoms_raw,symptoms_extracted,symptom_cluster,latitude,longitude,district,severity_score
+404a1385-c33e-403f-a972-931550853c65,2026-04-16 21:35:22,ASHA-IND-005,10,F,"sir me dard, ji machlana, jodon me dard, lal daane, shareer me dard","joint pain, high fever, nausea, muscle pain, vomiting",dengue_like,22.555021,75.786084,Indore,5
+9ca8f3c3-9e1a-413d-a860-c3185ec2305f,2026-04-17 19:35:22,ASHA-IND-013,41,F,"shareer me dard, ulti, lal daane, tez bukhar, jodon me dard","severe headache, retro-orbital pain, joint pain, muscle pain, vomiting",dengue_like,22.549813,75.756546,Indore,3
+611a1bc1-25d9-4540-aaf3-de9cc4283aab,2026-04-18 05:35:22,ASHA-IND-001,24,M,"ji machlana, tez bukhar, sir me dard, ulti","retro-orbital pain, nausea, muscle pain, vomiting",dengue_like,22.526718,75.731369,Indore,4
+e46d91f9-6339-4d8a-82da-aa095bd8dad7,2026-04-16 22:35:22,ASHA-IND-007,23,F,"tez bukhar, ulti, shareer me dard, lal daane, jodon me dard","joint pain, vomiting, rash, severe headache, retro-orbital pain",dengue_like,22.543395,75.757063,Indore,3
+68f15454-4511-44d2-8822-09b506fe1444,2026-04-18 00:35:22,ASHA-IND-012,13,M,"lal daane, shareer me dard, jodon me dard, tez bukhar","severe headache, muscle pain, rash, high fever",dengue_like,22.529261,75.782067,Indore,4
+85a98ee0-4c7c-4dd2-99d5-388d079feb91,2026-04-16 21:35:22,ASHA-IND-004,20,M,"lal daane, sir me dard, ji machlana","vomiting, muscle pain, retro-orbital pain",dengue_like,22.518494,75.730407,Indore,4
+1339c9de-edc0-4d9c-a24d-92dec79874a7,2026-04-17 05:35:22,ASHA-IND-001,54,F,"shareer me dard, jodon me dard, ulti, sir me dard","severe headache, high fever, retro-orbital pain, muscle pain",dengue_like,22.537683,75.799361,Indore,3
+4953dad9-64f7-4789-98c9-7c625d017ad3,2026-04-17 10:35:22,ASHA-IND-002,52,M,"ji machlana, sir me dard, ulti, jodon me dard, tez bukhar","vomiting, rash, severe headache, muscle pain, high fever",dengue_like,22.557852,75.704347,Indore,3
+0a89f714-da29-475a-afce-1c5959cc25aa,2026-04-16 17:35:22,ASHA-IND-004,52,M,"ulti, tez bukhar, jodon me dard","rash, high fever, joint pain",dengue_like,22.548878,75.764986,Indore,3
+920681c3-6250-4fe3-858c-4dd3bca903d9,2026-04-16 22:35:22,ASHA-IND-005,15,M,"ulti, ji machlana, tez bukhar, shareer me dard, jodon me dard","rash, vomiting, muscle pain, nausea, severe headache",dengue_like,22.585487,75.742571,Indore,4
+c31b339d-02c2-4223-a000-35161471b5a4,2026-04-17 20:35:22,ASHA-IND-011,29,M,"shareer me dard, ulti, jodon me dard, lal daane, tez bukhar","rash, high fever, muscle pain, nausea, vomiting",dengue_like,22.614874,75.770212,Indore,4
+61ca127d-fc49-4351-ba3b-4a17039db51f,2026-04-17 00:35:22,ASHA-IND-004,64,F,"sir me dard, ji machlana, lal daane, shareer me dard, jodon me dard","severe headache, joint pain, muscle pain, rash, high fever",dengue_like,22.560595,75.760209,Indore,4
+4464074e-2fba-4e93-a728-6738f71aca51,2026-04-16 23:35:22,ASHA-DEW-013,5,F,"pet me dard, bukhar, dast, ulti","vomiting, watery diarrhea, fever, abdominal cramps",gastro_acute,22.990418,76.020957,Dewas,2
+20a68407-7c85-4b08-b474-c5a23963ea4d,2026-04-16 19:35:22,ASHA-DEW-009,45,M,"ulti, dast, pet me dard, bukhar","vomiting, fever, dehydration, abdominal cramps",gastro_acute,22.937353,76.062949,Dewas,3
+1a147ae4-c1d3-4f18-aa64-15c7620c4a44,2026-04-17 11:35:22,ASHA-DEW-012,47,M,"bukhar, ulti, dast, paani ki kami","dehydration, vomiting, watery diarrhea, abdominal cramps",gastro_acute,22.92037,76.068629,Dewas,2
+220bfbd5-bdec-431a-b938-0711927fd972,2026-04-16 18:35:22,ASHA-DEW-006,11,M,"bukhar, dast, paani ki kami","abdominal cramps, watery diarrhea, fever",gastro_acute,22.963989,76.008998,Dewas,3
+f943e13f-a6c6-45dc-aff9-6a321f12ce2b,2026-04-17 04:35:22,ASHA-DEW-013,41,F,"dast, ulti, bukhar, pet me dard","dehydration, abdominal cramps, watery diarrhea, fever",gastro_acute,22.938308,76.033041,Dewas,4
+3ac79b47-e419-428d-95bf-756260f0c65e,2026-04-17 16:35:22,ASHA-DEW-014,40,F,"paani ki kami, ulti, pet me dard","watery diarrhea, abdominal cramps, fever",gastro_acute,22.955424,76.031192,Dewas,3
+3bb70be3-fcc5-466e-b797-1f7e39d90b0d,2026-04-16 23:35:22,ASHA-DEW-007,16,M,"dast, paani ki kami, bukhar, ulti","vomiting, fever, watery diarrhea, abdominal cramps",gastro_acute,22.960361,76.04261,Dewas,3
+9d15cb8b-4ae8-48b1-b249-994d7b4e408d,2026-04-16 23:35:22,ASHA-DEW-007,41,M,"dast, paani ki kami, pet me dard, ulti","dehydration, vomiting, fever, abdominal cramps",gastro_acute,22.938261,76.047164,Dewas,2
+859993c9-b409-450e-90a6-d5bae97efb13,2026-04-15 19:35:22,ASHA-DHA-006,39,F,"khansi, tez saans, bukhar, chhati dhansna","fever, cough, wheezing, chest indrawing",ari_pneumonia,21.634446,76.219799,Khandwa,5
+22c8063c-fd17-4e50-a782-995f49371b9d,2026-04-12 21:35:22,ASHA-DEW-009,75,M,"chehra haath sooja hua, sir dard, bahut zyada khoon","swelling face hands, high BP, heavy bleeding",maternal_emergency,22.936805,75.854114,Indore,1
+a87d51d0-7c76-4f8b-bf0a-5ab77aae3fd8,2026-04-12 02:35:22,ASHA-BUR-002,16,M,"ulti, ji machlana, sir me dard","severe headache, joint pain, nausea",dengue_like,22.475463,75.655908,Indore,3
+1a7f3bcd-6a93-4437-8db9-e4c2150a85df,2026-04-14 07:35:22,ASHA-DEW-006,19,M,"tez bukhar, sir me dard, jodon me dard, ulti","joint pain, muscle pain, rash, nausea",dengue_like,22.236949,75.072389,Dhar,3
+795005bf-43c0-465a-b6f9-d677801a6536,2026-04-13 15:35:22,ASHA-KHA-004,64,M,"thandi lagna, pasina, badan dard, kaanpna","chills, intermittent fever, nausea, headache",malaria_like,22.975599,75.5895,Dhar,2
+605ea68f-c12e-4691-a728-72e230061b82,2026-04-13 08:35:22,ASHA-KHA-011,36,M,"bukhar, dast, paani ki kami","dehydration, watery diarrhea, abdominal cramps",gastro_acute,23.484198,75.42407,Ujjain,3
+408ae124-4da7-4808-8ce9-d1e9bedacfbe,2026-04-18 01:35:22,ASHA-KHA-012,37,M,"tez bukhar, shareer me dard, sir me dard, lal daane","rash, joint pain, high fever, retro-orbital pain",dengue_like,23.011317,76.062516,Dewas,3
+34c78db2-143c-4217-8e37-af5c3c659e60,2026-04-17 10:35:22,ASHA-UJJ-008,61,M,"BP badha hua, sir dard, bahut zyada khoon","convulsions, high BP, heavy bleeding",maternal_emergency,22.220431,75.412712,Dhar,3
+3f2b6cc3-5a5a-413a-981c-8a1eb18097ba,2026-04-12 19:35:22,ASHA-UJJ-004,68,F,"paani ki kami, pet me dard, ulti, bukhar","vomiting, watery diarrhea, dehydration, abdominal cramps",gastro_acute,23.038004,76.330283,Dewas,4
+1139ab60-e65e-4188-8429-a416cbd44b2b,2026-04-11 16:35:22,ASHA-DEW-001,4,F,"pet me dard, ulti, dast","vomiting, fever, abdominal cramps",gastro_acute,22.67234,74.872237,Dhar,2
+2fb7bcbf-9f37-4a8d-8556-bb06463516ae,2026-04-13 23:35:22,ASHA-IND-002,26,F,"saans me taklif, tez saans","chest indrawing, wheezing",ari_pneumonia,22.41448,75.598734,Indore,3
+236122e4-60c3-46e6-a88f-71e85d4fa8cd,2026-04-14 23:35:22,ASHA-DEW-008,25,F,"paani ki kami, dast","abdominal cramps, fever",gastro_acute,22.776412,75.759998,Indore,4
+e510cdfb-f361-48e9-9261-fe5b46ebbb17,2026-04-18 00:35:22,ASHA-KHA-009,43,F,"chehra haath sooja hua, BP badha hua","high BP, severe abdominal pain",maternal_emergency,22.590955,75.659485,Indore,1
+096e71e5-84d7-40ca-a152-48e999c08caa,2026-04-15 05:35:22,ASHA-DEW-005,36,M,"saans me taklif, chhati dhansna, tez saans, khansi","wheezing, chest indrawing, cough, fever",ari_pneumonia,21.529733,75.991585,Khargone,5
+2831c181-3bf7-46d1-ba9c-fc2211f1507f,2026-04-12 07:35:22,ASHA-IND-005,35,F,"chhati dhansna, saans me taklif, bukhar","rapid breathing, difficulty breathing, cough",ari_pneumonia,22.839521,75.876103,Indore,3
+6ce6292d-5f21-4689-bd65-25b70f5cc521,2026-04-15 04:35:22,ASHA-KHA-005,4,F,"dast, ulti, bukhar, paani ki kami","abdominal cramps, vomiting, watery diarrhea, dehydration",gastro_acute,23.000019,76.344535,Dewas,3
+951a82ca-c60b-48e9-a16b-c907394c4d20,2026-04-12 19:35:22,ASHA-DHA-005,67,M,"pet me bahut dard, bahut zyada khoon, BP badha hua","severe abdominal pain, heavy bleeding, swelling face hands",maternal_emergency,22.265105,75.346996,Dhar,5
+cf4919a5-37b9-439d-9dc4-7c9120813aa0,2026-04-14 20:35:22,ASHA-KHA-014,40,M,"chhati dhansna, khansi","cough, difficulty breathing",ari_pneumonia,23.443113,75.445011,Ujjain,3
+385fabc5-1157-4d42-82e0-c20fc4574516,2026-04-13 17:35:22,ASHA-IND-015,2,M,"ulti, pet me dard","abdominal cramps, vomiting",gastro_acute,22.942513,76.124719,Dewas,3
+310f6127-023c-48db-bb87-fa05fbc5bddf,2026-04-15 09:35:22,ASHA-KHA-010,57,M,"pasina, badan dard","chills, intermittent fever",malaria_like,21.594092,75.991634,Khargone,1
+f1f69c66-e899-48a9-8d7f-6352e55bef27,2026-04-17 20:35:22,ASHA-KHA-004,46,F,"lal daane, ji machlana, shareer me dard","nausea, severe headache, retro-orbital pain",dengue_like,21.807867,76.377181,Khandwa,5
+277f99b4-572b-413c-8adb-93db1f658701,2026-04-13 10:35:22,ASHA-DHA-015,13,F,"ji machlana, ulti","severe headache, nausea",dengue_like,21.528866,76.017288,Khargone,4
+1e013406-5276-405f-945b-79c8a3242724,2026-04-16 00:35:22,ASHA-IND-004,9,F,"pet me dard, bukhar, ulti, paani ki kami","abdominal cramps, fever, vomiting, watery diarrhea",gastro_acute,23.014704,75.863768,Indore,2
+7bd18887-8e4b-45f5-b786-8c788fb34fcc,2026-04-14 16:35:22,ASHA-BUR-012,39,F,"thandi lagna, pasina, bukhar aata jaata, badan dard","chills, headache, intermittent fever, sweating",malaria_like,22.710061,75.853143,Indore,5
+8fc2474d-062c-44ad-b8e1-adb3c8569bfc,2026-04-16 17:35:22,ASHA-DHA-011,56,F,"ji machlana, ulti, lal daane","severe headache, joint pain, vomiting",dengue_like,23.013726,75.558166,Ujjain,1
+1784a576-40f3-46ff-9769-3a207a6d846a,2026-04-12 07:35:22,ASHA-KHA-012,13,F,"masoodhe se khoon, dard","blurred vision, ptosis",snakebite,22.745889,75.001718,Dhar,1
+8ababf30-44e8-4719-8cc0-72df00821631,2026-04-12 01:35:22,ASHA-BUR-007,1,M,"ulti, bukhar, pet me dard","dehydration, watery diarrhea, fever",gastro_acute,22.835129,75.448967,Indore,3
+8ff49426-01a1-4582-9014-9c6dd1d291f6,2026-04-12 06:35:22,ASHA-KHA-013,39,F,"pasina, badan dard","chills, body ache",malaria_like,22.647679,76.634515,Dewas,1
+56351903-ab0d-437d-9563-d79f2b3e06ee,2026-04-11 21:35:22,ASHA-BUR-001,72,F,"pet me dard, dast, paani ki kami","vomiting, abdominal cramps, watery diarrhea",gastro_acute,22.266422,75.114395,Dhar,1
+342a2c78-6457-4325-a70a-e6040171f035,2026-04-12 02:35:22,ASHA-KHA-010,23,F,"shareer me dard, ji machlana, lal daane, sir me dard","retro-orbital pain, vomiting, muscle pain, nausea",dengue_like,22.939867,75.947316,Indore,3
+32a3de59-caac-46a3-856c-55dabb9cc215,2026-04-16 18:35:22,ASHA-KHA-010,56,M,"khansi, tez saans, chhati dhansna, bukhar","rapid breathing, wheezing, cough, fever",ari_pneumonia,23.082784,75.662463,Dhar,4
+bc5f7f2f-14b1-40aa-9ca4-642e822d4eb7,2026-04-11 23:35:22,ASHA-DEW-009,55,M,"bukhar, saans me taklif, tez saans, khansi","rapid breathing, fever, difficulty breathing, chest indrawing",ari_pneumonia,22.799531,76.074445,Dewas,2
+7539e1c6-b478-42c6-8437-6e08c4a9968e,2026-04-15 13:35:22,ASHA-KHA-015,62,M,"dhundla dikhna, masoodhe se khoon, dard, saanp ne kaata","blurred vision, pain, bite mark, ptosis",snakebite,22.465846,75.64313,Indore,3
+ab7ecda2-b385-4808-9a77-41335301e127,2026-04-17 13:35:22,ASHA-UJJ-014,69,M,"bukhar, pet me dard, paani ki kami, dast","watery diarrhea, vomiting, dehydration, fever",gastro_acute,21.626493,76.218852,Khandwa,4
+1fdd97ea-a82b-4b17-aef5-babf08bbff11,2026-04-14 21:35:22,ASHA-BUR-011,73,F,"dast, pet me dard, paani ki kami","abdominal cramps, fever, watery diarrhea",gastro_acute,22.467444,75.601306,Indore,2
+05e9ce4f-02f1-4f2b-a5d1-826ed4dbdc95,2026-04-15 07:35:22,ASHA-KHA-005,10,F,"dast, ulti","abdominal cramps, dehydration",gastro_acute,22.738909,75.934653,Indore,3
+3d014dba-adc7-4113-ae7b-27b45797294a,2026-04-18 06:35:22,ASHA-BUR-011,31,F,"bukhar, chhati dhansna, khansi, tez saans","rapid breathing, difficulty breathing, wheezing, chest indrawing",ari_pneumonia,21.334983,76.281122,Burhanpur,1
+d786c377-cef5-404b-a240-6bd0af842140,2026-04-17 12:35:22,ASHA-BUR-003,22,M,"bukhar aata jaata, kaanpna, pasina, badan dard","nausea, chills, sweating, headache",malaria_like,22.88661,75.781531,Indore,1
+2ce6765b-2ed7-4876-a53b-04e9c3b0246e,2026-04-17 04:35:22,ASHA-KHA-001,69,M,"paani ki kami, pet me dard","dehydration, fever",gastro_acute,23.119566,75.842098,Ujjain,4
+985ee696-735a-4f34-8683-c9513d42a9c9,2026-04-12 18:35:22,ASHA-KHA-008,6,M,"bukhar aata jaata, pasina","rigors, sweating",malaria_like,22.946913,76.084795,Dewas,4
+e5e959c7-6e7d-49e0-a32e-1e56da6dbbc9,2026-04-11 11:35:22,ASHA-BUR-009,31,M,"pet me dard, paani ki kami, ulti","abdominal cramps, fever, watery diarrhea",gastro_acute,23.253447,76.022292,Ujjain,2
+da4d4a15-3064-4cda-be74-2e0b311b51d8,2026-04-18 07:35:22,ASHA-IND-013,68,M,"thandi lagna, bukhar aata jaata","nausea, intermittent fever",malaria_like,23.191652,75.777234,Ujjain,3
+3a0dfee9-ce40-4ec8-a46c-f88fca631d7b,2026-04-18 01:35:22,ASHA-IND-012,78,M,"badan dard, thandi lagna, pasina, bukhar aata jaata","intermittent fever, nausea, headache, chills",malaria_like,22.66367,75.943606,Indore,5
+dca173f4-39aa-456c-9cba-e6f9969c1f9f,2026-04-16 10:35:22,ASHA-KHA-014,42,F,"khansi, bukhar, tez saans, chhati dhansna","rapid breathing, chest indrawing, difficulty breathing, wheezing",ari_pneumonia,21.3195,76.242282,Burhanpur,1
+433d62e6-f2e1-482e-8fba-69a9c831f79a,2026-04-14 20:35:22,ASHA-DEW-011,79,F,"bukhar aata jaata, thandi lagna, kaanpna","nausea, rigors, chills",malaria_like,23.201793,75.840913,Ujjain,2
+d7a411c4-a410-4ade-8389-ff4b7adee0d6,2026-04-13 19:35:22,ASHA-KHA-014,33,F,"dast, bukhar, paani ki kami, pet me dard","watery diarrhea, dehydration, abdominal cramps, vomiting",gastro_acute,23.034368,76.367702,Dewas,1
+d8590897-6119-4d3e-9871-c236fd324709,2026-04-14 06:35:22,ASHA-IND-001,66,F,"BP badha hua, sir dard","swelling face hands, convulsions",maternal_emergency,23.277718,76.038664,Ujjain,1
+26fe6ed4-9eff-4297-a58a-74a992736eed,2026-04-18 09:35:22,ASHA-KHA-006,12,F,"pet me dard, bukhar, ulti, dast","dehydration, watery diarrhea, abdominal cramps, vomiting",gastro_acute,22.739977,75.468017,Indore,1
+2d598fc9-23e9-4106-85f7-0a93f638a93a,2026-04-15 07:35:22,ASHA-KHA-010,25,F,"khansi, bukhar","rapid breathing, difficulty breathing",ari_pneumonia,22.544486,75.609612,Indore,3
+390e7ddb-d6b5-4978-b06a-034ac88fc39f,2026-04-11 16:35:22,ASHA-IND-009,70,F,"dast, ulti, paani ki kami, pet me dard","vomiting, fever, watery diarrhea, abdominal cramps",gastro_acute,22.540557,76.743557,Dewas,4
+24a1584b-c930-4c70-991d-2bc9a83c4401,2026-04-18 05:35:22,ASHA-BUR-014,67,F,"BP badha hua, bahut zyada khoon, pet me bahut dard","heavy bleeding, convulsions, swelling face hands",maternal_emergency,23.056264,76.013658,Dewas,5
+4b412002-cf55-4259-a8a7-aec676ea434d,2026-04-12 05:35:22,ASHA-KHA-009,3,F,"sir me dard, shareer me dard","high fever, retro-orbital pain",dengue_like,22.654529,76.87248,Dewas,2
+33d1fd42-02cb-4576-bf7e-ee5525c7ecc1,2026-04-17 00:35:22,ASHA-DHA-014,79,M,"dard, saanp ne kaata","difficulty breathing, bite mark",snakebite,22.728888,75.842073,Indore,1
+015d0024-dd55-41a8-9eec-9d90e8be4ce2,2026-04-12 01:35:22,ASHA-UJJ-014,52,F,"sir me dard, shareer me dard","severe headache, nausea",dengue_like,22.794869,75.917738,Indore,5
+6dde6e20-f535-49d0-8a33-00b7b8d05d61,2026-04-16 03:35:22,ASHA-KHA-015,48,M,"jodon me dard, sir me dard, shareer me dard, ulti","joint pain, vomiting, high fever, retro-orbital pain",dengue_like,22.85666,76.093657,Dewas,1
+c665429a-545b-4ecb-b161-2e8148b02766,2026-04-11 16:35:22,ASHA-DEW-008,12,F,"tez bukhar, ji machlana, ulti","joint pain, high fever, muscle pain",dengue_like,22.661333,75.911096,Indore,4
+32b6a9d3-cbf8-4d63-878e-2559f21da870,2026-04-16 05:35:22,ASHA-DEW-009,64,M,"soojan, saans me taklif, saanp ne kaata, dard","pain, blurred vision, bleeding from gums, difficulty breathing",snakebite,22.910492,75.763991,Indore,3
+804285cd-7aad-4b60-a073-a96a509e9293,2026-04-12 11:35:22,ASHA-BUR-008,70,M,"thandi lagna, pasina","intermittent fever, headache",malaria_like,22.567397,76.361044,Dewas,2
+4f400f31-03c0-4f15-b10e-6507d1f24384,2026-04-16 08:35:22,ASHA-DEW-006,6,M,"bukhar aata jaata, kaanpna","body ache, sweating",malaria_like,21.284066,76.193256,Burhanpur,4
+b5928a5b-accb-44af-93d4-d6d574d78777,2026-04-11 20:35:22,ASHA-DEW-006,4,F,"thandi lagna, kaanpna","intermittent fever, body ache",malaria_like,23.438114,75.413708,Ujjain,2
+1eccfe98-9f2b-45d1-8dc6-2d7c68096a28,2026-04-12 02:35:22,ASHA-DEW-015,13,M,"soojan, saanp ne kaata, dard","bleeding from gums, swelling at bite site, pain",snakebite,22.927234,75.69432,Indore,4
+85448c82-d014-460a-9f0c-344f6fe80257,2026-04-17 15:35:22,ASHA-DHA-003,18,F,"tez saans, bukhar, khansi, saans me taklif","fever, cough, wheezing, difficulty breathing",ari_pneumonia,23.035674,75.498866,Ujjain,3
+98a927cf-5a02-4384-b6ae-e1eec5d44165,2026-04-17 01:35:22,ASHA-DEW-007,44,M,"ji machlana, shareer me dard, ulti, lal daane","high fever, joint pain, severe headache, vomiting",dengue_like,23.013721,76.006269,Dewas,5
+b3dc6d4f-2be2-47b9-8983-464f9479e424,2026-04-12 06:35:22,ASHA-DEW-013,76,F,"sir dard, BP badha hua","heavy bleeding, high BP",maternal_emergency,21.941028,75.560137,Khargone,4
+02ba8b58-4623-4140-9d21-3567e74785a0,2026-04-15 18:35:22,ASHA-DHA-009,6,M,"dhundla dikhna, soojan, saanp ne kaata","bleeding from gums, blurred vision, swelling at bite site",snakebite,22.716989,76.340944,Dewas,5
+ff6613bb-976a-44dc-b3ee-a9d9dac2dfa9,2026-04-12 18:35:22,ASHA-BUR-007,2,F,"sir me dard, tez bukhar, lal daane","severe headache, muscle pain, nausea",dengue_like,22.924373,75.890244,Indore,3
+03211cb0-8384-494e-8735-114059e5a99a,2026-04-17 10:35:22,ASHA-IND-004,59,F,"shareer me dard, lal daane, ulti","rash, severe headache, retro-orbital pain",dengue_like,22.738024,75.783047,Indore,4
+c069bceb-6811-41de-961c-6bd8ea46364e,2026-04-14 11:35:22,ASHA-KHA-008,5,F,"tez bukhar, shareer me dard, jodon me dard","high fever, nausea, retro-orbital pain",dengue_like,22.67957,75.9198,Indore,5
+e44bf563-4173-4978-a909-7a1dd6966ca3,2026-04-16 04:35:22,ASHA-IND-007,15,F,"dast, pet me dard","fever, abdominal cramps",gastro_acute,23.163863,75.871942,Ujjain,3
+9e51139d-caf7-471a-8081-29add23725f4,2026-04-11 12:35:22,ASHA-KHA-009,62,M,"pasina, kaanpna, badan dard, thandi lagna","intermittent fever, headache, chills, body ache",malaria_like,21.921686,75.510135,Khargone,3
+4f8fa4fc-f8f8-426f-873b-740bad703c11,2026-04-15 13:35:22,ASHA-KHA-005,68,M,"pasina, badan dard, kaanpna, bukhar aata jaata","sweating, rigors, intermittent fever, headache",malaria_like,22.174472,75.099982,Dhar,5
+4650453a-b98a-405b-870c-b93b32401edc,2026-04-13 14:35:22,ASHA-DHA-006,23,F,"bukhar, khansi, saans me taklif","wheezing, cough, rapid breathing",ari_pneumonia,22.759124,75.860312,Indore,2
+4afeab02-abf3-494c-9193-570b2c3a98bd,2026-04-16 20:35:22,ASHA-UJJ-008,54,M,"badan dard, thandi lagna","nausea, chills",malaria_like,22.638501,74.89852,Dhar,1
+ae375f59-dd74-4ea9-a547-96ce456f4718,2026-04-17 17:35:22,ASHA-KHA-015,44,F,"pasina, bukhar aata jaata","nausea, headache",malaria_like,22.650347,75.890335,Indore,5
+bb7802f9-786e-49d9-8ed9-19441a53a29a,2026-04-13 16:35:22,ASHA-KHA-002,48,F,"tez saans, chhati dhansna, khansi","difficulty breathing, rapid breathing, chest indrawing",ari_pneumonia,23.459127,75.400051,Ujjain,3
+3445b08e-b150-47da-90b6-3af1b34effa6,2026-04-16 15:35:22,ASHA-DEW-008,20,M,"pasina, kaanpna","body ache, headache",malaria_like,22.7409,75.879953,Indore,3
+695795b8-c520-4d3d-8d6f-f7723efec3b6,2026-04-13 17:35:22,ASHA-DEW-004,48,F,"dast, pet me dard, ulti","vomiting, fever, abdominal cramps",gastro_acute,23.449643,75.644317,Ujjain,3
+56716c9e-e880-4f90-a14f-7b1244eda590,2026-04-18 03:35:22,ASHA-KHA-005,43,F,"sir me dard, tez bukhar, lal daane","joint pain, muscle pain, vomiting",dengue_like,22.858187,75.905251,Indore,5
+843f8e87-2d4b-454f-b523-2d0215e6d747,2026-04-12 09:35:22,ASHA-UJJ-010,4,F,"saanp ne kaata, soojan, saans me taklif","difficulty breathing, bite mark, bleeding from gums",snakebite,22.643909,76.719553,Dewas,3
+cbe93b04-69ba-4fe4-a096-5ad029e24b09,2026-04-17 19:35:22,ASHA-IND-011,69,F,"ji machlana, jodon me dard, sir me dard, tez bukhar","muscle pain, rash, nausea, severe headache",dengue_like,22.696381,75.710251,Indore,5

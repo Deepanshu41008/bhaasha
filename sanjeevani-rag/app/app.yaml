@@ -1,0 +1,16 @@
+command:
+  - streamlit
+  - run
+  - app.py
+  - --server.port
+  - "8000"
+
+env:
+  - name: STREAMLIT_BROWSER_GATHER_USAGE_STATS
+    value: "false"
+  - name: STREAMLIT_SERVER_ENABLE_CORS
+    value: "true"
+  - name: DATABRICKS_WAREHOUSE_ID
+    value: "1dabc4f0ba6299c7"
+  - name: SARVAM_API_KEY
+    value: "INSER_YOUR_API_HERE"

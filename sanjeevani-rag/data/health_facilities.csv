@@ -1,0 +1,45 @@
+facility_id,facility_name,facility_type,state,district,block,latitude,longitude,beds,ownership,phone,operating_hours
+MP-IND-DH-001,MY Hospital Indore,DH,Madhya Pradesh,Indore,Indore Urban,22.7196,75.8577,500,Government,0731-2670487,24x7
+MP-IND-DH-002,CHL Hospital Indore,DH,Madhya Pradesh,Indore,Indore Urban,22.7241,75.8839,200,Government,0731-2116739,24x7
+MP-DEW-DH-003,District Hospital Dewas,DH,Madhya Pradesh,Dewas,Dewas,22.9623,76.0508,150,Government,0731-2026225,24x7
+MP-UJJ-DH-004,District Hospital Ujjain,DH,Madhya Pradesh,Ujjain,Ujjain,23.1765,75.7885,200,Government,0731-2777572,24x7
+MP-DHA-DH-005,District Hospital Dhar,DH,Madhya Pradesh,Dhar,Dhar,22.5972,75.2997,120,Government,0731-2288389,24x7
+MP-KHA-DH-006,District Hospital Khandwa,DH,Madhya Pradesh,Khandwa,Khandwa,21.8243,76.3483,130,Government,0731-2256787,24x7
+MP-KHA-DH-007,District Hospital Khargone,DH,Madhya Pradesh,Khargone,Khargone,21.8242,75.6145,100,Government,0731-2234053,24x7
+MP-BUR-DH-008,District Hospital Burhanpur,DH,Madhya Pradesh,Burhanpur,Burhanpur,21.3092,76.2256,80,Government,0731-2146316,24x7
+MP-IND-CHC-009,CHC Mhow,CHC,Madhya Pradesh,Indore,Mhow,22.5548,75.7633,30,Government,0731-2772246,24x7
+MP-IND-CHC-010,CHC Sanwer,CHC,Madhya Pradesh,Indore,Sanwer,22.9714,75.8266,30,Government,0731-2107473,24x7
+MP-IND-CHC-011,CHC Depalpur,CHC,Madhya Pradesh,Indore,Depalpur,22.8547,75.5366,30,Government,0731-2709570,24x7
+MP-IND-CHC-012,CHC Hatod,CHC,Madhya Pradesh,Indore,Hatod,22.7733,75.735,20,Government,0731-2776646,24x7
+MP-IND-CHC-013,CHC Manpur,CHC,Madhya Pradesh,Indore,Manpur,22.4343,75.62,20,Government,0731-2935518,24x7
+MP-DEW-CHC-014,CHC Sonkatch,CHC,Madhya Pradesh,Dewas,Sonkatch,22.9761,76.3608,30,Government,0731-2571858,24x7
+MP-DEW-CHC-015,CHC Khategaon,CHC,Madhya Pradesh,Dewas,Khategaon,22.5966,76.9107,25,Government,0731-2091161,24x7
+MP-DEW-CHC-016,CHC Bagli,CHC,Madhya Pradesh,Dewas,Bagli,22.6358,76.3454,20,Government,0731-2619176,24x7
+MP-UJJ-CHC-017,CHC Mahidpur,CHC,Madhya Pradesh,Ujjain,Mahidpur,23.4785,75.6517,30,Government,0731-2442417,24x7
+MP-UJJ-CHC-018,CHC Tarana,CHC,Madhya Pradesh,Ujjain,Tarana,23.3281,76.0317,25,Government,0731-2033326,24x7
+MP-DHA-CHC-019,CHC Badnawar,CHC,Madhya Pradesh,Dhar,Badnawar,23.021,75.6261,25,Government,0731-2031244,24x7
+MP-DHA-CHC-020,CHC Dharampuri,CHC,Madhya Pradesh,Dhar,Dharampuri,22.1491,75.344,20,Government,0731-2098246,24x7
+MP-BUR-CHC-021,CHC Nepanagar,CHC,Madhya Pradesh,Burhanpur,Nepanagar,21.4571,76.3919,20,Government,0731-2229258,24x7
+MP-IND-PHC-022,PHC Rau,PHC,Madhya Pradesh,Indore,Indore Urban,22.677,75.8103,6,Government,0731-2243962,8AM-5PM
+MP-IND-PHC-023,PHC Betma,PHC,Madhya Pradesh,Indore,Mhow,22.6839,75.614,6,Government,0731-2529903,8AM-5PM
+MP-IND-PHC-024,PHC Simrol,PHC,Madhya Pradesh,Indore,Mhow,22.5391,75.8947,6,Government,0731-2631262,8AM-5PM
+MP-IND-PHC-025,PHC Gautampura,PHC,Madhya Pradesh,Indore,Depalpur,22.8643,75.4955,6,Government,0731-2027824,8AM-5PM
+MP-IND-PHC-026,PHC Kampel,PHC,Madhya Pradesh,Indore,Sanwer,22.899,75.8985,6,Government,0731-2588508,8AM-5PM
+MP-IND-PHC-027,PHC Manasa,PHC,Madhya Pradesh,Indore,Manpur,22.415,75.58,4,Government,0731-2208496,8AM-5PM
+MP-DEW-PHC-028,PHC Tonk Khurd,PHC,Madhya Pradesh,Dewas,Dewas,22.885,76.12,6,Government,0731-2750800,8AM-5PM
+MP-DEW-PHC-029,PHC Kannod,PHC,Madhya Pradesh,Dewas,Kannod,22.67,76.7433,6,Government,0731-2681453,8AM-5PM
+MP-UJJ-PHC-030,PHC Nagda,PHC,Madhya Pradesh,Ujjain,Nagda,23.4572,75.4155,6,Government,0731-2735392,8AM-5PM
+MP-UJJ-PHC-031,PHC Barnagar,PHC,Madhya Pradesh,Ujjain,Barnagar,23.049,75.5683,6,Government,0731-2571412,8AM-5PM
+MP-DHA-PHC-032,PHC Sardarpur,PHC,Madhya Pradesh,Dhar,Sardarpur,22.69,74.89,4,Government,0731-2439898,8AM-5PM
+MP-DHA-PHC-033,PHC Manawar,PHC,Madhya Pradesh,Dhar,Manawar,22.235,75.0885,4,Government,0731-2231148,8AM-5PM
+MP-KHA-PHC-034,PHC Pandhana,PHC,Madhya Pradesh,Khandwa,Pandhana,21.6853,76.2072,6,Government,0731-2471029,8AM-5PM
+MP-KHA-PHC-035,PHC Punasa,PHC,Madhya Pradesh,Khandwa,Punasa,22.2369,76.376,4,Government,0731-2617889,8AM-5PM
+MP-KHA-PHC-036,PHC Kasrawad,PHC,Madhya Pradesh,Khargone,Kasrawad,21.92,75.5947,4,Government,0731-2291704,8AM-5PM
+MP-KHA-PHC-037,PHC Bhikangaon,PHC,Madhya Pradesh,Khargone,Bhikangaon,21.5555,75.9505,4,Government,0731-2848749,8AM-5PM
+MP-IND-SC-038,SC Limbodi,SC,Madhya Pradesh,Indore,Sanwer,22.935,75.795,0,Government,0731-2911527,8AM-5PM
+MP-IND-SC-039,SC Palda,SC,Madhya Pradesh,Indore,Indore Urban,22.752,75.823,0,Government,0731-2006814,8AM-5PM
+MP-IND-SC-040,SC Pipliyahana,SC,Madhya Pradesh,Indore,Indore Urban,22.7398,75.8655,0,Government,0731-2795667,8AM-5PM
+MP-IND-SC-041,SC Khajrana,SC,Madhya Pradesh,Indore,Indore Urban,22.715,75.902,0,Government,0731-2844962,8AM-5PM
+MP-IND-SC-042,SC Rangwasa,SC,Madhya Pradesh,Indore,Mhow,22.58,75.71,0,Government,0731-2167414,8AM-5PM
+MP-DEW-SC-043,SC Tejpur,SC,Madhya Pradesh,Dewas,Dewas,22.93,76.08,0,Government,0731-2732052,8AM-5PM
+MP-UJJ-SC-044,SC Unhel,SC,Madhya Pradesh,Ujjain,Ujjain,23.21,75.82,0,Government,0731-2443143,8AM-5PM

@@ -1,0 +1,1662 @@
+facility_id,drug_name,drug_category,nlem_level,quantity_available,unit,last_restocked,stock_status,critical_flag
+MP-IND-DH-001,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,76,vials,2026-04-11,IN_STOCK,True
+MP-IND-DH-001,Artesunate Injection 60mg,Antimalarial,P,6,vials,2026-03-10,LOW,True
+MP-IND-DH-001,Artemether-Lumefantrine Tablets,Antimalarial,P,8,tablets,2026-03-14,LOW,True
+MP-IND-DH-001,Chloroquine Phosphate 250mg,Antimalarial,P,162,tablets,2026-04-12,IN_STOCK,False
+MP-IND-DH-001,Primaquine 7.5mg,Antimalarial,P,158,tablets,2026-03-12,IN_STOCK,False
+MP-IND-DH-001,Dengue NS1 Antigen Test Kit,Diagnostic,P,4,kits,2026-02-27,LOW,True
+MP-IND-DH-001,Platelet Rich Plasma,Blood Product,S,4,units,2026-02-21,LOW,True
+MP-IND-DH-001,Normal Saline 0.9% (1L),IV Fluid,P,79,bottles,2026-04-07,IN_STOCK,True
+MP-IND-DH-001,Ringer Lactate (1L),IV Fluid,P,67,bottles,2026-03-04,IN_STOCK,True
+MP-IND-DH-001,ORS Packets (WHO formula),ORS,P,54,packets,2026-03-14,IN_STOCK,True
+MP-IND-DH-001,Zinc Sulphate Dispersible 20mg,Micronutrient,P,107,tablets,2026-03-19,IN_STOCK,False
+MP-IND-DH-001,Metronidazole 400mg,Antiprotozoal,P,122,tablets,2026-03-05,IN_STOCK,False
+MP-IND-DH-001,Amoxicillin 500mg,Antibiotic,P,80,capsules,2026-04-03,IN_STOCK,False
+MP-IND-DH-001,Azithromycin 500mg,Antibiotic,P,146,tablets,2026-03-23,IN_STOCK,False
+MP-IND-DH-001,Ciprofloxacin 500mg,Antibiotic,P,120,tablets,2026-02-18,IN_STOCK,False
+MP-IND-DH-001,Cotrimoxazole Paediatric,Antibiotic,P,146,tablets,2026-04-04,IN_STOCK,False
+MP-IND-DH-001,Gentamicin Injection 80mg,Antibiotic,P,91,ampoules,2026-04-08,IN_STOCK,True
+MP-IND-DH-001,Ceftriaxone Injection 1g,Antibiotic,S,66,vials,2026-03-01,IN_STOCK,True
+MP-IND-DH-001,Oxytocin Injection 5IU,Obstetric,P,84,ampoules,2026-03-25,IN_STOCK,True
+MP-IND-DH-001,Misoprostol 200mcg,Obstetric,P,98,tablets,2026-03-17,IN_STOCK,True
+MP-IND-DH-001,Magnesium Sulphate Injection 50%,Anticonvulsant,P,2,ampoules,2026-04-08,LOW,True
+MP-IND-DH-001,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,87,ampoules,2026-03-10,IN_STOCK,True
+MP-IND-DH-001,Hydrocortisone Injection 100mg,Corticosteroid,P,92,vials,2026-03-15,IN_STOCK,True
+MP-IND-DH-001,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,34,ampoules,2026-03-05,IN_STOCK,True
+MP-IND-DH-001,Paracetamol 500mg,Analgesic,P,134,tablets,2026-02-27,IN_STOCK,False
+MP-IND-DH-001,Ibuprofen 400mg,NSAID,P,94,tablets,2026-03-30,IN_STOCK,False
+MP-IND-DH-001,Diclofenac Sodium 50mg,NSAID,P,182,tablets,2026-04-17,IN_STOCK,False
+MP-IND-DH-001,Salbutamol Inhaler 100mcg,Bronchodilator,P,133,inhalers,2026-03-16,IN_STOCK,False
+MP-IND-DH-001,Dexamethasone Injection 4mg,Corticosteroid,P,46,ampoules,2026-02-21,IN_STOCK,True
+MP-IND-DH-001,Prednisolone 5mg,Corticosteroid,P,195,tablets,2026-03-10,IN_STOCK,False
+MP-IND-DH-001,Metformin 500mg,Antidiabetic,P,161,tablets,2026-02-28,IN_STOCK,False
+MP-IND-DH-001,Glimepiride 1mg,Antidiabetic,P,66,tablets,2026-03-10,IN_STOCK,False
+MP-IND-DH-001,Amlodipine 5mg,Antihypertensive,P,70,tablets,2026-04-10,IN_STOCK,False
+MP-IND-DH-001,Enalapril 5mg,Antihypertensive,P,144,tablets,2026-04-02,IN_STOCK,False
+MP-IND-DH-001,Tetanus Toxoid Injection,Vaccine,P,43,doses,2026-04-12,IN_STOCK,True
+MP-IND-DH-001,Anti-Tetanus Serum (ATS),Antiserum,P,49,vials,2026-04-09,IN_STOCK,True
+MP-IND-DH-001,Anti-Rabies Vaccine (ARV),Vaccine,P,54,doses,2026-04-01,IN_STOCK,True
+MP-IND-DH-001,Rabies Immunoglobulin (RIG),Immunoglobulin,S,60,vials,2026-02-17,IN_STOCK,True
+MP-IND-DH-001,Activated Charcoal Powder,Antidote,P,58,sachets,2026-03-03,IN_STOCK,True
+MP-IND-DH-001,Pralidoxime (PAM) Injection,Antidote,S,80,vials,2026-03-20,IN_STOCK,True
+MP-IND-DH-002,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,64,vials,2026-04-03,IN_STOCK,True
+MP-IND-DH-002,Artesunate Injection 60mg,Antimalarial,P,9,vials,2026-04-03,LOW,True
+MP-IND-DH-002,Artemether-Lumefantrine Tablets,Antimalarial,P,1,tablets,2026-04-03,LOW,True
+MP-IND-DH-002,Chloroquine Phosphate 250mg,Antimalarial,P,2,tablets,2026-02-21,LOW,False
+MP-IND-DH-002,Primaquine 7.5mg,Antimalarial,P,197,tablets,2026-04-02,IN_STOCK,False
+MP-IND-DH-002,Dengue NS1 Antigen Test Kit,Diagnostic,P,49,kits,2026-03-02,IN_STOCK,True
+MP-IND-DH-002,Platelet Rich Plasma,Blood Product,S,93,units,2026-04-02,IN_STOCK,True
+MP-IND-DH-002,Normal Saline 0.9% (1L),IV Fluid,P,57,bottles,2026-04-11,IN_STOCK,True
+MP-IND-DH-002,Ringer Lactate (1L),IV Fluid,P,87,bottles,2026-03-22,IN_STOCK,True
+MP-IND-DH-002,ORS Packets (WHO formula),ORS,P,45,packets,2026-04-14,IN_STOCK,True
+MP-IND-DH-002,Zinc Sulphate Dispersible 20mg,Micronutrient,P,152,tablets,2026-02-25,IN_STOCK,False
+MP-IND-DH-002,Metronidazole 400mg,Antiprotozoal,P,129,tablets,2026-04-05,IN_STOCK,False
+MP-IND-DH-002,Amoxicillin 500mg,Antibiotic,P,180,capsules,2026-04-09,IN_STOCK,False
+MP-IND-DH-002,Azithromycin 500mg,Antibiotic,P,137,tablets,2026-03-19,IN_STOCK,False
+MP-IND-DH-002,Ciprofloxacin 500mg,Antibiotic,P,85,tablets,2026-03-20,IN_STOCK,False
+MP-IND-DH-002,Cotrimoxazole Paediatric,Antibiotic,P,91,tablets,2026-04-14,IN_STOCK,False
+MP-IND-DH-002,Gentamicin Injection 80mg,Antibiotic,P,34,ampoules,2026-04-12,IN_STOCK,True
+MP-IND-DH-002,Ceftriaxone Injection 1g,Antibiotic,S,54,vials,2026-03-22,IN_STOCK,True
+MP-IND-DH-002,Oxytocin Injection 5IU,Obstetric,P,84,ampoules,2026-02-19,IN_STOCK,True
+MP-IND-DH-002,Misoprostol 200mcg,Obstetric,P,82,tablets,2026-04-01,IN_STOCK,True
+MP-IND-DH-002,Magnesium Sulphate Injection 50%,Anticonvulsant,P,69,ampoules,2026-03-21,IN_STOCK,True
+MP-IND-DH-002,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,95,ampoules,2026-04-08,IN_STOCK,True
+MP-IND-DH-002,Hydrocortisone Injection 100mg,Corticosteroid,P,40,vials,2026-03-11,IN_STOCK,True
+MP-IND-DH-002,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,6,ampoules,2026-04-14,LOW,True
+MP-IND-DH-002,Paracetamol 500mg,Analgesic,P,16,tablets,2026-03-16,LOW,False
+MP-IND-DH-002,Ibuprofen 400mg,NSAID,P,106,tablets,2026-04-14,IN_STOCK,False
+MP-IND-DH-002,Diclofenac Sodium 50mg,NSAID,P,86,tablets,2026-02-22,IN_STOCK,False
+MP-IND-DH-002,Salbutamol Inhaler 100mcg,Bronchodilator,P,83,inhalers,2026-03-05,IN_STOCK,False
+MP-IND-DH-002,Dexamethasone Injection 4mg,Corticosteroid,P,64,ampoules,2026-03-11,IN_STOCK,True
+MP-IND-DH-002,Prednisolone 5mg,Corticosteroid,P,86,tablets,2026-03-22,IN_STOCK,False
+MP-IND-DH-002,Metformin 500mg,Antidiabetic,P,199,tablets,2026-03-28,IN_STOCK,False
+MP-IND-DH-002,Glimepiride 1mg,Antidiabetic,P,118,tablets,2026-03-06,IN_STOCK,False
+MP-IND-DH-002,Amlodipine 5mg,Antihypertensive,P,127,tablets,2026-04-01,IN_STOCK,False
+MP-IND-DH-002,Enalapril 5mg,Antihypertensive,P,142,tablets,2026-03-19,IN_STOCK,False
+MP-IND-DH-002,Tetanus Toxoid Injection,Vaccine,P,42,doses,2026-04-17,IN_STOCK,True
+MP-IND-DH-002,Anti-Tetanus Serum (ATS),Antiserum,P,45,vials,2026-04-13,IN_STOCK,True
+MP-IND-DH-002,Anti-Rabies Vaccine (ARV),Vaccine,P,49,doses,2026-02-17,IN_STOCK,True
+MP-IND-DH-002,Rabies Immunoglobulin (RIG),Immunoglobulin,S,4,vials,2026-03-25,LOW,True
+MP-IND-DH-002,Activated Charcoal Powder,Antidote,P,71,sachets,2026-03-09,IN_STOCK,True
+MP-IND-DH-002,Pralidoxime (PAM) Injection,Antidote,S,100,vials,2026-04-17,IN_STOCK,True
+MP-DEW-DH-003,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,46,vials,2026-02-20,IN_STOCK,True
+MP-DEW-DH-003,Artesunate Injection 60mg,Antimalarial,P,46,vials,2026-03-01,IN_STOCK,True
+MP-DEW-DH-003,Artemether-Lumefantrine Tablets,Antimalarial,P,59,tablets,2026-03-03,IN_STOCK,True
+MP-DEW-DH-003,Chloroquine Phosphate 250mg,Antimalarial,P,133,tablets,2026-03-16,IN_STOCK,False
+MP-DEW-DH-003,Primaquine 7.5mg,Antimalarial,P,79,tablets,2026-04-12,IN_STOCK,False
+MP-DEW-DH-003,Dengue NS1 Antigen Test Kit,Diagnostic,P,38,kits,2026-04-17,IN_STOCK,True
+MP-DEW-DH-003,Platelet Rich Plasma,Blood Product,S,66,units,2026-04-07,IN_STOCK,True
+MP-DEW-DH-003,Normal Saline 0.9% (1L),IV Fluid,P,87,bottles,2026-03-13,IN_STOCK,True
+MP-DEW-DH-003,Ringer Lactate (1L),IV Fluid,P,0,bottles,2026-04-13,OUT_OF_STOCK,True
+MP-DEW-DH-003,ORS Packets (WHO formula),ORS,P,52,packets,2026-03-14,IN_STOCK,True
+MP-DEW-DH-003,Zinc Sulphate Dispersible 20mg,Micronutrient,P,12,tablets,2026-03-11,LOW,False
+MP-DEW-DH-003,Metronidazole 400mg,Antiprotozoal,P,176,tablets,2026-04-09,IN_STOCK,False
+MP-DEW-DH-003,Amoxicillin 500mg,Antibiotic,P,12,capsules,2026-02-19,LOW,False
+MP-DEW-DH-003,Azithromycin 500mg,Antibiotic,P,76,tablets,2026-02-19,IN_STOCK,False
+MP-DEW-DH-003,Ciprofloxacin 500mg,Antibiotic,P,129,tablets,2026-03-06,IN_STOCK,False
+MP-DEW-DH-003,Cotrimoxazole Paediatric,Antibiotic,P,170,tablets,2026-03-09,IN_STOCK,False
+MP-DEW-DH-003,Gentamicin Injection 80mg,Antibiotic,P,63,ampoules,2026-02-21,IN_STOCK,True
+MP-DEW-DH-003,Ceftriaxone Injection 1g,Antibiotic,S,55,vials,2026-02-20,IN_STOCK,True
+MP-DEW-DH-003,Oxytocin Injection 5IU,Obstetric,P,75,ampoules,2026-02-26,IN_STOCK,True
+MP-DEW-DH-003,Misoprostol 200mcg,Obstetric,P,64,tablets,2026-03-31,IN_STOCK,True
+MP-DEW-DH-003,Magnesium Sulphate Injection 50%,Anticonvulsant,P,81,ampoules,2026-02-21,IN_STOCK,True
+MP-DEW-DH-003,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,58,ampoules,2026-02-24,IN_STOCK,True
+MP-DEW-DH-003,Hydrocortisone Injection 100mg,Corticosteroid,P,62,vials,2026-04-03,IN_STOCK,True
+MP-DEW-DH-003,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,75,ampoules,2026-03-31,IN_STOCK,True
+MP-DEW-DH-003,Paracetamol 500mg,Analgesic,P,137,tablets,2026-03-26,IN_STOCK,False
+MP-DEW-DH-003,Ibuprofen 400mg,NSAID,P,168,tablets,2026-03-05,IN_STOCK,False
+MP-DEW-DH-003,Diclofenac Sodium 50mg,NSAID,P,150,tablets,2026-04-16,IN_STOCK,False
+MP-DEW-DH-003,Salbutamol Inhaler 100mcg,Bronchodilator,P,132,inhalers,2026-04-06,IN_STOCK,False
+MP-DEW-DH-003,Dexamethasone Injection 4mg,Corticosteroid,P,37,ampoules,2026-04-11,IN_STOCK,True
+MP-DEW-DH-003,Prednisolone 5mg,Corticosteroid,P,154,tablets,2026-03-02,IN_STOCK,False
+MP-DEW-DH-003,Metformin 500mg,Antidiabetic,P,177,tablets,2026-03-10,IN_STOCK,False
+MP-DEW-DH-003,Glimepiride 1mg,Antidiabetic,P,95,tablets,2026-03-24,IN_STOCK,False
+MP-DEW-DH-003,Amlodipine 5mg,Antihypertensive,P,114,tablets,2026-04-01,IN_STOCK,False
+MP-DEW-DH-003,Enalapril 5mg,Antihypertensive,P,14,tablets,2026-04-17,LOW,False
+MP-DEW-DH-003,Tetanus Toxoid Injection,Vaccine,P,58,doses,2026-03-25,IN_STOCK,True
+MP-DEW-DH-003,Anti-Tetanus Serum (ATS),Antiserum,P,75,vials,2026-03-09,IN_STOCK,True
+MP-DEW-DH-003,Anti-Rabies Vaccine (ARV),Vaccine,P,71,doses,2026-03-16,IN_STOCK,True
+MP-DEW-DH-003,Rabies Immunoglobulin (RIG),Immunoglobulin,S,84,vials,2026-03-04,IN_STOCK,True
+MP-DEW-DH-003,Activated Charcoal Powder,Antidote,P,86,sachets,2026-03-06,IN_STOCK,True
+MP-DEW-DH-003,Pralidoxime (PAM) Injection,Antidote,S,55,vials,2026-03-09,IN_STOCK,True
+MP-UJJ-DH-004,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,33,vials,2026-03-29,IN_STOCK,True
+MP-UJJ-DH-004,Artesunate Injection 60mg,Antimalarial,P,74,vials,2026-03-19,IN_STOCK,True
+MP-UJJ-DH-004,Artemether-Lumefantrine Tablets,Antimalarial,P,98,tablets,2026-03-18,IN_STOCK,True
+MP-UJJ-DH-004,Chloroquine Phosphate 250mg,Antimalarial,P,109,tablets,2026-03-06,IN_STOCK,False
+MP-UJJ-DH-004,Primaquine 7.5mg,Antimalarial,P,17,tablets,2026-03-06,LOW,False
+MP-UJJ-DH-004,Dengue NS1 Antigen Test Kit,Diagnostic,P,63,kits,2026-03-05,IN_STOCK,True
+MP-UJJ-DH-004,Platelet Rich Plasma,Blood Product,S,51,units,2026-04-16,IN_STOCK,True
+MP-UJJ-DH-004,Normal Saline 0.9% (1L),IV Fluid,P,42,bottles,2026-03-19,IN_STOCK,True
+MP-UJJ-DH-004,Ringer Lactate (1L),IV Fluid,P,57,bottles,2026-03-03,IN_STOCK,True
+MP-UJJ-DH-004,ORS Packets (WHO formula),ORS,P,64,packets,2026-04-08,IN_STOCK,True
+MP-UJJ-DH-004,Zinc Sulphate Dispersible 20mg,Micronutrient,P,67,tablets,2026-02-19,IN_STOCK,False
+MP-UJJ-DH-004,Metronidazole 400mg,Antiprotozoal,P,93,tablets,2026-02-27,IN_STOCK,False
+MP-UJJ-DH-004,Amoxicillin 500mg,Antibiotic,P,111,capsules,2026-02-25,IN_STOCK,False
+MP-UJJ-DH-004,Azithromycin 500mg,Antibiotic,P,198,tablets,2026-03-19,IN_STOCK,False
+MP-UJJ-DH-004,Ciprofloxacin 500mg,Antibiotic,P,8,tablets,2026-02-18,LOW,False
+MP-UJJ-DH-004,Cotrimoxazole Paediatric,Antibiotic,P,182,tablets,2026-04-09,IN_STOCK,False
+MP-UJJ-DH-004,Gentamicin Injection 80mg,Antibiotic,P,73,ampoules,2026-02-28,IN_STOCK,True
+MP-UJJ-DH-004,Ceftriaxone Injection 1g,Antibiotic,S,97,vials,2026-03-21,IN_STOCK,True
+MP-UJJ-DH-004,Oxytocin Injection 5IU,Obstetric,P,53,ampoules,2026-03-01,IN_STOCK,True
+MP-UJJ-DH-004,Misoprostol 200mcg,Obstetric,P,64,tablets,2026-02-23,IN_STOCK,True
+MP-UJJ-DH-004,Magnesium Sulphate Injection 50%,Anticonvulsant,P,99,ampoules,2026-03-17,IN_STOCK,True
+MP-UJJ-DH-004,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,42,ampoules,2026-03-03,IN_STOCK,True
+MP-UJJ-DH-004,Hydrocortisone Injection 100mg,Corticosteroid,P,73,vials,2026-02-19,IN_STOCK,True
+MP-UJJ-DH-004,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,62,ampoules,2026-03-24,IN_STOCK,True
+MP-UJJ-DH-004,Paracetamol 500mg,Analgesic,P,120,tablets,2026-04-13,IN_STOCK,False
+MP-UJJ-DH-004,Ibuprofen 400mg,NSAID,P,150,tablets,2026-03-14,IN_STOCK,False
+MP-UJJ-DH-004,Diclofenac Sodium 50mg,NSAID,P,81,tablets,2026-04-04,IN_STOCK,False
+MP-UJJ-DH-004,Salbutamol Inhaler 100mcg,Bronchodilator,P,165,inhalers,2026-02-19,IN_STOCK,False
+MP-UJJ-DH-004,Dexamethasone Injection 4mg,Corticosteroid,P,35,ampoules,2026-02-22,IN_STOCK,True
+MP-UJJ-DH-004,Prednisolone 5mg,Corticosteroid,P,163,tablets,2026-03-18,IN_STOCK,False
+MP-UJJ-DH-004,Metformin 500mg,Antidiabetic,P,12,tablets,2026-03-29,LOW,False
+MP-UJJ-DH-004,Glimepiride 1mg,Antidiabetic,P,173,tablets,2026-03-14,IN_STOCK,False
+MP-UJJ-DH-004,Amlodipine 5mg,Antihypertensive,P,122,tablets,2026-03-17,IN_STOCK,False
+MP-UJJ-DH-004,Enalapril 5mg,Antihypertensive,P,177,tablets,2026-03-17,IN_STOCK,False
+MP-UJJ-DH-004,Tetanus Toxoid Injection,Vaccine,P,84,doses,2026-03-02,IN_STOCK,True
+MP-UJJ-DH-004,Anti-Tetanus Serum (ATS),Antiserum,P,49,vials,2026-03-09,IN_STOCK,True
+MP-UJJ-DH-004,Anti-Rabies Vaccine (ARV),Vaccine,P,36,doses,2026-04-12,IN_STOCK,True
+MP-UJJ-DH-004,Rabies Immunoglobulin (RIG),Immunoglobulin,S,92,vials,2026-04-06,IN_STOCK,True
+MP-UJJ-DH-004,Activated Charcoal Powder,Antidote,P,60,sachets,2026-03-19,IN_STOCK,True
+MP-UJJ-DH-004,Pralidoxime (PAM) Injection,Antidote,S,81,vials,2026-03-31,IN_STOCK,True
+MP-DHA-DH-005,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,65,vials,2026-02-23,IN_STOCK,True
+MP-DHA-DH-005,Artesunate Injection 60mg,Antimalarial,P,9,vials,2026-04-14,LOW,True
+MP-DHA-DH-005,Artemether-Lumefantrine Tablets,Antimalarial,P,41,tablets,2026-02-27,IN_STOCK,True
+MP-DHA-DH-005,Chloroquine Phosphate 250mg,Antimalarial,P,76,tablets,2026-02-28,IN_STOCK,False
+MP-DHA-DH-005,Primaquine 7.5mg,Antimalarial,P,8,tablets,2026-04-05,LOW,False
+MP-DHA-DH-005,Dengue NS1 Antigen Test Kit,Diagnostic,P,63,kits,2026-04-09,IN_STOCK,True
+MP-DHA-DH-005,Platelet Rich Plasma,Blood Product,S,60,units,2026-03-19,IN_STOCK,True
+MP-DHA-DH-005,Normal Saline 0.9% (1L),IV Fluid,P,54,bottles,2026-03-10,IN_STOCK,True
+MP-DHA-DH-005,Ringer Lactate (1L),IV Fluid,P,47,bottles,2026-02-27,IN_STOCK,True
+MP-DHA-DH-005,ORS Packets (WHO formula),ORS,P,46,packets,2026-03-11,IN_STOCK,True
+MP-DHA-DH-005,Zinc Sulphate Dispersible 20mg,Micronutrient,P,10,tablets,2026-03-12,LOW,False
+MP-DHA-DH-005,Metronidazole 400mg,Antiprotozoal,P,162,tablets,2026-03-23,IN_STOCK,False
+MP-DHA-DH-005,Amoxicillin 500mg,Antibiotic,P,116,capsules,2026-04-13,IN_STOCK,False
+MP-DHA-DH-005,Azithromycin 500mg,Antibiotic,P,128,tablets,2026-04-11,IN_STOCK,False
+MP-DHA-DH-005,Ciprofloxacin 500mg,Antibiotic,P,143,tablets,2026-02-22,IN_STOCK,False
+MP-DHA-DH-005,Cotrimoxazole Paediatric,Antibiotic,P,96,tablets,2026-02-26,IN_STOCK,False
+MP-DHA-DH-005,Gentamicin Injection 80mg,Antibiotic,P,77,ampoules,2026-03-14,IN_STOCK,True
+MP-DHA-DH-005,Ceftriaxone Injection 1g,Antibiotic,S,97,vials,2026-03-07,IN_STOCK,True
+MP-DHA-DH-005,Oxytocin Injection 5IU,Obstetric,P,95,ampoules,2026-04-11,IN_STOCK,True
+MP-DHA-DH-005,Misoprostol 200mcg,Obstetric,P,91,tablets,2026-03-03,IN_STOCK,True
+MP-DHA-DH-005,Magnesium Sulphate Injection 50%,Anticonvulsant,P,99,ampoules,2026-03-07,IN_STOCK,True
+MP-DHA-DH-005,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,94,ampoules,2026-03-19,IN_STOCK,True
+MP-DHA-DH-005,Hydrocortisone Injection 100mg,Corticosteroid,P,67,vials,2026-03-28,IN_STOCK,True
+MP-DHA-DH-005,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,44,ampoules,2026-03-31,IN_STOCK,True
+MP-DHA-DH-005,Paracetamol 500mg,Analgesic,P,128,tablets,2026-02-28,IN_STOCK,False
+MP-DHA-DH-005,Ibuprofen 400mg,NSAID,P,163,tablets,2026-03-27,IN_STOCK,False
+MP-DHA-DH-005,Diclofenac Sodium 50mg,NSAID,P,11,tablets,2026-04-06,LOW,False
+MP-DHA-DH-005,Salbutamol Inhaler 100mcg,Bronchodilator,P,156,inhalers,2026-02-25,IN_STOCK,False
+MP-DHA-DH-005,Dexamethasone Injection 4mg,Corticosteroid,P,68,ampoules,2026-03-13,IN_STOCK,True
+MP-DHA-DH-005,Prednisolone 5mg,Corticosteroid,P,7,tablets,2026-04-12,LOW,False
+MP-DHA-DH-005,Metformin 500mg,Antidiabetic,P,170,tablets,2026-03-17,IN_STOCK,False
+MP-DHA-DH-005,Glimepiride 1mg,Antidiabetic,P,127,tablets,2026-03-04,IN_STOCK,False
+MP-DHA-DH-005,Amlodipine 5mg,Antihypertensive,P,191,tablets,2026-03-20,IN_STOCK,False
+MP-DHA-DH-005,Enalapril 5mg,Antihypertensive,P,89,tablets,2026-03-30,IN_STOCK,False
+MP-DHA-DH-005,Tetanus Toxoid Injection,Vaccine,P,72,doses,2026-03-06,IN_STOCK,True
+MP-DHA-DH-005,Anti-Tetanus Serum (ATS),Antiserum,P,100,vials,2026-03-26,IN_STOCK,True
+MP-DHA-DH-005,Anti-Rabies Vaccine (ARV),Vaccine,P,75,doses,2026-03-26,IN_STOCK,True
+MP-DHA-DH-005,Rabies Immunoglobulin (RIG),Immunoglobulin,S,65,vials,2026-04-03,IN_STOCK,True
+MP-DHA-DH-005,Activated Charcoal Powder,Antidote,P,48,sachets,2026-03-01,IN_STOCK,True
+MP-DHA-DH-005,Pralidoxime (PAM) Injection,Antidote,S,56,vials,2026-04-05,IN_STOCK,True
+MP-KHA-DH-006,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,100,vials,2026-03-10,IN_STOCK,True
+MP-KHA-DH-006,Artesunate Injection 60mg,Antimalarial,P,57,vials,2026-03-30,IN_STOCK,True
+MP-KHA-DH-006,Artemether-Lumefantrine Tablets,Antimalarial,P,34,tablets,2026-03-03,IN_STOCK,True
+MP-KHA-DH-006,Chloroquine Phosphate 250mg,Antimalarial,P,136,tablets,2026-04-15,IN_STOCK,False
+MP-KHA-DH-006,Primaquine 7.5mg,Antimalarial,P,140,tablets,2026-03-04,IN_STOCK,False
+MP-KHA-DH-006,Dengue NS1 Antigen Test Kit,Diagnostic,P,95,kits,2026-04-11,IN_STOCK,True
+MP-KHA-DH-006,Platelet Rich Plasma,Blood Product,S,93,units,2026-03-18,IN_STOCK,True
+MP-KHA-DH-006,Normal Saline 0.9% (1L),IV Fluid,P,39,bottles,2026-04-01,IN_STOCK,True
+MP-KHA-DH-006,Ringer Lactate (1L),IV Fluid,P,41,bottles,2026-03-23,IN_STOCK,True
+MP-KHA-DH-006,ORS Packets (WHO formula),ORS,P,39,packets,2026-04-08,IN_STOCK,True
+MP-KHA-DH-006,Zinc Sulphate Dispersible 20mg,Micronutrient,P,143,tablets,2026-04-12,IN_STOCK,False
+MP-KHA-DH-006,Metronidazole 400mg,Antiprotozoal,P,96,tablets,2026-03-13,IN_STOCK,False
+MP-KHA-DH-006,Amoxicillin 500mg,Antibiotic,P,123,capsules,2026-02-27,IN_STOCK,False
+MP-KHA-DH-006,Azithromycin 500mg,Antibiotic,P,181,tablets,2026-02-18,IN_STOCK,False
+MP-KHA-DH-006,Ciprofloxacin 500mg,Antibiotic,P,175,tablets,2026-03-29,IN_STOCK,False
+MP-KHA-DH-006,Cotrimoxazole Paediatric,Antibiotic,P,81,tablets,2026-03-09,IN_STOCK,False
+MP-KHA-DH-006,Gentamicin Injection 80mg,Antibiotic,P,4,ampoules,2026-03-08,LOW,True
+MP-KHA-DH-006,Ceftriaxone Injection 1g,Antibiotic,S,53,vials,2026-04-02,IN_STOCK,True
+MP-KHA-DH-006,Oxytocin Injection 5IU,Obstetric,P,1,ampoules,2026-03-22,LOW,True
+MP-KHA-DH-006,Misoprostol 200mcg,Obstetric,P,70,tablets,2026-04-15,IN_STOCK,True
+MP-KHA-DH-006,Magnesium Sulphate Injection 50%,Anticonvulsant,P,91,ampoules,2026-04-13,IN_STOCK,True
+MP-KHA-DH-006,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,58,ampoules,2026-03-21,IN_STOCK,True
+MP-KHA-DH-006,Hydrocortisone Injection 100mg,Corticosteroid,P,52,vials,2026-02-18,IN_STOCK,True
+MP-KHA-DH-006,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,40,ampoules,2026-04-07,IN_STOCK,True
+MP-KHA-DH-006,Paracetamol 500mg,Analgesic,P,139,tablets,2026-03-20,IN_STOCK,False
+MP-KHA-DH-006,Ibuprofen 400mg,NSAID,P,143,tablets,2026-03-04,IN_STOCK,False
+MP-KHA-DH-006,Diclofenac Sodium 50mg,NSAID,P,135,tablets,2026-03-16,IN_STOCK,False
+MP-KHA-DH-006,Salbutamol Inhaler 100mcg,Bronchodilator,P,178,inhalers,2026-04-12,IN_STOCK,False
+MP-KHA-DH-006,Dexamethasone Injection 4mg,Corticosteroid,P,74,ampoules,2026-03-10,IN_STOCK,True
+MP-KHA-DH-006,Prednisolone 5mg,Corticosteroid,P,89,tablets,2026-04-03,IN_STOCK,False
+MP-KHA-DH-006,Metformin 500mg,Antidiabetic,P,71,tablets,2026-02-28,IN_STOCK,False
+MP-KHA-DH-006,Glimepiride 1mg,Antidiabetic,P,134,tablets,2026-03-12,IN_STOCK,False
+MP-KHA-DH-006,Amlodipine 5mg,Antihypertensive,P,6,tablets,2026-03-18,LOW,False
+MP-KHA-DH-006,Enalapril 5mg,Antihypertensive,P,179,tablets,2026-02-18,IN_STOCK,False
+MP-KHA-DH-006,Tetanus Toxoid Injection,Vaccine,P,88,doses,2026-03-08,IN_STOCK,True
+MP-KHA-DH-006,Anti-Tetanus Serum (ATS),Antiserum,P,93,vials,2026-03-26,IN_STOCK,True
+MP-KHA-DH-006,Anti-Rabies Vaccine (ARV),Vaccine,P,46,doses,2026-02-22,IN_STOCK,True
+MP-KHA-DH-006,Rabies Immunoglobulin (RIG),Immunoglobulin,S,96,vials,2026-03-30,IN_STOCK,True
+MP-KHA-DH-006,Activated Charcoal Powder,Antidote,P,37,sachets,2026-03-19,IN_STOCK,True
+MP-KHA-DH-006,Pralidoxime (PAM) Injection,Antidote,S,47,vials,2026-02-27,IN_STOCK,True
+MP-KHA-DH-007,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,33,vials,2026-03-06,IN_STOCK,True
+MP-KHA-DH-007,Artesunate Injection 60mg,Antimalarial,P,39,vials,2026-04-05,IN_STOCK,True
+MP-KHA-DH-007,Artemether-Lumefantrine Tablets,Antimalarial,P,96,tablets,2026-03-08,IN_STOCK,True
+MP-KHA-DH-007,Chloroquine Phosphate 250mg,Antimalarial,P,79,tablets,2026-04-04,IN_STOCK,False
+MP-KHA-DH-007,Primaquine 7.5mg,Antimalarial,P,99,tablets,2026-02-17,IN_STOCK,False
+MP-KHA-DH-007,Dengue NS1 Antigen Test Kit,Diagnostic,P,95,kits,2026-04-10,IN_STOCK,True
+MP-KHA-DH-007,Platelet Rich Plasma,Blood Product,S,63,units,2026-03-03,IN_STOCK,True
+MP-KHA-DH-007,Normal Saline 0.9% (1L),IV Fluid,P,85,bottles,2026-04-12,IN_STOCK,True
+MP-KHA-DH-007,Ringer Lactate (1L),IV Fluid,P,47,bottles,2026-03-19,IN_STOCK,True
+MP-KHA-DH-007,ORS Packets (WHO formula),ORS,P,52,packets,2026-03-17,IN_STOCK,True
+MP-KHA-DH-007,Zinc Sulphate Dispersible 20mg,Micronutrient,P,140,tablets,2026-03-16,IN_STOCK,False
+MP-KHA-DH-007,Metronidazole 400mg,Antiprotozoal,P,172,tablets,2026-02-23,IN_STOCK,False
+MP-KHA-DH-007,Amoxicillin 500mg,Antibiotic,P,186,capsules,2026-04-02,IN_STOCK,False
+MP-KHA-DH-007,Azithromycin 500mg,Antibiotic,P,103,tablets,2026-03-24,IN_STOCK,False
+MP-KHA-DH-007,Ciprofloxacin 500mg,Antibiotic,P,196,tablets,2026-03-01,IN_STOCK,False
+MP-KHA-DH-007,Cotrimoxazole Paediatric,Antibiotic,P,83,tablets,2026-03-31,IN_STOCK,False
+MP-KHA-DH-007,Gentamicin Injection 80mg,Antibiotic,P,76,ampoules,2026-02-17,IN_STOCK,True
+MP-KHA-DH-007,Ceftriaxone Injection 1g,Antibiotic,S,33,vials,2026-03-30,IN_STOCK,True
+MP-KHA-DH-007,Oxytocin Injection 5IU,Obstetric,P,95,ampoules,2026-02-21,IN_STOCK,True
+MP-KHA-DH-007,Misoprostol 200mcg,Obstetric,P,77,tablets,2026-03-27,IN_STOCK,True
+MP-KHA-DH-007,Magnesium Sulphate Injection 50%,Anticonvulsant,P,91,ampoules,2026-02-17,IN_STOCK,True
+MP-KHA-DH-007,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,63,ampoules,2026-03-12,IN_STOCK,True
+MP-KHA-DH-007,Hydrocortisone Injection 100mg,Corticosteroid,P,85,vials,2026-04-15,IN_STOCK,True
+MP-KHA-DH-007,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,81,ampoules,2026-03-24,IN_STOCK,True
+MP-KHA-DH-007,Paracetamol 500mg,Analgesic,P,104,tablets,2026-03-17,IN_STOCK,False
+MP-KHA-DH-007,Ibuprofen 400mg,NSAID,P,98,tablets,2026-03-16,IN_STOCK,False
+MP-KHA-DH-007,Diclofenac Sodium 50mg,NSAID,P,150,tablets,2026-02-21,IN_STOCK,False
+MP-KHA-DH-007,Salbutamol Inhaler 100mcg,Bronchodilator,P,178,inhalers,2026-04-11,IN_STOCK,False
+MP-KHA-DH-007,Dexamethasone Injection 4mg,Corticosteroid,P,51,ampoules,2026-03-22,IN_STOCK,True
+MP-KHA-DH-007,Prednisolone 5mg,Corticosteroid,P,105,tablets,2026-04-13,IN_STOCK,False
+MP-KHA-DH-007,Metformin 500mg,Antidiabetic,P,133,tablets,2026-03-27,IN_STOCK,False
+MP-KHA-DH-007,Glimepiride 1mg,Antidiabetic,P,167,tablets,2026-03-07,IN_STOCK,False
+MP-KHA-DH-007,Amlodipine 5mg,Antihypertensive,P,11,tablets,2026-02-22,LOW,False
+MP-KHA-DH-007,Enalapril 5mg,Antihypertensive,P,163,tablets,2026-03-28,IN_STOCK,False
+MP-KHA-DH-007,Tetanus Toxoid Injection,Vaccine,P,95,doses,2026-02-21,IN_STOCK,True
+MP-KHA-DH-007,Anti-Tetanus Serum (ATS),Antiserum,P,63,vials,2026-03-08,IN_STOCK,True
+MP-KHA-DH-007,Anti-Rabies Vaccine (ARV),Vaccine,P,62,doses,2026-03-01,IN_STOCK,True
+MP-KHA-DH-007,Rabies Immunoglobulin (RIG),Immunoglobulin,S,45,vials,2026-03-20,IN_STOCK,True
+MP-KHA-DH-007,Activated Charcoal Powder,Antidote,P,36,sachets,2026-04-15,IN_STOCK,True
+MP-KHA-DH-007,Pralidoxime (PAM) Injection,Antidote,S,6,vials,2026-03-25,LOW,True
+MP-BUR-DH-008,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,85,vials,2026-03-12,IN_STOCK,True
+MP-BUR-DH-008,Artesunate Injection 60mg,Antimalarial,P,55,vials,2026-04-12,IN_STOCK,True
+MP-BUR-DH-008,Artemether-Lumefantrine Tablets,Antimalarial,P,63,tablets,2026-03-17,IN_STOCK,True
+MP-BUR-DH-008,Chloroquine Phosphate 250mg,Antimalarial,P,102,tablets,2026-04-03,IN_STOCK,False
+MP-BUR-DH-008,Primaquine 7.5mg,Antimalarial,P,131,tablets,2026-03-19,IN_STOCK,False
+MP-BUR-DH-008,Dengue NS1 Antigen Test Kit,Diagnostic,P,8,kits,2026-02-19,LOW,True
+MP-BUR-DH-008,Platelet Rich Plasma,Blood Product,S,42,units,2026-03-20,IN_STOCK,True
+MP-BUR-DH-008,Normal Saline 0.9% (1L),IV Fluid,P,71,bottles,2026-03-08,IN_STOCK,True
+MP-BUR-DH-008,Ringer Lactate (1L),IV Fluid,P,91,bottles,2026-02-22,IN_STOCK,True
+MP-BUR-DH-008,ORS Packets (WHO formula),ORS,P,94,packets,2026-04-11,IN_STOCK,True
+MP-BUR-DH-008,Zinc Sulphate Dispersible 20mg,Micronutrient,P,157,tablets,2026-03-12,IN_STOCK,False
+MP-BUR-DH-008,Metronidazole 400mg,Antiprotozoal,P,141,tablets,2026-04-16,IN_STOCK,False
+MP-BUR-DH-008,Amoxicillin 500mg,Antibiotic,P,167,capsules,2026-03-31,IN_STOCK,False
+MP-BUR-DH-008,Azithromycin 500mg,Antibiotic,P,2,tablets,2026-02-18,LOW,False
+MP-BUR-DH-008,Ciprofloxacin 500mg,Antibiotic,P,193,tablets,2026-02-23,IN_STOCK,False
+MP-BUR-DH-008,Cotrimoxazole Paediatric,Antibiotic,P,139,tablets,2026-02-27,IN_STOCK,False
+MP-BUR-DH-008,Gentamicin Injection 80mg,Antibiotic,P,78,ampoules,2026-04-03,IN_STOCK,True
+MP-BUR-DH-008,Ceftriaxone Injection 1g,Antibiotic,S,50,vials,2026-03-08,IN_STOCK,True
+MP-BUR-DH-008,Oxytocin Injection 5IU,Obstetric,P,38,ampoules,2026-03-29,IN_STOCK,True
+MP-BUR-DH-008,Misoprostol 200mcg,Obstetric,P,6,tablets,2026-03-02,LOW,True
+MP-BUR-DH-008,Magnesium Sulphate Injection 50%,Anticonvulsant,P,74,ampoules,2026-03-01,IN_STOCK,True
+MP-BUR-DH-008,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,79,ampoules,2026-03-15,IN_STOCK,True
+MP-BUR-DH-008,Hydrocortisone Injection 100mg,Corticosteroid,P,54,vials,2026-04-01,IN_STOCK,True
+MP-BUR-DH-008,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,70,ampoules,2026-03-01,IN_STOCK,True
+MP-BUR-DH-008,Paracetamol 500mg,Analgesic,P,95,tablets,2026-03-19,IN_STOCK,False
+MP-BUR-DH-008,Ibuprofen 400mg,NSAID,P,102,tablets,2026-02-28,IN_STOCK,False
+MP-BUR-DH-008,Diclofenac Sodium 50mg,NSAID,P,167,tablets,2026-02-22,IN_STOCK,False
+MP-BUR-DH-008,Salbutamol Inhaler 100mcg,Bronchodilator,P,159,inhalers,2026-04-12,IN_STOCK,False
+MP-BUR-DH-008,Dexamethasone Injection 4mg,Corticosteroid,P,9,ampoules,2026-04-10,LOW,True
+MP-BUR-DH-008,Prednisolone 5mg,Corticosteroid,P,133,tablets,2026-03-11,IN_STOCK,False
+MP-BUR-DH-008,Metformin 500mg,Antidiabetic,P,161,tablets,2026-04-11,IN_STOCK,False
+MP-BUR-DH-008,Glimepiride 1mg,Antidiabetic,P,186,tablets,2026-04-16,IN_STOCK,False
+MP-BUR-DH-008,Amlodipine 5mg,Antihypertensive,P,149,tablets,2026-02-18,IN_STOCK,False
+MP-BUR-DH-008,Enalapril 5mg,Antihypertensive,P,82,tablets,2026-03-08,IN_STOCK,False
+MP-BUR-DH-008,Tetanus Toxoid Injection,Vaccine,P,71,doses,2026-03-07,IN_STOCK,True
+MP-BUR-DH-008,Anti-Tetanus Serum (ATS),Antiserum,P,37,vials,2026-03-29,IN_STOCK,True
+MP-BUR-DH-008,Anti-Rabies Vaccine (ARV),Vaccine,P,63,doses,2026-02-20,IN_STOCK,True
+MP-BUR-DH-008,Rabies Immunoglobulin (RIG),Immunoglobulin,S,80,vials,2026-03-06,IN_STOCK,True
+MP-BUR-DH-008,Activated Charcoal Powder,Antidote,P,86,sachets,2026-03-11,IN_STOCK,True
+MP-BUR-DH-008,Pralidoxime (PAM) Injection,Antidote,S,86,vials,2026-03-07,IN_STOCK,True
+MP-IND-CHC-009,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,26,vials,2026-03-31,IN_STOCK,True
+MP-IND-CHC-009,Artesunate Injection 60mg,Antimalarial,P,0,vials,2026-03-25,OUT_OF_STOCK,True
+MP-IND-CHC-009,Artemether-Lumefantrine Tablets,Antimalarial,P,20,tablets,2026-02-22,IN_STOCK,True
+MP-IND-CHC-009,Chloroquine Phosphate 250mg,Antimalarial,P,69,tablets,2026-03-25,IN_STOCK,False
+MP-IND-CHC-009,Primaquine 7.5mg,Antimalarial,P,67,tablets,2026-03-26,IN_STOCK,False
+MP-IND-CHC-009,Dengue NS1 Antigen Test Kit,Diagnostic,P,16,kits,2026-02-22,IN_STOCK,True
+MP-IND-CHC-009,Platelet Rich Plasma,Blood Product,S,2,units,2026-03-07,LOW,True
+MP-IND-CHC-009,Normal Saline 0.9% (1L),IV Fluid,P,14,bottles,2026-02-26,IN_STOCK,True
+MP-IND-CHC-009,Ringer Lactate (1L),IV Fluid,P,38,bottles,2026-03-12,IN_STOCK,True
+MP-IND-CHC-009,ORS Packets (WHO formula),ORS,P,30,packets,2026-04-04,IN_STOCK,True
+MP-IND-CHC-009,Zinc Sulphate Dispersible 20mg,Micronutrient,P,78,tablets,2026-02-21,IN_STOCK,False
+MP-IND-CHC-009,Metronidazole 400mg,Antiprotozoal,P,75,tablets,2026-04-08,IN_STOCK,False
+MP-IND-CHC-009,Amoxicillin 500mg,Antibiotic,P,64,capsules,2026-04-17,IN_STOCK,False
+MP-IND-CHC-009,Azithromycin 500mg,Antibiotic,P,35,tablets,2026-04-09,IN_STOCK,False
+MP-IND-CHC-009,Ciprofloxacin 500mg,Antibiotic,P,77,tablets,2026-04-06,IN_STOCK,False
+MP-IND-CHC-009,Cotrimoxazole Paediatric,Antibiotic,P,27,tablets,2026-04-09,IN_STOCK,False
+MP-IND-CHC-009,Gentamicin Injection 80mg,Antibiotic,P,0,ampoules,2026-02-26,OUT_OF_STOCK,True
+MP-IND-CHC-009,Ceftriaxone Injection 1g,Antibiotic,S,13,vials,2026-04-06,IN_STOCK,True
+MP-IND-CHC-009,Oxytocin Injection 5IU,Obstetric,P,26,ampoules,2026-03-15,IN_STOCK,True
+MP-IND-CHC-009,Misoprostol 200mcg,Obstetric,P,4,tablets,2026-02-27,LOW,True
+MP-IND-CHC-009,Magnesium Sulphate Injection 50%,Anticonvulsant,P,27,ampoules,2026-03-16,IN_STOCK,True
+MP-IND-CHC-009,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,36,ampoules,2026-02-26,IN_STOCK,True
+MP-IND-CHC-009,Hydrocortisone Injection 100mg,Corticosteroid,P,22,vials,2026-03-19,IN_STOCK,True
+MP-IND-CHC-009,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,4,ampoules,2026-02-22,LOW,True
+MP-IND-CHC-009,Paracetamol 500mg,Analgesic,P,69,tablets,2026-04-11,IN_STOCK,False
+MP-IND-CHC-009,Ibuprofen 400mg,NSAID,P,54,tablets,2026-04-13,IN_STOCK,False
+MP-IND-CHC-009,Diclofenac Sodium 50mg,NSAID,P,46,tablets,2026-03-10,IN_STOCK,False
+MP-IND-CHC-009,Salbutamol Inhaler 100mcg,Bronchodilator,P,34,inhalers,2026-03-31,IN_STOCK,False
+MP-IND-CHC-009,Dexamethasone Injection 4mg,Corticosteroid,P,35,ampoules,2026-03-28,IN_STOCK,True
+MP-IND-CHC-009,Prednisolone 5mg,Corticosteroid,P,64,tablets,2026-03-15,IN_STOCK,False
+MP-IND-CHC-009,Metformin 500mg,Antidiabetic,P,58,tablets,2026-03-10,IN_STOCK,False
+MP-IND-CHC-009,Glimepiride 1mg,Antidiabetic,P,76,tablets,2026-03-04,IN_STOCK,False
+MP-IND-CHC-009,Amlodipine 5mg,Antihypertensive,P,67,tablets,2026-03-07,IN_STOCK,False
+MP-IND-CHC-009,Enalapril 5mg,Antihypertensive,P,61,tablets,2026-03-02,IN_STOCK,False
+MP-IND-CHC-009,Tetanus Toxoid Injection,Vaccine,P,20,doses,2026-03-22,IN_STOCK,True
+MP-IND-CHC-009,Anti-Tetanus Serum (ATS),Antiserum,P,26,vials,2026-03-02,IN_STOCK,True
+MP-IND-CHC-009,Anti-Rabies Vaccine (ARV),Vaccine,P,34,doses,2026-04-01,IN_STOCK,True
+MP-IND-CHC-009,Rabies Immunoglobulin (RIG),Immunoglobulin,S,28,vials,2026-04-13,IN_STOCK,True
+MP-IND-CHC-009,Activated Charcoal Powder,Antidote,P,4,sachets,2026-04-11,LOW,True
+MP-IND-CHC-009,Pralidoxime (PAM) Injection,Antidote,S,17,vials,2026-03-13,IN_STOCK,True
+MP-IND-CHC-010,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,30,vials,2026-03-27,IN_STOCK,True
+MP-IND-CHC-010,Artesunate Injection 60mg,Antimalarial,P,40,vials,2026-03-06,IN_STOCK,True
+MP-IND-CHC-010,Artemether-Lumefantrine Tablets,Antimalarial,P,36,tablets,2026-04-14,IN_STOCK,True
+MP-IND-CHC-010,Chloroquine Phosphate 250mg,Antimalarial,P,64,tablets,2026-03-29,IN_STOCK,False
+MP-IND-CHC-010,Primaquine 7.5mg,Antimalarial,P,62,tablets,2026-03-16,IN_STOCK,False
+MP-IND-CHC-010,Dengue NS1 Antigen Test Kit,Diagnostic,P,20,kits,2026-02-22,IN_STOCK,True
+MP-IND-CHC-010,Platelet Rich Plasma,Blood Product,S,24,units,2026-04-10,IN_STOCK,True
+MP-IND-CHC-010,Normal Saline 0.9% (1L),IV Fluid,P,38,bottles,2026-03-21,IN_STOCK,True
+MP-IND-CHC-010,Ringer Lactate (1L),IV Fluid,P,39,bottles,2026-03-09,IN_STOCK,True
+MP-IND-CHC-010,ORS Packets (WHO formula),ORS,P,13,packets,2026-03-10,IN_STOCK,True
+MP-IND-CHC-010,Zinc Sulphate Dispersible 20mg,Micronutrient,P,79,tablets,2026-03-04,IN_STOCK,False
+MP-IND-CHC-010,Metronidazole 400mg,Antiprotozoal,P,37,tablets,2026-03-31,IN_STOCK,False
+MP-IND-CHC-010,Amoxicillin 500mg,Antibiotic,P,45,capsules,2026-02-18,IN_STOCK,False
+MP-IND-CHC-010,Azithromycin 500mg,Antibiotic,P,26,tablets,2026-04-06,IN_STOCK,False
+MP-IND-CHC-010,Ciprofloxacin 500mg,Antibiotic,P,62,tablets,2026-03-06,IN_STOCK,False
+MP-IND-CHC-010,Cotrimoxazole Paediatric,Antibiotic,P,35,tablets,2026-03-01,IN_STOCK,False
+MP-IND-CHC-010,Gentamicin Injection 80mg,Antibiotic,P,2,ampoules,2026-03-24,LOW,True
+MP-IND-CHC-010,Ceftriaxone Injection 1g,Antibiotic,S,24,vials,2026-03-29,IN_STOCK,True
+MP-IND-CHC-010,Oxytocin Injection 5IU,Obstetric,P,31,ampoules,2026-03-10,IN_STOCK,True
+MP-IND-CHC-010,Misoprostol 200mcg,Obstetric,P,2,tablets,2026-02-28,LOW,True
+MP-IND-CHC-010,Magnesium Sulphate Injection 50%,Anticonvulsant,P,21,ampoules,2026-03-20,IN_STOCK,True
+MP-IND-CHC-010,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,27,ampoules,2026-03-22,IN_STOCK,True
+MP-IND-CHC-010,Hydrocortisone Injection 100mg,Corticosteroid,P,16,vials,2026-03-26,IN_STOCK,True
+MP-IND-CHC-010,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,34,ampoules,2026-03-11,IN_STOCK,True
+MP-IND-CHC-010,Paracetamol 500mg,Analgesic,P,68,tablets,2026-03-29,IN_STOCK,False
+MP-IND-CHC-010,Ibuprofen 400mg,NSAID,P,7,tablets,2026-03-10,LOW,False
+MP-IND-CHC-010,Diclofenac Sodium 50mg,NSAID,P,4,tablets,2026-03-29,LOW,False
+MP-IND-CHC-010,Salbutamol Inhaler 100mcg,Bronchodilator,P,75,inhalers,2026-04-09,IN_STOCK,False
+MP-IND-CHC-010,Dexamethasone Injection 4mg,Corticosteroid,P,16,ampoules,2026-04-17,IN_STOCK,True
+MP-IND-CHC-010,Prednisolone 5mg,Corticosteroid,P,53,tablets,2026-04-06,IN_STOCK,False
+MP-IND-CHC-010,Metformin 500mg,Antidiabetic,P,60,tablets,2026-03-03,IN_STOCK,False
+MP-IND-CHC-010,Glimepiride 1mg,Antidiabetic,P,61,tablets,2026-02-23,IN_STOCK,False
+MP-IND-CHC-010,Amlodipine 5mg,Antihypertensive,P,48,tablets,2026-04-13,IN_STOCK,False
+MP-IND-CHC-010,Enalapril 5mg,Antihypertensive,P,73,tablets,2026-04-15,IN_STOCK,False
+MP-IND-CHC-010,Tetanus Toxoid Injection,Vaccine,P,15,doses,2026-02-21,IN_STOCK,True
+MP-IND-CHC-010,Anti-Tetanus Serum (ATS),Antiserum,P,25,vials,2026-03-03,IN_STOCK,True
+MP-IND-CHC-010,Anti-Rabies Vaccine (ARV),Vaccine,P,25,doses,2026-04-16,IN_STOCK,True
+MP-IND-CHC-010,Rabies Immunoglobulin (RIG),Immunoglobulin,S,32,vials,2026-03-19,IN_STOCK,True
+MP-IND-CHC-010,Activated Charcoal Powder,Antidote,P,15,sachets,2026-03-21,IN_STOCK,True
+MP-IND-CHC-010,Pralidoxime (PAM) Injection,Antidote,S,31,vials,2026-03-23,IN_STOCK,True
+MP-IND-CHC-011,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,22,vials,2026-03-01,IN_STOCK,True
+MP-IND-CHC-011,Artesunate Injection 60mg,Antimalarial,P,18,vials,2026-04-13,IN_STOCK,True
+MP-IND-CHC-011,Artemether-Lumefantrine Tablets,Antimalarial,P,29,tablets,2026-04-05,IN_STOCK,True
+MP-IND-CHC-011,Chloroquine Phosphate 250mg,Antimalarial,P,48,tablets,2026-03-26,IN_STOCK,False
+MP-IND-CHC-011,Primaquine 7.5mg,Antimalarial,P,78,tablets,2026-03-07,IN_STOCK,False
+MP-IND-CHC-011,Dengue NS1 Antigen Test Kit,Diagnostic,P,17,kits,2026-04-01,IN_STOCK,True
+MP-IND-CHC-011,Platelet Rich Plasma,Blood Product,S,37,units,2026-02-28,IN_STOCK,True
+MP-IND-CHC-011,Normal Saline 0.9% (1L),IV Fluid,P,37,bottles,2026-03-08,IN_STOCK,True
+MP-IND-CHC-011,Ringer Lactate (1L),IV Fluid,P,37,bottles,2026-03-11,IN_STOCK,True
+MP-IND-CHC-011,ORS Packets (WHO formula),ORS,P,31,packets,2026-03-07,IN_STOCK,True
+MP-IND-CHC-011,Zinc Sulphate Dispersible 20mg,Micronutrient,P,65,tablets,2026-03-28,IN_STOCK,False
+MP-IND-CHC-011,Metronidazole 400mg,Antiprotozoal,P,66,tablets,2026-03-28,IN_STOCK,False
+MP-IND-CHC-011,Amoxicillin 500mg,Antibiotic,P,30,capsules,2026-03-18,IN_STOCK,False
+MP-IND-CHC-011,Azithromycin 500mg,Antibiotic,P,45,tablets,2026-02-26,IN_STOCK,False
+MP-IND-CHC-011,Ciprofloxacin 500mg,Antibiotic,P,29,tablets,2026-03-26,IN_STOCK,False
+MP-IND-CHC-011,Cotrimoxazole Paediatric,Antibiotic,P,45,tablets,2026-03-19,IN_STOCK,False
+MP-IND-CHC-011,Gentamicin Injection 80mg,Antibiotic,P,3,ampoules,2026-04-13,LOW,True
+MP-IND-CHC-011,Ceftriaxone Injection 1g,Antibiotic,S,15,vials,2026-03-09,IN_STOCK,True
+MP-IND-CHC-011,Oxytocin Injection 5IU,Obstetric,P,31,ampoules,2026-03-13,IN_STOCK,True
+MP-IND-CHC-011,Misoprostol 200mcg,Obstetric,P,14,tablets,2026-03-20,IN_STOCK,True
+MP-IND-CHC-011,Magnesium Sulphate Injection 50%,Anticonvulsant,P,19,ampoules,2026-03-28,IN_STOCK,True
+MP-IND-CHC-011,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,14,ampoules,2026-03-20,IN_STOCK,True
+MP-IND-CHC-011,Hydrocortisone Injection 100mg,Corticosteroid,P,23,vials,2026-03-03,IN_STOCK,True
+MP-IND-CHC-011,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,14,ampoules,2026-04-02,IN_STOCK,True
+MP-IND-CHC-011,Paracetamol 500mg,Analgesic,P,54,tablets,2026-03-15,IN_STOCK,False
+MP-IND-CHC-011,Ibuprofen 400mg,NSAID,P,36,tablets,2026-03-25,IN_STOCK,False
+MP-IND-CHC-011,Diclofenac Sodium 50mg,NSAID,P,44,tablets,2026-03-24,IN_STOCK,False
+MP-IND-CHC-011,Salbutamol Inhaler 100mcg,Bronchodilator,P,47,inhalers,2026-03-05,IN_STOCK,False
+MP-IND-CHC-011,Dexamethasone Injection 4mg,Corticosteroid,P,33,ampoules,2026-03-27,IN_STOCK,True
+MP-IND-CHC-011,Prednisolone 5mg,Corticosteroid,P,2,tablets,2026-03-13,LOW,False
+MP-IND-CHC-011,Metformin 500mg,Antidiabetic,P,44,tablets,2026-04-01,IN_STOCK,False
+MP-IND-CHC-011,Glimepiride 1mg,Antidiabetic,P,68,tablets,2026-02-18,IN_STOCK,False
+MP-IND-CHC-011,Amlodipine 5mg,Antihypertensive,P,35,tablets,2026-03-27,IN_STOCK,False
+MP-IND-CHC-011,Enalapril 5mg,Antihypertensive,P,3,tablets,2026-02-18,LOW,False
+MP-IND-CHC-011,Tetanus Toxoid Injection,Vaccine,P,35,doses,2026-03-06,IN_STOCK,True
+MP-IND-CHC-011,Anti-Tetanus Serum (ATS),Antiserum,P,15,vials,2026-03-29,IN_STOCK,True
+MP-IND-CHC-011,Anti-Rabies Vaccine (ARV),Vaccine,P,23,doses,2026-02-24,IN_STOCK,True
+MP-IND-CHC-011,Rabies Immunoglobulin (RIG),Immunoglobulin,S,36,vials,2026-03-05,IN_STOCK,True
+MP-IND-CHC-011,Activated Charcoal Powder,Antidote,P,4,sachets,2026-03-16,LOW,True
+MP-IND-CHC-011,Pralidoxime (PAM) Injection,Antidote,S,18,vials,2026-04-04,IN_STOCK,True
+MP-IND-CHC-012,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,19,vials,2026-04-03,IN_STOCK,True
+MP-IND-CHC-012,Artesunate Injection 60mg,Antimalarial,P,22,vials,2026-02-22,IN_STOCK,True
+MP-IND-CHC-012,Artemether-Lumefantrine Tablets,Antimalarial,P,30,tablets,2026-02-23,IN_STOCK,True
+MP-IND-CHC-012,Chloroquine Phosphate 250mg,Antimalarial,P,59,tablets,2026-04-15,IN_STOCK,False
+MP-IND-CHC-012,Primaquine 7.5mg,Antimalarial,P,75,tablets,2026-03-09,IN_STOCK,False
+MP-IND-CHC-012,Dengue NS1 Antigen Test Kit,Diagnostic,P,18,kits,2026-04-06,IN_STOCK,True
+MP-IND-CHC-012,Platelet Rich Plasma,Blood Product,S,38,units,2026-02-19,IN_STOCK,True
+MP-IND-CHC-012,Normal Saline 0.9% (1L),IV Fluid,P,26,bottles,2026-03-25,IN_STOCK,True
+MP-IND-CHC-012,Ringer Lactate (1L),IV Fluid,P,27,bottles,2026-03-09,IN_STOCK,True
+MP-IND-CHC-012,ORS Packets (WHO formula),ORS,P,27,packets,2026-04-03,IN_STOCK,True
+MP-IND-CHC-012,Zinc Sulphate Dispersible 20mg,Micronutrient,P,45,tablets,2026-02-25,IN_STOCK,False
+MP-IND-CHC-012,Metronidazole 400mg,Antiprotozoal,P,79,tablets,2026-04-05,IN_STOCK,False
+MP-IND-CHC-012,Amoxicillin 500mg,Antibiotic,P,62,capsules,2026-03-20,IN_STOCK,False
+MP-IND-CHC-012,Azithromycin 500mg,Antibiotic,P,44,tablets,2026-02-27,IN_STOCK,False
+MP-IND-CHC-012,Ciprofloxacin 500mg,Antibiotic,P,59,tablets,2026-03-22,IN_STOCK,False
+MP-IND-CHC-012,Cotrimoxazole Paediatric,Antibiotic,P,78,tablets,2026-04-05,IN_STOCK,False
+MP-IND-CHC-012,Gentamicin Injection 80mg,Antibiotic,P,21,ampoules,2026-04-14,IN_STOCK,True
+MP-IND-CHC-012,Ceftriaxone Injection 1g,Antibiotic,S,30,vials,2026-02-17,IN_STOCK,True
+MP-IND-CHC-012,Oxytocin Injection 5IU,Obstetric,P,40,ampoules,2026-04-10,IN_STOCK,True
+MP-IND-CHC-012,Misoprostol 200mcg,Obstetric,P,21,tablets,2026-03-20,IN_STOCK,True
+MP-IND-CHC-012,Magnesium Sulphate Injection 50%,Anticonvulsant,P,26,ampoules,2026-04-12,IN_STOCK,True
+MP-IND-CHC-012,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,27,ampoules,2026-02-20,IN_STOCK,True
+MP-IND-CHC-012,Hydrocortisone Injection 100mg,Corticosteroid,P,1,vials,2026-03-23,LOW,True
+MP-IND-CHC-012,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,15,ampoules,2026-03-25,IN_STOCK,True
+MP-IND-CHC-012,Paracetamol 500mg,Analgesic,P,46,tablets,2026-02-17,IN_STOCK,False
+MP-IND-CHC-012,Ibuprofen 400mg,NSAID,P,6,tablets,2026-02-26,LOW,False
+MP-IND-CHC-012,Diclofenac Sodium 50mg,NSAID,P,28,tablets,2026-03-30,IN_STOCK,False
+MP-IND-CHC-012,Salbutamol Inhaler 100mcg,Bronchodilator,P,56,inhalers,2026-03-04,IN_STOCK,False
+MP-IND-CHC-012,Dexamethasone Injection 4mg,Corticosteroid,P,28,ampoules,2026-03-20,IN_STOCK,True
+MP-IND-CHC-012,Prednisolone 5mg,Corticosteroid,P,31,tablets,2026-04-16,IN_STOCK,False
+MP-IND-CHC-012,Metformin 500mg,Antidiabetic,P,79,tablets,2026-04-08,IN_STOCK,False
+MP-IND-CHC-012,Glimepiride 1mg,Antidiabetic,P,72,tablets,2026-03-10,IN_STOCK,False
+MP-IND-CHC-012,Amlodipine 5mg,Antihypertensive,P,33,tablets,2026-02-27,IN_STOCK,False
+MP-IND-CHC-012,Enalapril 5mg,Antihypertensive,P,45,tablets,2026-04-10,IN_STOCK,False
+MP-IND-CHC-012,Tetanus Toxoid Injection,Vaccine,P,0,doses,2026-03-22,OUT_OF_STOCK,True
+MP-IND-CHC-012,Anti-Tetanus Serum (ATS),Antiserum,P,15,vials,2026-04-10,IN_STOCK,True
+MP-IND-CHC-012,Anti-Rabies Vaccine (ARV),Vaccine,P,30,doses,2026-04-16,IN_STOCK,True
+MP-IND-CHC-012,Rabies Immunoglobulin (RIG),Immunoglobulin,S,35,vials,2026-04-08,IN_STOCK,True
+MP-IND-CHC-012,Activated Charcoal Powder,Antidote,P,3,sachets,2026-04-02,LOW,True
+MP-IND-CHC-012,Pralidoxime (PAM) Injection,Antidote,S,34,vials,2026-04-12,IN_STOCK,True
+MP-IND-CHC-013,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,29,vials,2026-03-14,IN_STOCK,True
+MP-IND-CHC-013,Artesunate Injection 60mg,Antimalarial,P,30,vials,2026-04-16,IN_STOCK,True
+MP-IND-CHC-013,Artemether-Lumefantrine Tablets,Antimalarial,P,33,tablets,2026-03-24,IN_STOCK,True
+MP-IND-CHC-013,Chloroquine Phosphate 250mg,Antimalarial,P,42,tablets,2026-03-01,IN_STOCK,False
+MP-IND-CHC-013,Primaquine 7.5mg,Antimalarial,P,2,tablets,2026-03-26,LOW,False
+MP-IND-CHC-013,Dengue NS1 Antigen Test Kit,Diagnostic,P,16,kits,2026-02-27,IN_STOCK,True
+MP-IND-CHC-013,Platelet Rich Plasma,Blood Product,S,17,units,2026-04-15,IN_STOCK,True
+MP-IND-CHC-013,Normal Saline 0.9% (1L),IV Fluid,P,33,bottles,2026-04-06,IN_STOCK,True
+MP-IND-CHC-013,Ringer Lactate (1L),IV Fluid,P,35,bottles,2026-03-18,IN_STOCK,True
+MP-IND-CHC-013,ORS Packets (WHO formula),ORS,P,15,packets,2026-03-03,IN_STOCK,True
+MP-IND-CHC-013,Zinc Sulphate Dispersible 20mg,Micronutrient,P,55,tablets,2026-04-15,IN_STOCK,False
+MP-IND-CHC-013,Metronidazole 400mg,Antiprotozoal,P,28,tablets,2026-02-26,IN_STOCK,False
+MP-IND-CHC-013,Amoxicillin 500mg,Antibiotic,P,28,capsules,2026-03-28,IN_STOCK,False
+MP-IND-CHC-013,Azithromycin 500mg,Antibiotic,P,58,tablets,2026-03-23,IN_STOCK,False
+MP-IND-CHC-013,Ciprofloxacin 500mg,Antibiotic,P,60,tablets,2026-03-18,IN_STOCK,False
+MP-IND-CHC-013,Cotrimoxazole Paediatric,Antibiotic,P,74,tablets,2026-03-07,IN_STOCK,False
+MP-IND-CHC-013,Gentamicin Injection 80mg,Antibiotic,P,37,ampoules,2026-04-14,IN_STOCK,True
+MP-IND-CHC-013,Ceftriaxone Injection 1g,Antibiotic,S,16,vials,2026-02-25,IN_STOCK,True
+MP-IND-CHC-013,Oxytocin Injection 5IU,Obstetric,P,36,ampoules,2026-03-20,IN_STOCK,True
+MP-IND-CHC-013,Misoprostol 200mcg,Obstetric,P,18,tablets,2026-03-17,IN_STOCK,True
+MP-IND-CHC-013,Magnesium Sulphate Injection 50%,Anticonvulsant,P,38,ampoules,2026-03-15,IN_STOCK,True
+MP-IND-CHC-013,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,4,ampoules,2026-04-12,LOW,True
+MP-IND-CHC-013,Hydrocortisone Injection 100mg,Corticosteroid,P,18,vials,2026-03-14,IN_STOCK,True
+MP-IND-CHC-013,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,23,ampoules,2026-03-06,IN_STOCK,True
+MP-IND-CHC-013,Paracetamol 500mg,Analgesic,P,54,tablets,2026-03-10,IN_STOCK,False
+MP-IND-CHC-013,Ibuprofen 400mg,NSAID,P,36,tablets,2026-03-04,IN_STOCK,False
+MP-IND-CHC-013,Diclofenac Sodium 50mg,NSAID,P,54,tablets,2026-04-15,IN_STOCK,False
+MP-IND-CHC-013,Salbutamol Inhaler 100mcg,Bronchodilator,P,48,inhalers,2026-03-09,IN_STOCK,False
+MP-IND-CHC-013,Dexamethasone Injection 4mg,Corticosteroid,P,38,ampoules,2026-04-14,IN_STOCK,True
+MP-IND-CHC-013,Prednisolone 5mg,Corticosteroid,P,7,tablets,2026-03-25,LOW,False
+MP-IND-CHC-013,Metformin 500mg,Antidiabetic,P,73,tablets,2026-03-05,IN_STOCK,False
+MP-IND-CHC-013,Glimepiride 1mg,Antidiabetic,P,27,tablets,2026-04-08,IN_STOCK,False
+MP-IND-CHC-013,Amlodipine 5mg,Antihypertensive,P,69,tablets,2026-02-26,IN_STOCK,False
+MP-IND-CHC-013,Enalapril 5mg,Antihypertensive,P,34,tablets,2026-04-13,IN_STOCK,False
+MP-IND-CHC-013,Tetanus Toxoid Injection,Vaccine,P,24,doses,2026-03-24,IN_STOCK,True
+MP-IND-CHC-013,Anti-Tetanus Serum (ATS),Antiserum,P,2,vials,2026-03-05,LOW,True
+MP-IND-CHC-013,Anti-Rabies Vaccine (ARV),Vaccine,P,27,doses,2026-02-28,IN_STOCK,True
+MP-IND-CHC-013,Rabies Immunoglobulin (RIG),Immunoglobulin,S,24,vials,2026-03-23,IN_STOCK,True
+MP-IND-CHC-013,Activated Charcoal Powder,Antidote,P,16,sachets,2026-04-16,IN_STOCK,True
+MP-IND-CHC-013,Pralidoxime (PAM) Injection,Antidote,S,25,vials,2026-02-18,IN_STOCK,True
+MP-DEW-CHC-014,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,21,vials,2026-03-03,IN_STOCK,True
+MP-DEW-CHC-014,Artesunate Injection 60mg,Antimalarial,P,22,vials,2026-03-04,IN_STOCK,True
+MP-DEW-CHC-014,Artemether-Lumefantrine Tablets,Antimalarial,P,16,tablets,2026-04-09,IN_STOCK,True
+MP-DEW-CHC-014,Chloroquine Phosphate 250mg,Antimalarial,P,54,tablets,2026-04-06,IN_STOCK,False
+MP-DEW-CHC-014,Primaquine 7.5mg,Antimalarial,P,54,tablets,2026-04-12,IN_STOCK,False
+MP-DEW-CHC-014,Dengue NS1 Antigen Test Kit,Diagnostic,P,23,kits,2026-03-06,IN_STOCK,True
+MP-DEW-CHC-014,Platelet Rich Plasma,Blood Product,S,3,units,2026-02-19,LOW,True
+MP-DEW-CHC-014,Normal Saline 0.9% (1L),IV Fluid,P,35,bottles,2026-02-17,IN_STOCK,True
+MP-DEW-CHC-014,Ringer Lactate (1L),IV Fluid,P,24,bottles,2026-03-16,IN_STOCK,True
+MP-DEW-CHC-014,ORS Packets (WHO formula),ORS,P,38,packets,2026-04-09,IN_STOCK,True
+MP-DEW-CHC-014,Zinc Sulphate Dispersible 20mg,Micronutrient,P,57,tablets,2026-04-16,IN_STOCK,False
+MP-DEW-CHC-014,Metronidazole 400mg,Antiprotozoal,P,62,tablets,2026-03-25,IN_STOCK,False
+MP-DEW-CHC-014,Amoxicillin 500mg,Antibiotic,P,61,capsules,2026-04-09,IN_STOCK,False
+MP-DEW-CHC-014,Azithromycin 500mg,Antibiotic,P,31,tablets,2026-04-13,IN_STOCK,False
+MP-DEW-CHC-014,Ciprofloxacin 500mg,Antibiotic,P,71,tablets,2026-03-02,IN_STOCK,False
+MP-DEW-CHC-014,Cotrimoxazole Paediatric,Antibiotic,P,52,tablets,2026-02-27,IN_STOCK,False
+MP-DEW-CHC-014,Gentamicin Injection 80mg,Antibiotic,P,17,ampoules,2026-03-28,IN_STOCK,True
+MP-DEW-CHC-014,Ceftriaxone Injection 1g,Antibiotic,S,34,vials,2026-03-15,IN_STOCK,True
+MP-DEW-CHC-014,Oxytocin Injection 5IU,Obstetric,P,37,ampoules,2026-03-13,IN_STOCK,True
+MP-DEW-CHC-014,Misoprostol 200mcg,Obstetric,P,17,tablets,2026-03-21,IN_STOCK,True
+MP-DEW-CHC-014,Magnesium Sulphate Injection 50%,Anticonvulsant,P,39,ampoules,2026-04-10,IN_STOCK,True
+MP-DEW-CHC-014,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,18,ampoules,2026-03-28,IN_STOCK,True
+MP-DEW-CHC-014,Hydrocortisone Injection 100mg,Corticosteroid,P,29,vials,2026-02-19,IN_STOCK,True
+MP-DEW-CHC-014,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,2,ampoules,2026-03-08,LOW,True
+MP-DEW-CHC-014,Paracetamol 500mg,Analgesic,P,43,tablets,2026-04-09,IN_STOCK,False
+MP-DEW-CHC-014,Ibuprofen 400mg,NSAID,P,65,tablets,2026-03-14,IN_STOCK,False
+MP-DEW-CHC-014,Diclofenac Sodium 50mg,NSAID,P,3,tablets,2026-03-11,LOW,False
+MP-DEW-CHC-014,Salbutamol Inhaler 100mcg,Bronchodilator,P,35,inhalers,2026-04-07,IN_STOCK,False
+MP-DEW-CHC-014,Dexamethasone Injection 4mg,Corticosteroid,P,32,ampoules,2026-03-27,IN_STOCK,True
+MP-DEW-CHC-014,Prednisolone 5mg,Corticosteroid,P,62,tablets,2026-04-15,IN_STOCK,False
+MP-DEW-CHC-014,Metformin 500mg,Antidiabetic,P,27,tablets,2026-04-12,IN_STOCK,False
+MP-DEW-CHC-014,Glimepiride 1mg,Antidiabetic,P,5,tablets,2026-03-07,LOW,False
+MP-DEW-CHC-014,Amlodipine 5mg,Antihypertensive,P,62,tablets,2026-03-22,IN_STOCK,False
+MP-DEW-CHC-014,Enalapril 5mg,Antihypertensive,P,27,tablets,2026-03-17,IN_STOCK,False
+MP-DEW-CHC-014,Tetanus Toxoid Injection,Vaccine,P,33,doses,2026-03-29,IN_STOCK,True
+MP-DEW-CHC-014,Anti-Tetanus Serum (ATS),Antiserum,P,34,vials,2026-03-23,IN_STOCK,True
+MP-DEW-CHC-014,Anti-Rabies Vaccine (ARV),Vaccine,P,1,doses,2026-04-07,LOW,True
+MP-DEW-CHC-014,Rabies Immunoglobulin (RIG),Immunoglobulin,S,19,vials,2026-03-27,IN_STOCK,True
+MP-DEW-CHC-014,Activated Charcoal Powder,Antidote,P,35,sachets,2026-03-28,IN_STOCK,True
+MP-DEW-CHC-014,Pralidoxime (PAM) Injection,Antidote,S,25,vials,2026-04-09,IN_STOCK,True
+MP-DEW-CHC-015,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,16,vials,2026-03-28,IN_STOCK,True
+MP-DEW-CHC-015,Artesunate Injection 60mg,Antimalarial,P,27,vials,2026-04-02,IN_STOCK,True
+MP-DEW-CHC-015,Artemether-Lumefantrine Tablets,Antimalarial,P,4,tablets,2026-02-21,LOW,True
+MP-DEW-CHC-015,Chloroquine Phosphate 250mg,Antimalarial,P,41,tablets,2026-02-21,IN_STOCK,False
+MP-DEW-CHC-015,Primaquine 7.5mg,Antimalarial,P,78,tablets,2026-03-28,IN_STOCK,False
+MP-DEW-CHC-015,Dengue NS1 Antigen Test Kit,Diagnostic,P,19,kits,2026-02-28,IN_STOCK,True
+MP-DEW-CHC-015,Platelet Rich Plasma,Blood Product,S,27,units,2026-03-17,IN_STOCK,True
+MP-DEW-CHC-015,Normal Saline 0.9% (1L),IV Fluid,P,15,bottles,2026-03-23,IN_STOCK,True
+MP-DEW-CHC-015,Ringer Lactate (1L),IV Fluid,P,19,bottles,2026-03-11,IN_STOCK,True
+MP-DEW-CHC-015,ORS Packets (WHO formula),ORS,P,4,packets,2026-03-10,LOW,True
+MP-DEW-CHC-015,Zinc Sulphate Dispersible 20mg,Micronutrient,P,67,tablets,2026-03-05,IN_STOCK,False
+MP-DEW-CHC-015,Metronidazole 400mg,Antiprotozoal,P,60,tablets,2026-04-17,IN_STOCK,False
+MP-DEW-CHC-015,Amoxicillin 500mg,Antibiotic,P,53,capsules,2026-04-09,IN_STOCK,False
+MP-DEW-CHC-015,Azithromycin 500mg,Antibiotic,P,72,tablets,2026-03-25,IN_STOCK,False
+MP-DEW-CHC-015,Ciprofloxacin 500mg,Antibiotic,P,49,tablets,2026-04-15,IN_STOCK,False
+MP-DEW-CHC-015,Cotrimoxazole Paediatric,Antibiotic,P,62,tablets,2026-03-13,IN_STOCK,False
+MP-DEW-CHC-015,Gentamicin Injection 80mg,Antibiotic,P,15,ampoules,2026-03-24,IN_STOCK,True
+MP-DEW-CHC-015,Ceftriaxone Injection 1g,Antibiotic,S,21,vials,2026-02-24,IN_STOCK,True
+MP-DEW-CHC-015,Oxytocin Injection 5IU,Obstetric,P,16,ampoules,2026-04-09,IN_STOCK,True
+MP-DEW-CHC-015,Misoprostol 200mcg,Obstetric,P,38,tablets,2026-03-27,IN_STOCK,True
+MP-DEW-CHC-015,Magnesium Sulphate Injection 50%,Anticonvulsant,P,17,ampoules,2026-04-05,IN_STOCK,True
+MP-DEW-CHC-015,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,14,ampoules,2026-04-15,IN_STOCK,True
+MP-DEW-CHC-015,Hydrocortisone Injection 100mg,Corticosteroid,P,0,vials,2026-03-03,OUT_OF_STOCK,True
+MP-DEW-CHC-015,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,27,ampoules,2026-04-08,IN_STOCK,True
+MP-DEW-CHC-015,Paracetamol 500mg,Analgesic,P,58,tablets,2026-04-09,IN_STOCK,False
+MP-DEW-CHC-015,Ibuprofen 400mg,NSAID,P,65,tablets,2026-03-28,IN_STOCK,False
+MP-DEW-CHC-015,Diclofenac Sodium 50mg,NSAID,P,65,tablets,2026-03-01,IN_STOCK,False
+MP-DEW-CHC-015,Salbutamol Inhaler 100mcg,Bronchodilator,P,63,inhalers,2026-03-27,IN_STOCK,False
+MP-DEW-CHC-015,Dexamethasone Injection 4mg,Corticosteroid,P,28,ampoules,2026-03-03,IN_STOCK,True
+MP-DEW-CHC-015,Prednisolone 5mg,Corticosteroid,P,56,tablets,2026-02-24,IN_STOCK,False
+MP-DEW-CHC-015,Metformin 500mg,Antidiabetic,P,6,tablets,2026-03-05,LOW,False
+MP-DEW-CHC-015,Glimepiride 1mg,Antidiabetic,P,52,tablets,2026-03-11,IN_STOCK,False
+MP-DEW-CHC-015,Amlodipine 5mg,Antihypertensive,P,72,tablets,2026-02-21,IN_STOCK,False
+MP-DEW-CHC-015,Enalapril 5mg,Antihypertensive,P,27,tablets,2026-03-10,IN_STOCK,False
+MP-DEW-CHC-015,Tetanus Toxoid Injection,Vaccine,P,38,doses,2026-02-27,IN_STOCK,True
+MP-DEW-CHC-015,Anti-Tetanus Serum (ATS),Antiserum,P,14,vials,2026-03-11,IN_STOCK,True
+MP-DEW-CHC-015,Anti-Rabies Vaccine (ARV),Vaccine,P,36,doses,2026-03-09,IN_STOCK,True
+MP-DEW-CHC-015,Rabies Immunoglobulin (RIG),Immunoglobulin,S,39,vials,2026-03-05,IN_STOCK,True
+MP-DEW-CHC-015,Activated Charcoal Powder,Antidote,P,35,sachets,2026-04-10,IN_STOCK,True
+MP-DEW-CHC-015,Pralidoxime (PAM) Injection,Antidote,S,26,vials,2026-04-08,IN_STOCK,True
+MP-DEW-CHC-016,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,29,vials,2026-02-27,IN_STOCK,True
+MP-DEW-CHC-016,Artesunate Injection 60mg,Antimalarial,P,40,vials,2026-03-01,IN_STOCK,True
+MP-DEW-CHC-016,Artemether-Lumefantrine Tablets,Antimalarial,P,29,tablets,2026-04-04,IN_STOCK,True
+MP-DEW-CHC-016,Chloroquine Phosphate 250mg,Antimalarial,P,68,tablets,2026-03-18,IN_STOCK,False
+MP-DEW-CHC-016,Primaquine 7.5mg,Antimalarial,P,46,tablets,2026-04-06,IN_STOCK,False
+MP-DEW-CHC-016,Dengue NS1 Antigen Test Kit,Diagnostic,P,30,kits,2026-03-26,IN_STOCK,True
+MP-DEW-CHC-016,Platelet Rich Plasma,Blood Product,S,34,units,2026-03-07,IN_STOCK,True
+MP-DEW-CHC-016,Normal Saline 0.9% (1L),IV Fluid,P,28,bottles,2026-04-05,IN_STOCK,True
+MP-DEW-CHC-016,Ringer Lactate (1L),IV Fluid,P,22,bottles,2026-04-03,IN_STOCK,True
+MP-DEW-CHC-016,ORS Packets (WHO formula),ORS,P,37,packets,2026-03-30,IN_STOCK,True
+MP-DEW-CHC-016,Zinc Sulphate Dispersible 20mg,Micronutrient,P,70,tablets,2026-03-03,IN_STOCK,False
+MP-DEW-CHC-016,Metronidazole 400mg,Antiprotozoal,P,56,tablets,2026-03-26,IN_STOCK,False
+MP-DEW-CHC-016,Amoxicillin 500mg,Antibiotic,P,76,capsules,2026-03-02,IN_STOCK,False
+MP-DEW-CHC-016,Azithromycin 500mg,Antibiotic,P,33,tablets,2026-03-12,IN_STOCK,False
+MP-DEW-CHC-016,Ciprofloxacin 500mg,Antibiotic,P,50,tablets,2026-02-19,IN_STOCK,False
+MP-DEW-CHC-016,Cotrimoxazole Paediatric,Antibiotic,P,78,tablets,2026-03-26,IN_STOCK,False
+MP-DEW-CHC-016,Gentamicin Injection 80mg,Antibiotic,P,22,ampoules,2026-04-15,IN_STOCK,True
+MP-DEW-CHC-016,Ceftriaxone Injection 1g,Antibiotic,S,24,vials,2026-02-17,IN_STOCK,True
+MP-DEW-CHC-016,Oxytocin Injection 5IU,Obstetric,P,28,ampoules,2026-04-04,IN_STOCK,True
+MP-DEW-CHC-016,Misoprostol 200mcg,Obstetric,P,30,tablets,2026-03-04,IN_STOCK,True
+MP-DEW-CHC-016,Magnesium Sulphate Injection 50%,Anticonvulsant,P,36,ampoules,2026-03-11,IN_STOCK,True
+MP-DEW-CHC-016,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,2,ampoules,2026-03-08,LOW,True
+MP-DEW-CHC-016,Hydrocortisone Injection 100mg,Corticosteroid,P,23,vials,2026-03-03,IN_STOCK,True
+MP-DEW-CHC-016,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,17,ampoules,2026-04-17,IN_STOCK,True
+MP-DEW-CHC-016,Paracetamol 500mg,Analgesic,P,36,tablets,2026-03-22,IN_STOCK,False
+MP-DEW-CHC-016,Ibuprofen 400mg,NSAID,P,56,tablets,2026-03-18,IN_STOCK,False
+MP-DEW-CHC-016,Diclofenac Sodium 50mg,NSAID,P,74,tablets,2026-03-30,IN_STOCK,False
+MP-DEW-CHC-016,Salbutamol Inhaler 100mcg,Bronchodilator,P,67,inhalers,2026-04-14,IN_STOCK,False
+MP-DEW-CHC-016,Dexamethasone Injection 4mg,Corticosteroid,P,2,ampoules,2026-03-14,LOW,True
+MP-DEW-CHC-016,Prednisolone 5mg,Corticosteroid,P,80,tablets,2026-02-17,IN_STOCK,False
+MP-DEW-CHC-016,Metformin 500mg,Antidiabetic,P,3,tablets,2026-03-22,LOW,False
+MP-DEW-CHC-016,Glimepiride 1mg,Antidiabetic,P,37,tablets,2026-02-17,IN_STOCK,False
+MP-DEW-CHC-016,Amlodipine 5mg,Antihypertensive,P,79,tablets,2026-03-23,IN_STOCK,False
+MP-DEW-CHC-016,Enalapril 5mg,Antihypertensive,P,37,tablets,2026-02-17,IN_STOCK,False
+MP-DEW-CHC-016,Tetanus Toxoid Injection,Vaccine,P,22,doses,2026-02-20,IN_STOCK,True
+MP-DEW-CHC-016,Anti-Tetanus Serum (ATS),Antiserum,P,0,vials,2026-03-29,OUT_OF_STOCK,True
+MP-DEW-CHC-016,Anti-Rabies Vaccine (ARV),Vaccine,P,23,doses,2026-03-30,IN_STOCK,True
+MP-DEW-CHC-016,Rabies Immunoglobulin (RIG),Immunoglobulin,S,29,vials,2026-03-17,IN_STOCK,True
+MP-DEW-CHC-016,Activated Charcoal Powder,Antidote,P,29,sachets,2026-03-19,IN_STOCK,True
+MP-DEW-CHC-016,Pralidoxime (PAM) Injection,Antidote,S,23,vials,2026-04-07,IN_STOCK,True
+MP-UJJ-CHC-017,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,35,vials,2026-04-06,IN_STOCK,True
+MP-UJJ-CHC-017,Artesunate Injection 60mg,Antimalarial,P,0,vials,2026-03-27,OUT_OF_STOCK,True
+MP-UJJ-CHC-017,Artemether-Lumefantrine Tablets,Antimalarial,P,37,tablets,2026-04-05,IN_STOCK,True
+MP-UJJ-CHC-017,Chloroquine Phosphate 250mg,Antimalarial,P,80,tablets,2026-03-08,IN_STOCK,False
+MP-UJJ-CHC-017,Primaquine 7.5mg,Antimalarial,P,78,tablets,2026-03-21,IN_STOCK,False
+MP-UJJ-CHC-017,Dengue NS1 Antigen Test Kit,Diagnostic,P,1,kits,2026-04-06,LOW,True
+MP-UJJ-CHC-017,Platelet Rich Plasma,Blood Product,S,20,units,2026-04-17,IN_STOCK,True
+MP-UJJ-CHC-017,Normal Saline 0.9% (1L),IV Fluid,P,37,bottles,2026-03-31,IN_STOCK,True
+MP-UJJ-CHC-017,Ringer Lactate (1L),IV Fluid,P,36,bottles,2026-03-12,IN_STOCK,True
+MP-UJJ-CHC-017,ORS Packets (WHO formula),ORS,P,0,packets,2026-03-07,OUT_OF_STOCK,True
+MP-UJJ-CHC-017,Zinc Sulphate Dispersible 20mg,Micronutrient,P,41,tablets,2026-04-14,IN_STOCK,False
+MP-UJJ-CHC-017,Metronidazole 400mg,Antiprotozoal,P,55,tablets,2026-03-29,IN_STOCK,False
+MP-UJJ-CHC-017,Amoxicillin 500mg,Antibiotic,P,69,capsules,2026-03-16,IN_STOCK,False
+MP-UJJ-CHC-017,Azithromycin 500mg,Antibiotic,P,71,tablets,2026-02-27,IN_STOCK,False
+MP-UJJ-CHC-017,Ciprofloxacin 500mg,Antibiotic,P,33,tablets,2026-03-08,IN_STOCK,False
+MP-UJJ-CHC-017,Cotrimoxazole Paediatric,Antibiotic,P,44,tablets,2026-03-25,IN_STOCK,False
+MP-UJJ-CHC-017,Gentamicin Injection 80mg,Antibiotic,P,17,ampoules,2026-03-18,IN_STOCK,True
+MP-UJJ-CHC-017,Ceftriaxone Injection 1g,Antibiotic,S,32,vials,2026-03-25,IN_STOCK,True
+MP-UJJ-CHC-017,Oxytocin Injection 5IU,Obstetric,P,28,ampoules,2026-02-28,IN_STOCK,True
+MP-UJJ-CHC-017,Misoprostol 200mcg,Obstetric,P,19,tablets,2026-02-28,IN_STOCK,True
+MP-UJJ-CHC-017,Magnesium Sulphate Injection 50%,Anticonvulsant,P,40,ampoules,2026-02-26,IN_STOCK,True
+MP-UJJ-CHC-017,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,35,ampoules,2026-03-25,IN_STOCK,True
+MP-UJJ-CHC-017,Hydrocortisone Injection 100mg,Corticosteroid,P,14,vials,2026-02-23,IN_STOCK,True
+MP-UJJ-CHC-017,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,31,ampoules,2026-03-14,IN_STOCK,True
+MP-UJJ-CHC-017,Paracetamol 500mg,Analgesic,P,46,tablets,2026-02-22,IN_STOCK,False
+MP-UJJ-CHC-017,Ibuprofen 400mg,NSAID,P,33,tablets,2026-03-05,IN_STOCK,False
+MP-UJJ-CHC-017,Diclofenac Sodium 50mg,NSAID,P,63,tablets,2026-03-17,IN_STOCK,False
+MP-UJJ-CHC-017,Salbutamol Inhaler 100mcg,Bronchodilator,P,8,inhalers,2026-02-25,LOW,False
+MP-UJJ-CHC-017,Dexamethasone Injection 4mg,Corticosteroid,P,26,ampoules,2026-03-19,IN_STOCK,True
+MP-UJJ-CHC-017,Prednisolone 5mg,Corticosteroid,P,61,tablets,2026-03-19,IN_STOCK,False
+MP-UJJ-CHC-017,Metformin 500mg,Antidiabetic,P,45,tablets,2026-03-02,IN_STOCK,False
+MP-UJJ-CHC-017,Glimepiride 1mg,Antidiabetic,P,5,tablets,2026-02-24,LOW,False
+MP-UJJ-CHC-017,Amlodipine 5mg,Antihypertensive,P,4,tablets,2026-03-11,LOW,False
+MP-UJJ-CHC-017,Enalapril 5mg,Antihypertensive,P,7,tablets,2026-03-26,LOW,False
+MP-UJJ-CHC-017,Tetanus Toxoid Injection,Vaccine,P,14,doses,2026-02-17,IN_STOCK,True
+MP-UJJ-CHC-017,Anti-Tetanus Serum (ATS),Antiserum,P,28,vials,2026-04-15,IN_STOCK,True
+MP-UJJ-CHC-017,Anti-Rabies Vaccine (ARV),Vaccine,P,17,doses,2026-02-27,IN_STOCK,True
+MP-UJJ-CHC-017,Rabies Immunoglobulin (RIG),Immunoglobulin,S,26,vials,2026-03-25,IN_STOCK,True
+MP-UJJ-CHC-017,Activated Charcoal Powder,Antidote,P,40,sachets,2026-02-18,IN_STOCK,True
+MP-UJJ-CHC-017,Pralidoxime (PAM) Injection,Antidote,S,34,vials,2026-03-06,IN_STOCK,True
+MP-UJJ-CHC-018,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,40,vials,2026-03-26,IN_STOCK,True
+MP-UJJ-CHC-018,Artesunate Injection 60mg,Antimalarial,P,25,vials,2026-03-15,IN_STOCK,True
+MP-UJJ-CHC-018,Artemether-Lumefantrine Tablets,Antimalarial,P,39,tablets,2026-04-17,IN_STOCK,True
+MP-UJJ-CHC-018,Chloroquine Phosphate 250mg,Antimalarial,P,45,tablets,2026-03-19,IN_STOCK,False
+MP-UJJ-CHC-018,Primaquine 7.5mg,Antimalarial,P,60,tablets,2026-03-21,IN_STOCK,False
+MP-UJJ-CHC-018,Dengue NS1 Antigen Test Kit,Diagnostic,P,20,kits,2026-03-19,IN_STOCK,True
+MP-UJJ-CHC-018,Platelet Rich Plasma,Blood Product,S,36,units,2026-02-28,IN_STOCK,True
+MP-UJJ-CHC-018,Normal Saline 0.9% (1L),IV Fluid,P,26,bottles,2026-03-09,IN_STOCK,True
+MP-UJJ-CHC-018,Ringer Lactate (1L),IV Fluid,P,13,bottles,2026-04-02,IN_STOCK,True
+MP-UJJ-CHC-018,ORS Packets (WHO formula),ORS,P,14,packets,2026-03-20,IN_STOCK,True
+MP-UJJ-CHC-018,Zinc Sulphate Dispersible 20mg,Micronutrient,P,71,tablets,2026-02-21,IN_STOCK,False
+MP-UJJ-CHC-018,Metronidazole 400mg,Antiprotozoal,P,1,tablets,2026-03-23,LOW,False
+MP-UJJ-CHC-018,Amoxicillin 500mg,Antibiotic,P,60,capsules,2026-04-04,IN_STOCK,False
+MP-UJJ-CHC-018,Azithromycin 500mg,Antibiotic,P,75,tablets,2026-04-14,IN_STOCK,False
+MP-UJJ-CHC-018,Ciprofloxacin 500mg,Antibiotic,P,44,tablets,2026-04-03,IN_STOCK,False
+MP-UJJ-CHC-018,Cotrimoxazole Paediatric,Antibiotic,P,72,tablets,2026-03-12,IN_STOCK,False
+MP-UJJ-CHC-018,Gentamicin Injection 80mg,Antibiotic,P,34,ampoules,2026-02-24,IN_STOCK,True
+MP-UJJ-CHC-018,Ceftriaxone Injection 1g,Antibiotic,S,17,vials,2026-03-06,IN_STOCK,True
+MP-UJJ-CHC-018,Oxytocin Injection 5IU,Obstetric,P,21,ampoules,2026-04-14,IN_STOCK,True
+MP-UJJ-CHC-018,Misoprostol 200mcg,Obstetric,P,36,tablets,2026-02-18,IN_STOCK,True
+MP-UJJ-CHC-018,Magnesium Sulphate Injection 50%,Anticonvulsant,P,30,ampoules,2026-03-17,IN_STOCK,True
+MP-UJJ-CHC-018,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,0,ampoules,2026-03-26,OUT_OF_STOCK,True
+MP-UJJ-CHC-018,Hydrocortisone Injection 100mg,Corticosteroid,P,38,vials,2026-03-15,IN_STOCK,True
+MP-UJJ-CHC-018,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,17,ampoules,2026-03-29,IN_STOCK,True
+MP-UJJ-CHC-018,Paracetamol 500mg,Analgesic,P,74,tablets,2026-03-14,IN_STOCK,False
+MP-UJJ-CHC-018,Ibuprofen 400mg,NSAID,P,80,tablets,2026-04-03,IN_STOCK,False
+MP-UJJ-CHC-018,Diclofenac Sodium 50mg,NSAID,P,71,tablets,2026-04-08,IN_STOCK,False
+MP-UJJ-CHC-018,Salbutamol Inhaler 100mcg,Bronchodilator,P,29,inhalers,2026-03-13,IN_STOCK,False
+MP-UJJ-CHC-018,Dexamethasone Injection 4mg,Corticosteroid,P,29,ampoules,2026-04-09,IN_STOCK,True
+MP-UJJ-CHC-018,Prednisolone 5mg,Corticosteroid,P,42,tablets,2026-04-04,IN_STOCK,False
+MP-UJJ-CHC-018,Metformin 500mg,Antidiabetic,P,31,tablets,2026-02-17,IN_STOCK,False
+MP-UJJ-CHC-018,Glimepiride 1mg,Antidiabetic,P,49,tablets,2026-04-12,IN_STOCK,False
+MP-UJJ-CHC-018,Amlodipine 5mg,Antihypertensive,P,79,tablets,2026-04-05,IN_STOCK,False
+MP-UJJ-CHC-018,Enalapril 5mg,Antihypertensive,P,7,tablets,2026-03-05,LOW,False
+MP-UJJ-CHC-018,Tetanus Toxoid Injection,Vaccine,P,1,doses,2026-04-05,LOW,True
+MP-UJJ-CHC-018,Anti-Tetanus Serum (ATS),Antiserum,P,34,vials,2026-03-13,IN_STOCK,True
+MP-UJJ-CHC-018,Anti-Rabies Vaccine (ARV),Vaccine,P,23,doses,2026-03-29,IN_STOCK,True
+MP-UJJ-CHC-018,Rabies Immunoglobulin (RIG),Immunoglobulin,S,2,vials,2026-03-01,LOW,True
+MP-UJJ-CHC-018,Activated Charcoal Powder,Antidote,P,28,sachets,2026-02-18,IN_STOCK,True
+MP-UJJ-CHC-018,Pralidoxime (PAM) Injection,Antidote,S,19,vials,2026-03-23,IN_STOCK,True
+MP-DHA-CHC-019,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,37,vials,2026-03-30,IN_STOCK,True
+MP-DHA-CHC-019,Artesunate Injection 60mg,Antimalarial,P,24,vials,2026-03-29,IN_STOCK,True
+MP-DHA-CHC-019,Artemether-Lumefantrine Tablets,Antimalarial,P,28,tablets,2026-03-19,IN_STOCK,True
+MP-DHA-CHC-019,Chloroquine Phosphate 250mg,Antimalarial,P,8,tablets,2026-02-28,LOW,False
+MP-DHA-CHC-019,Primaquine 7.5mg,Antimalarial,P,39,tablets,2026-03-25,IN_STOCK,False
+MP-DHA-CHC-019,Dengue NS1 Antigen Test Kit,Diagnostic,P,2,kits,2026-03-01,LOW,True
+MP-DHA-CHC-019,Platelet Rich Plasma,Blood Product,S,31,units,2026-03-11,IN_STOCK,True
+MP-DHA-CHC-019,Normal Saline 0.9% (1L),IV Fluid,P,19,bottles,2026-03-27,IN_STOCK,True
+MP-DHA-CHC-019,Ringer Lactate (1L),IV Fluid,P,20,bottles,2026-03-17,IN_STOCK,True
+MP-DHA-CHC-019,ORS Packets (WHO formula),ORS,P,23,packets,2026-04-01,IN_STOCK,True
+MP-DHA-CHC-019,Zinc Sulphate Dispersible 20mg,Micronutrient,P,57,tablets,2026-03-02,IN_STOCK,False
+MP-DHA-CHC-019,Metronidazole 400mg,Antiprotozoal,P,57,tablets,2026-03-19,IN_STOCK,False
+MP-DHA-CHC-019,Amoxicillin 500mg,Antibiotic,P,76,capsules,2026-03-26,IN_STOCK,False
+MP-DHA-CHC-019,Azithromycin 500mg,Antibiotic,P,72,tablets,2026-03-14,IN_STOCK,False
+MP-DHA-CHC-019,Ciprofloxacin 500mg,Antibiotic,P,60,tablets,2026-03-07,IN_STOCK,False
+MP-DHA-CHC-019,Cotrimoxazole Paediatric,Antibiotic,P,59,tablets,2026-04-15,IN_STOCK,False
+MP-DHA-CHC-019,Gentamicin Injection 80mg,Antibiotic,P,1,ampoules,2026-02-28,LOW,True
+MP-DHA-CHC-019,Ceftriaxone Injection 1g,Antibiotic,S,0,vials,2026-04-09,OUT_OF_STOCK,True
+MP-DHA-CHC-019,Oxytocin Injection 5IU,Obstetric,P,35,ampoules,2026-04-08,IN_STOCK,True
+MP-DHA-CHC-019,Misoprostol 200mcg,Obstetric,P,0,tablets,2026-03-16,OUT_OF_STOCK,True
+MP-DHA-CHC-019,Magnesium Sulphate Injection 50%,Anticonvulsant,P,4,ampoules,2026-03-06,LOW,True
+MP-DHA-CHC-019,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,4,ampoules,2026-04-17,LOW,True
+MP-DHA-CHC-019,Hydrocortisone Injection 100mg,Corticosteroid,P,0,vials,2026-03-02,OUT_OF_STOCK,True
+MP-DHA-CHC-019,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,13,ampoules,2026-03-16,IN_STOCK,True
+MP-DHA-CHC-019,Paracetamol 500mg,Analgesic,P,69,tablets,2026-03-21,IN_STOCK,False
+MP-DHA-CHC-019,Ibuprofen 400mg,NSAID,P,37,tablets,2026-04-11,IN_STOCK,False
+MP-DHA-CHC-019,Diclofenac Sodium 50mg,NSAID,P,59,tablets,2026-04-08,IN_STOCK,False
+MP-DHA-CHC-019,Salbutamol Inhaler 100mcg,Bronchodilator,P,65,inhalers,2026-03-15,IN_STOCK,False
+MP-DHA-CHC-019,Dexamethasone Injection 4mg,Corticosteroid,P,38,ampoules,2026-03-23,IN_STOCK,True
+MP-DHA-CHC-019,Prednisolone 5mg,Corticosteroid,P,7,tablets,2026-03-19,LOW,False
+MP-DHA-CHC-019,Metformin 500mg,Antidiabetic,P,70,tablets,2026-04-03,IN_STOCK,False
+MP-DHA-CHC-019,Glimepiride 1mg,Antidiabetic,P,78,tablets,2026-02-22,IN_STOCK,False
+MP-DHA-CHC-019,Amlodipine 5mg,Antihypertensive,P,1,tablets,2026-04-12,LOW,False
+MP-DHA-CHC-019,Enalapril 5mg,Antihypertensive,P,50,tablets,2026-03-13,IN_STOCK,False
+MP-DHA-CHC-019,Tetanus Toxoid Injection,Vaccine,P,35,doses,2026-04-07,IN_STOCK,True
+MP-DHA-CHC-019,Anti-Tetanus Serum (ATS),Antiserum,P,33,vials,2026-02-26,IN_STOCK,True
+MP-DHA-CHC-019,Anti-Rabies Vaccine (ARV),Vaccine,P,16,doses,2026-02-19,IN_STOCK,True
+MP-DHA-CHC-019,Rabies Immunoglobulin (RIG),Immunoglobulin,S,2,vials,2026-02-19,LOW,True
+MP-DHA-CHC-019,Activated Charcoal Powder,Antidote,P,28,sachets,2026-03-31,IN_STOCK,True
+MP-DHA-CHC-019,Pralidoxime (PAM) Injection,Antidote,S,0,vials,2026-04-13,OUT_OF_STOCK,True
+MP-DHA-CHC-020,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,30,vials,2026-03-12,IN_STOCK,True
+MP-DHA-CHC-020,Artesunate Injection 60mg,Antimalarial,P,40,vials,2026-03-28,IN_STOCK,True
+MP-DHA-CHC-020,Artemether-Lumefantrine Tablets,Antimalarial,P,0,tablets,2026-04-04,OUT_OF_STOCK,True
+MP-DHA-CHC-020,Chloroquine Phosphate 250mg,Antimalarial,P,74,tablets,2026-02-24,IN_STOCK,False
+MP-DHA-CHC-020,Primaquine 7.5mg,Antimalarial,P,51,tablets,2026-02-17,IN_STOCK,False
+MP-DHA-CHC-020,Dengue NS1 Antigen Test Kit,Diagnostic,P,20,kits,2026-03-12,IN_STOCK,True
+MP-DHA-CHC-020,Platelet Rich Plasma,Blood Product,S,30,units,2026-03-27,IN_STOCK,True
+MP-DHA-CHC-020,Normal Saline 0.9% (1L),IV Fluid,P,38,bottles,2026-03-04,IN_STOCK,True
+MP-DHA-CHC-020,Ringer Lactate (1L),IV Fluid,P,24,bottles,2026-04-14,IN_STOCK,True
+MP-DHA-CHC-020,ORS Packets (WHO formula),ORS,P,15,packets,2026-03-27,IN_STOCK,True
+MP-DHA-CHC-020,Zinc Sulphate Dispersible 20mg,Micronutrient,P,65,tablets,2026-03-10,IN_STOCK,False
+MP-DHA-CHC-020,Metronidazole 400mg,Antiprotozoal,P,75,tablets,2026-03-28,IN_STOCK,False
+MP-DHA-CHC-020,Amoxicillin 500mg,Antibiotic,P,5,capsules,2026-02-26,LOW,False
+MP-DHA-CHC-020,Azithromycin 500mg,Antibiotic,P,57,tablets,2026-04-03,IN_STOCK,False
+MP-DHA-CHC-020,Ciprofloxacin 500mg,Antibiotic,P,50,tablets,2026-03-21,IN_STOCK,False
+MP-DHA-CHC-020,Cotrimoxazole Paediatric,Antibiotic,P,63,tablets,2026-03-06,IN_STOCK,False
+MP-DHA-CHC-020,Gentamicin Injection 80mg,Antibiotic,P,22,ampoules,2026-02-25,IN_STOCK,True
+MP-DHA-CHC-020,Ceftriaxone Injection 1g,Antibiotic,S,3,vials,2026-04-08,LOW,True
+MP-DHA-CHC-020,Oxytocin Injection 5IU,Obstetric,P,17,ampoules,2026-03-01,IN_STOCK,True
+MP-DHA-CHC-020,Misoprostol 200mcg,Obstetric,P,15,tablets,2026-04-17,IN_STOCK,True
+MP-DHA-CHC-020,Magnesium Sulphate Injection 50%,Anticonvulsant,P,37,ampoules,2026-03-31,IN_STOCK,True
+MP-DHA-CHC-020,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,4,ampoules,2026-03-20,LOW,True
+MP-DHA-CHC-020,Hydrocortisone Injection 100mg,Corticosteroid,P,16,vials,2026-04-16,IN_STOCK,True
+MP-DHA-CHC-020,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,32,ampoules,2026-03-10,IN_STOCK,True
+MP-DHA-CHC-020,Paracetamol 500mg,Analgesic,P,50,tablets,2026-04-17,IN_STOCK,False
+MP-DHA-CHC-020,Ibuprofen 400mg,NSAID,P,50,tablets,2026-02-27,IN_STOCK,False
+MP-DHA-CHC-020,Diclofenac Sodium 50mg,NSAID,P,4,tablets,2026-03-12,LOW,False
+MP-DHA-CHC-020,Salbutamol Inhaler 100mcg,Bronchodilator,P,69,inhalers,2026-03-24,IN_STOCK,False
+MP-DHA-CHC-020,Dexamethasone Injection 4mg,Corticosteroid,P,21,ampoules,2026-03-17,IN_STOCK,True
+MP-DHA-CHC-020,Prednisolone 5mg,Corticosteroid,P,36,tablets,2026-03-21,IN_STOCK,False
+MP-DHA-CHC-020,Metformin 500mg,Antidiabetic,P,45,tablets,2026-03-18,IN_STOCK,False
+MP-DHA-CHC-020,Glimepiride 1mg,Antidiabetic,P,49,tablets,2026-04-01,IN_STOCK,False
+MP-DHA-CHC-020,Amlodipine 5mg,Antihypertensive,P,72,tablets,2026-03-08,IN_STOCK,False
+MP-DHA-CHC-020,Enalapril 5mg,Antihypertensive,P,65,tablets,2026-04-05,IN_STOCK,False
+MP-DHA-CHC-020,Tetanus Toxoid Injection,Vaccine,P,13,doses,2026-03-23,IN_STOCK,True
+MP-DHA-CHC-020,Anti-Tetanus Serum (ATS),Antiserum,P,38,vials,2026-02-21,IN_STOCK,True
+MP-DHA-CHC-020,Anti-Rabies Vaccine (ARV),Vaccine,P,39,doses,2026-02-24,IN_STOCK,True
+MP-DHA-CHC-020,Rabies Immunoglobulin (RIG),Immunoglobulin,S,17,vials,2026-03-29,IN_STOCK,True
+MP-DHA-CHC-020,Activated Charcoal Powder,Antidote,P,19,sachets,2026-03-18,IN_STOCK,True
+MP-DHA-CHC-020,Pralidoxime (PAM) Injection,Antidote,S,23,vials,2026-03-30,IN_STOCK,True
+MP-BUR-CHC-021,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,31,vials,2026-02-26,IN_STOCK,True
+MP-BUR-CHC-021,Artesunate Injection 60mg,Antimalarial,P,39,vials,2026-02-26,IN_STOCK,True
+MP-BUR-CHC-021,Artemether-Lumefantrine Tablets,Antimalarial,P,31,tablets,2026-04-05,IN_STOCK,True
+MP-BUR-CHC-021,Chloroquine Phosphate 250mg,Antimalarial,P,60,tablets,2026-04-06,IN_STOCK,False
+MP-BUR-CHC-021,Primaquine 7.5mg,Antimalarial,P,61,tablets,2026-04-16,IN_STOCK,False
+MP-BUR-CHC-021,Dengue NS1 Antigen Test Kit,Diagnostic,P,35,kits,2026-04-04,IN_STOCK,True
+MP-BUR-CHC-021,Platelet Rich Plasma,Blood Product,S,35,units,2026-04-13,IN_STOCK,True
+MP-BUR-CHC-021,Normal Saline 0.9% (1L),IV Fluid,P,26,bottles,2026-03-05,IN_STOCK,True
+MP-BUR-CHC-021,Ringer Lactate (1L),IV Fluid,P,20,bottles,2026-04-01,IN_STOCK,True
+MP-BUR-CHC-021,ORS Packets (WHO formula),ORS,P,38,packets,2026-03-24,IN_STOCK,True
+MP-BUR-CHC-021,Zinc Sulphate Dispersible 20mg,Micronutrient,P,8,tablets,2026-03-11,LOW,False
+MP-BUR-CHC-021,Metronidazole 400mg,Antiprotozoal,P,58,tablets,2026-02-17,IN_STOCK,False
+MP-BUR-CHC-021,Amoxicillin 500mg,Antibiotic,P,70,capsules,2026-03-22,IN_STOCK,False
+MP-BUR-CHC-021,Azithromycin 500mg,Antibiotic,P,76,tablets,2026-03-25,IN_STOCK,False
+MP-BUR-CHC-021,Ciprofloxacin 500mg,Antibiotic,P,77,tablets,2026-03-14,IN_STOCK,False
+MP-BUR-CHC-021,Cotrimoxazole Paediatric,Antibiotic,P,31,tablets,2026-04-11,IN_STOCK,False
+MP-BUR-CHC-021,Gentamicin Injection 80mg,Antibiotic,P,24,ampoules,2026-04-07,IN_STOCK,True
+MP-BUR-CHC-021,Ceftriaxone Injection 1g,Antibiotic,S,4,vials,2026-02-28,LOW,True
+MP-BUR-CHC-021,Oxytocin Injection 5IU,Obstetric,P,16,ampoules,2026-04-17,IN_STOCK,True
+MP-BUR-CHC-021,Misoprostol 200mcg,Obstetric,P,36,tablets,2026-03-15,IN_STOCK,True
+MP-BUR-CHC-021,Magnesium Sulphate Injection 50%,Anticonvulsant,P,20,ampoules,2026-03-20,IN_STOCK,True
+MP-BUR-CHC-021,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,34,ampoules,2026-03-11,IN_STOCK,True
+MP-BUR-CHC-021,Hydrocortisone Injection 100mg,Corticosteroid,P,13,vials,2026-03-18,IN_STOCK,True
+MP-BUR-CHC-021,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,15,ampoules,2026-04-10,IN_STOCK,True
+MP-BUR-CHC-021,Paracetamol 500mg,Analgesic,P,72,tablets,2026-04-08,IN_STOCK,False
+MP-BUR-CHC-021,Ibuprofen 400mg,NSAID,P,47,tablets,2026-03-19,IN_STOCK,False
+MP-BUR-CHC-021,Diclofenac Sodium 50mg,NSAID,P,59,tablets,2026-03-18,IN_STOCK,False
+MP-BUR-CHC-021,Salbutamol Inhaler 100mcg,Bronchodilator,P,32,inhalers,2026-03-20,IN_STOCK,False
+MP-BUR-CHC-021,Dexamethasone Injection 4mg,Corticosteroid,P,15,ampoules,2026-03-29,IN_STOCK,True
+MP-BUR-CHC-021,Prednisolone 5mg,Corticosteroid,P,2,tablets,2026-04-16,LOW,False
+MP-BUR-CHC-021,Metformin 500mg,Antidiabetic,P,67,tablets,2026-04-11,IN_STOCK,False
+MP-BUR-CHC-021,Glimepiride 1mg,Antidiabetic,P,36,tablets,2026-02-17,IN_STOCK,False
+MP-BUR-CHC-021,Amlodipine 5mg,Antihypertensive,P,41,tablets,2026-03-15,IN_STOCK,False
+MP-BUR-CHC-021,Enalapril 5mg,Antihypertensive,P,36,tablets,2026-03-27,IN_STOCK,False
+MP-BUR-CHC-021,Tetanus Toxoid Injection,Vaccine,P,20,doses,2026-02-25,IN_STOCK,True
+MP-BUR-CHC-021,Anti-Tetanus Serum (ATS),Antiserum,P,33,vials,2026-03-06,IN_STOCK,True
+MP-BUR-CHC-021,Anti-Rabies Vaccine (ARV),Vaccine,P,2,doses,2026-03-20,LOW,True
+MP-BUR-CHC-021,Rabies Immunoglobulin (RIG),Immunoglobulin,S,35,vials,2026-04-04,IN_STOCK,True
+MP-BUR-CHC-021,Activated Charcoal Powder,Antidote,P,38,sachets,2026-02-26,IN_STOCK,True
+MP-BUR-CHC-021,Pralidoxime (PAM) Injection,Antidote,S,40,vials,2026-03-14,IN_STOCK,True
+MP-IND-PHC-022,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,12,vials,2026-04-10,IN_STOCK,True
+MP-IND-PHC-022,Artesunate Injection 60mg,Antimalarial,P,13,vials,2026-03-08,IN_STOCK,True
+MP-IND-PHC-022,Artemether-Lumefantrine Tablets,Antimalarial,P,11,tablets,2026-03-11,IN_STOCK,True
+MP-IND-PHC-022,Chloroquine Phosphate 250mg,Antimalarial,P,21,tablets,2026-02-22,IN_STOCK,False
+MP-IND-PHC-022,Primaquine 7.5mg,Antimalarial,P,15,tablets,2026-02-24,IN_STOCK,False
+MP-IND-PHC-022,Dengue NS1 Antigen Test Kit,Diagnostic,P,14,kits,2026-03-11,IN_STOCK,True
+MP-IND-PHC-022,Normal Saline 0.9% (1L),IV Fluid,P,0,bottles,2026-04-09,OUT_OF_STOCK,True
+MP-IND-PHC-022,Ringer Lactate (1L),IV Fluid,P,6,bottles,2026-04-06,IN_STOCK,True
+MP-IND-PHC-022,ORS Packets (WHO formula),ORS,P,11,packets,2026-03-22,IN_STOCK,True
+MP-IND-PHC-022,Zinc Sulphate Dispersible 20mg,Micronutrient,P,28,tablets,2026-03-24,IN_STOCK,False
+MP-IND-PHC-022,Metronidazole 400mg,Antiprotozoal,P,25,tablets,2026-03-08,IN_STOCK,False
+MP-IND-PHC-022,Amoxicillin 500mg,Antibiotic,P,30,capsules,2026-02-17,IN_STOCK,False
+MP-IND-PHC-022,Azithromycin 500mg,Antibiotic,P,27,tablets,2026-04-07,IN_STOCK,False
+MP-IND-PHC-022,Ciprofloxacin 500mg,Antibiotic,P,14,tablets,2026-04-06,IN_STOCK,False
+MP-IND-PHC-022,Cotrimoxazole Paediatric,Antibiotic,P,24,tablets,2026-03-09,IN_STOCK,False
+MP-IND-PHC-022,Gentamicin Injection 80mg,Antibiotic,P,0,ampoules,2026-03-26,OUT_OF_STOCK,True
+MP-IND-PHC-022,Oxytocin Injection 5IU,Obstetric,P,8,ampoules,2026-02-24,IN_STOCK,True
+MP-IND-PHC-022,Misoprostol 200mcg,Obstetric,P,15,tablets,2026-03-17,IN_STOCK,True
+MP-IND-PHC-022,Magnesium Sulphate Injection 50%,Anticonvulsant,P,12,ampoules,2026-03-17,IN_STOCK,True
+MP-IND-PHC-022,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,8,ampoules,2026-03-30,IN_STOCK,True
+MP-IND-PHC-022,Hydrocortisone Injection 100mg,Corticosteroid,P,0,vials,2026-04-03,OUT_OF_STOCK,True
+MP-IND-PHC-022,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,12,ampoules,2026-03-12,IN_STOCK,True
+MP-IND-PHC-022,Paracetamol 500mg,Analgesic,P,25,tablets,2026-03-13,IN_STOCK,False
+MP-IND-PHC-022,Ibuprofen 400mg,NSAID,P,28,tablets,2026-04-10,IN_STOCK,False
+MP-IND-PHC-022,Diclofenac Sodium 50mg,NSAID,P,27,tablets,2026-02-24,IN_STOCK,False
+MP-IND-PHC-022,Salbutamol Inhaler 100mcg,Bronchodilator,P,27,inhalers,2026-02-24,IN_STOCK,False
+MP-IND-PHC-022,Dexamethasone Injection 4mg,Corticosteroid,P,12,ampoules,2026-03-14,IN_STOCK,True
+MP-IND-PHC-022,Prednisolone 5mg,Corticosteroid,P,23,tablets,2026-04-11,IN_STOCK,False
+MP-IND-PHC-022,Metformin 500mg,Antidiabetic,P,30,tablets,2026-02-28,IN_STOCK,False
+MP-IND-PHC-022,Glimepiride 1mg,Antidiabetic,P,11,tablets,2026-03-20,IN_STOCK,False
+MP-IND-PHC-022,Amlodipine 5mg,Antihypertensive,P,12,tablets,2026-03-20,IN_STOCK,False
+MP-IND-PHC-022,Enalapril 5mg,Antihypertensive,P,13,tablets,2026-02-27,IN_STOCK,False
+MP-IND-PHC-022,Tetanus Toxoid Injection,Vaccine,P,14,doses,2026-03-04,IN_STOCK,True
+MP-IND-PHC-022,Anti-Tetanus Serum (ATS),Antiserum,P,15,vials,2026-03-21,IN_STOCK,True
+MP-IND-PHC-022,Anti-Rabies Vaccine (ARV),Vaccine,P,8,doses,2026-02-24,IN_STOCK,True
+MP-IND-PHC-022,Activated Charcoal Powder,Antidote,P,1,sachets,2026-03-14,LOW,True
+MP-IND-PHC-023,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,10,vials,2026-03-03,IN_STOCK,True
+MP-IND-PHC-023,Artesunate Injection 60mg,Antimalarial,P,13,vials,2026-02-19,IN_STOCK,True
+MP-IND-PHC-023,Artemether-Lumefantrine Tablets,Antimalarial,P,1,tablets,2026-02-18,LOW,True
+MP-IND-PHC-023,Chloroquine Phosphate 250mg,Antimalarial,P,2,tablets,2026-02-21,LOW,False
+MP-IND-PHC-023,Primaquine 7.5mg,Antimalarial,P,14,tablets,2026-04-02,IN_STOCK,False
+MP-IND-PHC-023,Dengue NS1 Antigen Test Kit,Diagnostic,P,0,kits,2026-03-28,OUT_OF_STOCK,True
+MP-IND-PHC-023,Normal Saline 0.9% (1L),IV Fluid,P,15,bottles,2026-03-23,IN_STOCK,True
+MP-IND-PHC-023,Ringer Lactate (1L),IV Fluid,P,9,bottles,2026-03-08,IN_STOCK,True
+MP-IND-PHC-023,ORS Packets (WHO formula),ORS,P,15,packets,2026-02-26,IN_STOCK,True
+MP-IND-PHC-023,Zinc Sulphate Dispersible 20mg,Micronutrient,P,12,tablets,2026-03-23,IN_STOCK,False
+MP-IND-PHC-023,Metronidazole 400mg,Antiprotozoal,P,18,tablets,2026-03-04,IN_STOCK,False
+MP-IND-PHC-023,Amoxicillin 500mg,Antibiotic,P,21,capsules,2026-03-19,IN_STOCK,False
+MP-IND-PHC-023,Azithromycin 500mg,Antibiotic,P,20,tablets,2026-03-11,IN_STOCK,False
+MP-IND-PHC-023,Ciprofloxacin 500mg,Antibiotic,P,3,tablets,2026-04-12,LOW,False
+MP-IND-PHC-023,Cotrimoxazole Paediatric,Antibiotic,P,24,tablets,2026-03-08,IN_STOCK,False
+MP-IND-PHC-023,Gentamicin Injection 80mg,Antibiotic,P,6,ampoules,2026-02-26,IN_STOCK,True
+MP-IND-PHC-023,Oxytocin Injection 5IU,Obstetric,P,11,ampoules,2026-02-24,IN_STOCK,True
+MP-IND-PHC-023,Misoprostol 200mcg,Obstetric,P,9,tablets,2026-03-27,IN_STOCK,True
+MP-IND-PHC-023,Magnesium Sulphate Injection 50%,Anticonvulsant,P,12,ampoules,2026-02-26,IN_STOCK,True
+MP-IND-PHC-023,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,5,ampoules,2026-04-15,IN_STOCK,True
+MP-IND-PHC-023,Hydrocortisone Injection 100mg,Corticosteroid,P,0,vials,2026-02-26,OUT_OF_STOCK,True
+MP-IND-PHC-023,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,1,ampoules,2026-03-20,LOW,True
+MP-IND-PHC-023,Paracetamol 500mg,Analgesic,P,23,tablets,2026-04-05,IN_STOCK,False
+MP-IND-PHC-023,Ibuprofen 400mg,NSAID,P,14,tablets,2026-02-20,IN_STOCK,False
+MP-IND-PHC-023,Diclofenac Sodium 50mg,NSAID,P,15,tablets,2026-02-21,IN_STOCK,False
+MP-IND-PHC-023,Salbutamol Inhaler 100mcg,Bronchodilator,P,18,inhalers,2026-04-12,IN_STOCK,False
+MP-IND-PHC-023,Dexamethasone Injection 4mg,Corticosteroid,P,10,ampoules,2026-03-06,IN_STOCK,True
+MP-IND-PHC-023,Prednisolone 5mg,Corticosteroid,P,15,tablets,2026-04-14,IN_STOCK,False
+MP-IND-PHC-023,Metformin 500mg,Antidiabetic,P,19,tablets,2026-03-02,IN_STOCK,False
+MP-IND-PHC-023,Glimepiride 1mg,Antidiabetic,P,17,tablets,2026-03-21,IN_STOCK,False
+MP-IND-PHC-023,Amlodipine 5mg,Antihypertensive,P,13,tablets,2026-04-17,IN_STOCK,False
+MP-IND-PHC-023,Enalapril 5mg,Antihypertensive,P,12,tablets,2026-04-09,IN_STOCK,False
+MP-IND-PHC-023,Tetanus Toxoid Injection,Vaccine,P,12,doses,2026-04-17,IN_STOCK,True
+MP-IND-PHC-023,Anti-Tetanus Serum (ATS),Antiserum,P,0,vials,2026-03-27,OUT_OF_STOCK,True
+MP-IND-PHC-023,Anti-Rabies Vaccine (ARV),Vaccine,P,11,doses,2026-03-04,IN_STOCK,True
+MP-IND-PHC-023,Activated Charcoal Powder,Antidote,P,0,sachets,2026-04-13,OUT_OF_STOCK,True
+MP-IND-PHC-024,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,1,vials,2026-04-11,LOW,True
+MP-IND-PHC-024,Artesunate Injection 60mg,Antimalarial,P,7,vials,2026-03-24,IN_STOCK,True
+MP-IND-PHC-024,Artemether-Lumefantrine Tablets,Antimalarial,P,7,tablets,2026-03-07,IN_STOCK,True
+MP-IND-PHC-024,Chloroquine Phosphate 250mg,Antimalarial,P,14,tablets,2026-04-13,IN_STOCK,False
+MP-IND-PHC-024,Primaquine 7.5mg,Antimalarial,P,10,tablets,2026-03-09,IN_STOCK,False
+MP-IND-PHC-024,Dengue NS1 Antigen Test Kit,Diagnostic,P,8,kits,2026-03-08,IN_STOCK,True
+MP-IND-PHC-024,Normal Saline 0.9% (1L),IV Fluid,P,14,bottles,2026-03-05,IN_STOCK,True
+MP-IND-PHC-024,Ringer Lactate (1L),IV Fluid,P,6,bottles,2026-04-09,IN_STOCK,True
+MP-IND-PHC-024,ORS Packets (WHO formula),ORS,P,11,packets,2026-03-26,IN_STOCK,True
+MP-IND-PHC-024,Zinc Sulphate Dispersible 20mg,Micronutrient,P,20,tablets,2026-02-26,IN_STOCK,False
+MP-IND-PHC-024,Metronidazole 400mg,Antiprotozoal,P,18,tablets,2026-03-07,IN_STOCK,False
+MP-IND-PHC-024,Amoxicillin 500mg,Antibiotic,P,3,capsules,2026-03-10,LOW,False
+MP-IND-PHC-024,Azithromycin 500mg,Antibiotic,P,29,tablets,2026-03-30,IN_STOCK,False
+MP-IND-PHC-024,Ciprofloxacin 500mg,Antibiotic,P,10,tablets,2026-02-22,IN_STOCK,False
+MP-IND-PHC-024,Cotrimoxazole Paediatric,Antibiotic,P,19,tablets,2026-04-04,IN_STOCK,False
+MP-IND-PHC-024,Gentamicin Injection 80mg,Antibiotic,P,11,ampoules,2026-03-30,IN_STOCK,True
+MP-IND-PHC-024,Oxytocin Injection 5IU,Obstetric,P,8,ampoules,2026-03-17,IN_STOCK,True
+MP-IND-PHC-024,Misoprostol 200mcg,Obstetric,P,15,tablets,2026-03-10,IN_STOCK,True
+MP-IND-PHC-024,Magnesium Sulphate Injection 50%,Anticonvulsant,P,0,ampoules,2026-02-20,OUT_OF_STOCK,True
+MP-IND-PHC-024,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,10,ampoules,2026-04-09,IN_STOCK,True
+MP-IND-PHC-024,Hydrocortisone Injection 100mg,Corticosteroid,P,11,vials,2026-03-25,IN_STOCK,True
+MP-IND-PHC-024,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,12,ampoules,2026-02-27,IN_STOCK,True
+MP-IND-PHC-024,Paracetamol 500mg,Analgesic,P,3,tablets,2026-04-13,LOW,False
+MP-IND-PHC-024,Ibuprofen 400mg,NSAID,P,1,tablets,2026-04-15,LOW,False
+MP-IND-PHC-024,Diclofenac Sodium 50mg,NSAID,P,22,tablets,2026-03-16,IN_STOCK,False
+MP-IND-PHC-024,Salbutamol Inhaler 100mcg,Bronchodilator,P,26,inhalers,2026-02-27,IN_STOCK,False
+MP-IND-PHC-024,Dexamethasone Injection 4mg,Corticosteroid,P,6,ampoules,2026-03-08,IN_STOCK,True
+MP-IND-PHC-024,Prednisolone 5mg,Corticosteroid,P,29,tablets,2026-04-08,IN_STOCK,False
+MP-IND-PHC-024,Metformin 500mg,Antidiabetic,P,19,tablets,2026-04-12,IN_STOCK,False
+MP-IND-PHC-024,Glimepiride 1mg,Antidiabetic,P,16,tablets,2026-02-25,IN_STOCK,False
+MP-IND-PHC-024,Amlodipine 5mg,Antihypertensive,P,20,tablets,2026-03-23,IN_STOCK,False
+MP-IND-PHC-024,Enalapril 5mg,Antihypertensive,P,30,tablets,2026-03-05,IN_STOCK,False
+MP-IND-PHC-024,Tetanus Toxoid Injection,Vaccine,P,11,doses,2026-03-02,IN_STOCK,True
+MP-IND-PHC-024,Anti-Tetanus Serum (ATS),Antiserum,P,8,vials,2026-04-12,IN_STOCK,True
+MP-IND-PHC-024,Anti-Rabies Vaccine (ARV),Vaccine,P,14,doses,2026-03-10,IN_STOCK,True
+MP-IND-PHC-024,Activated Charcoal Powder,Antidote,P,0,sachets,2026-03-06,OUT_OF_STOCK,True
+MP-IND-PHC-025,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,6,vials,2026-04-17,IN_STOCK,True
+MP-IND-PHC-025,Artesunate Injection 60mg,Antimalarial,P,7,vials,2026-03-17,IN_STOCK,True
+MP-IND-PHC-025,Artemether-Lumefantrine Tablets,Antimalarial,P,9,tablets,2026-04-07,IN_STOCK,True
+MP-IND-PHC-025,Chloroquine Phosphate 250mg,Antimalarial,P,18,tablets,2026-03-02,IN_STOCK,False
+MP-IND-PHC-025,Primaquine 7.5mg,Antimalarial,P,10,tablets,2026-03-27,IN_STOCK,False
+MP-IND-PHC-025,Dengue NS1 Antigen Test Kit,Diagnostic,P,6,kits,2026-04-01,IN_STOCK,True
+MP-IND-PHC-025,Normal Saline 0.9% (1L),IV Fluid,P,6,bottles,2026-03-17,IN_STOCK,True
+MP-IND-PHC-025,Ringer Lactate (1L),IV Fluid,P,12,bottles,2026-02-22,IN_STOCK,True
+MP-IND-PHC-025,ORS Packets (WHO formula),ORS,P,9,packets,2026-02-27,IN_STOCK,True
+MP-IND-PHC-025,Zinc Sulphate Dispersible 20mg,Micronutrient,P,28,tablets,2026-03-05,IN_STOCK,False
+MP-IND-PHC-025,Metronidazole 400mg,Antiprotozoal,P,17,tablets,2026-03-01,IN_STOCK,False
+MP-IND-PHC-025,Amoxicillin 500mg,Antibiotic,P,11,capsules,2026-02-22,IN_STOCK,False
+MP-IND-PHC-025,Azithromycin 500mg,Antibiotic,P,17,tablets,2026-04-15,IN_STOCK,False
+MP-IND-PHC-025,Ciprofloxacin 500mg,Antibiotic,P,22,tablets,2026-02-18,IN_STOCK,False
+MP-IND-PHC-025,Cotrimoxazole Paediatric,Antibiotic,P,11,tablets,2026-03-13,IN_STOCK,False
+MP-IND-PHC-025,Gentamicin Injection 80mg,Antibiotic,P,15,ampoules,2026-03-22,IN_STOCK,True
+MP-IND-PHC-025,Oxytocin Injection 5IU,Obstetric,P,10,ampoules,2026-03-31,IN_STOCK,True
+MP-IND-PHC-025,Misoprostol 200mcg,Obstetric,P,6,tablets,2026-03-16,IN_STOCK,True
+MP-IND-PHC-025,Magnesium Sulphate Injection 50%,Anticonvulsant,P,1,ampoules,2026-02-25,LOW,True
+MP-IND-PHC-025,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,1,ampoules,2026-04-13,LOW,True
+MP-IND-PHC-025,Hydrocortisone Injection 100mg,Corticosteroid,P,9,vials,2026-03-28,IN_STOCK,True
+MP-IND-PHC-025,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,0,ampoules,2026-03-19,OUT_OF_STOCK,True
+MP-IND-PHC-025,Paracetamol 500mg,Analgesic,P,1,tablets,2026-03-30,LOW,False
+MP-IND-PHC-025,Ibuprofen 400mg,NSAID,P,19,tablets,2026-03-01,IN_STOCK,False
+MP-IND-PHC-025,Diclofenac Sodium 50mg,NSAID,P,24,tablets,2026-03-25,IN_STOCK,False
+MP-IND-PHC-025,Salbutamol Inhaler 100mcg,Bronchodilator,P,25,inhalers,2026-02-27,IN_STOCK,False
+MP-IND-PHC-025,Dexamethasone Injection 4mg,Corticosteroid,P,13,ampoules,2026-02-28,IN_STOCK,True
+MP-IND-PHC-025,Prednisolone 5mg,Corticosteroid,P,14,tablets,2026-04-17,IN_STOCK,False
+MP-IND-PHC-025,Metformin 500mg,Antidiabetic,P,10,tablets,2026-04-03,IN_STOCK,False
+MP-IND-PHC-025,Glimepiride 1mg,Antidiabetic,P,30,tablets,2026-02-23,IN_STOCK,False
+MP-IND-PHC-025,Amlodipine 5mg,Antihypertensive,P,10,tablets,2026-03-27,IN_STOCK,False
+MP-IND-PHC-025,Enalapril 5mg,Antihypertensive,P,3,tablets,2026-03-24,LOW,False
+MP-IND-PHC-025,Tetanus Toxoid Injection,Vaccine,P,6,doses,2026-04-04,IN_STOCK,True
+MP-IND-PHC-025,Anti-Tetanus Serum (ATS),Antiserum,P,12,vials,2026-04-14,IN_STOCK,True
+MP-IND-PHC-025,Anti-Rabies Vaccine (ARV),Vaccine,P,9,doses,2026-04-12,IN_STOCK,True
+MP-IND-PHC-025,Activated Charcoal Powder,Antidote,P,0,sachets,2026-04-03,OUT_OF_STOCK,True
+MP-IND-PHC-026,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,10,vials,2026-03-19,IN_STOCK,True
+MP-IND-PHC-026,Artesunate Injection 60mg,Antimalarial,P,1,vials,2026-03-16,LOW,True
+MP-IND-PHC-026,Artemether-Lumefantrine Tablets,Antimalarial,P,0,tablets,2026-02-24,OUT_OF_STOCK,True
+MP-IND-PHC-026,Chloroquine Phosphate 250mg,Antimalarial,P,28,tablets,2026-03-12,IN_STOCK,False
+MP-IND-PHC-026,Primaquine 7.5mg,Antimalarial,P,3,tablets,2026-04-09,LOW,False
+MP-IND-PHC-026,Dengue NS1 Antigen Test Kit,Diagnostic,P,10,kits,2026-02-17,IN_STOCK,True
+MP-IND-PHC-026,Normal Saline 0.9% (1L),IV Fluid,P,10,bottles,2026-03-28,IN_STOCK,True
+MP-IND-PHC-026,Ringer Lactate (1L),IV Fluid,P,8,bottles,2026-04-09,IN_STOCK,True
+MP-IND-PHC-026,ORS Packets (WHO formula),ORS,P,7,packets,2026-04-11,IN_STOCK,True
+MP-IND-PHC-026,Zinc Sulphate Dispersible 20mg,Micronutrient,P,24,tablets,2026-03-28,IN_STOCK,False
+MP-IND-PHC-026,Metronidazole 400mg,Antiprotozoal,P,27,tablets,2026-03-26,IN_STOCK,False
+MP-IND-PHC-026,Amoxicillin 500mg,Antibiotic,P,16,capsules,2026-03-20,IN_STOCK,False
+MP-IND-PHC-026,Azithromycin 500mg,Antibiotic,P,18,tablets,2026-02-22,IN_STOCK,False
+MP-IND-PHC-026,Ciprofloxacin 500mg,Antibiotic,P,15,tablets,2026-02-25,IN_STOCK,False
+MP-IND-PHC-026,Cotrimoxazole Paediatric,Antibiotic,P,29,tablets,2026-04-15,IN_STOCK,False
+MP-IND-PHC-026,Gentamicin Injection 80mg,Antibiotic,P,7,ampoules,2026-04-12,IN_STOCK,True
+MP-IND-PHC-026,Oxytocin Injection 5IU,Obstetric,P,11,ampoules,2026-03-16,IN_STOCK,True
+MP-IND-PHC-026,Misoprostol 200mcg,Obstetric,P,0,tablets,2026-03-29,OUT_OF_STOCK,True
+MP-IND-PHC-026,Magnesium Sulphate Injection 50%,Anticonvulsant,P,5,ampoules,2026-03-23,IN_STOCK,True
+MP-IND-PHC-026,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,13,ampoules,2026-04-02,IN_STOCK,True
+MP-IND-PHC-026,Hydrocortisone Injection 100mg,Corticosteroid,P,0,vials,2026-04-11,OUT_OF_STOCK,True
+MP-IND-PHC-026,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,5,ampoules,2026-04-14,IN_STOCK,True
+MP-IND-PHC-026,Paracetamol 500mg,Analgesic,P,17,tablets,2026-04-09,IN_STOCK,False
+MP-IND-PHC-026,Ibuprofen 400mg,NSAID,P,22,tablets,2026-03-25,IN_STOCK,False
+MP-IND-PHC-026,Diclofenac Sodium 50mg,NSAID,P,30,tablets,2026-04-12,IN_STOCK,False
+MP-IND-PHC-026,Salbutamol Inhaler 100mcg,Bronchodilator,P,18,inhalers,2026-02-18,IN_STOCK,False
+MP-IND-PHC-026,Dexamethasone Injection 4mg,Corticosteroid,P,1,ampoules,2026-04-05,LOW,True
+MP-IND-PHC-026,Prednisolone 5mg,Corticosteroid,P,24,tablets,2026-02-25,IN_STOCK,False
+MP-IND-PHC-026,Metformin 500mg,Antidiabetic,P,20,tablets,2026-04-10,IN_STOCK,False
+MP-IND-PHC-026,Glimepiride 1mg,Antidiabetic,P,2,tablets,2026-04-14,LOW,False
+MP-IND-PHC-026,Amlodipine 5mg,Antihypertensive,P,28,tablets,2026-03-21,IN_STOCK,False
+MP-IND-PHC-026,Enalapril 5mg,Antihypertensive,P,22,tablets,2026-03-17,IN_STOCK,False
+MP-IND-PHC-026,Tetanus Toxoid Injection,Vaccine,P,0,doses,2026-03-05,OUT_OF_STOCK,True
+MP-IND-PHC-026,Anti-Tetanus Serum (ATS),Antiserum,P,7,vials,2026-03-31,IN_STOCK,True
+MP-IND-PHC-026,Anti-Rabies Vaccine (ARV),Vaccine,P,5,doses,2026-03-09,IN_STOCK,True
+MP-IND-PHC-026,Activated Charcoal Powder,Antidote,P,9,sachets,2026-03-17,IN_STOCK,True
+MP-IND-PHC-027,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,5,vials,2026-04-12,IN_STOCK,True
+MP-IND-PHC-027,Artesunate Injection 60mg,Antimalarial,P,8,vials,2026-03-07,IN_STOCK,True
+MP-IND-PHC-027,Artemether-Lumefantrine Tablets,Antimalarial,P,15,tablets,2026-02-25,IN_STOCK,True
+MP-IND-PHC-027,Chloroquine Phosphate 250mg,Antimalarial,P,10,tablets,2026-03-24,IN_STOCK,False
+MP-IND-PHC-027,Primaquine 7.5mg,Antimalarial,P,21,tablets,2026-03-18,IN_STOCK,False
+MP-IND-PHC-027,Dengue NS1 Antigen Test Kit,Diagnostic,P,14,kits,2026-03-16,IN_STOCK,True
+MP-IND-PHC-027,Normal Saline 0.9% (1L),IV Fluid,P,5,bottles,2026-03-28,IN_STOCK,True
+MP-IND-PHC-027,Ringer Lactate (1L),IV Fluid,P,1,bottles,2026-04-14,LOW,True
+MP-IND-PHC-027,ORS Packets (WHO formula),ORS,P,10,packets,2026-02-27,IN_STOCK,True
+MP-IND-PHC-027,Zinc Sulphate Dispersible 20mg,Micronutrient,P,17,tablets,2026-04-07,IN_STOCK,False
+MP-IND-PHC-027,Metronidazole 400mg,Antiprotozoal,P,17,tablets,2026-03-31,IN_STOCK,False
+MP-IND-PHC-027,Amoxicillin 500mg,Antibiotic,P,11,capsules,2026-02-28,IN_STOCK,False
+MP-IND-PHC-027,Azithromycin 500mg,Antibiotic,P,17,tablets,2026-03-12,IN_STOCK,False
+MP-IND-PHC-027,Ciprofloxacin 500mg,Antibiotic,P,22,tablets,2026-03-26,IN_STOCK,False
+MP-IND-PHC-027,Cotrimoxazole Paediatric,Antibiotic,P,15,tablets,2026-04-06,IN_STOCK,False
+MP-IND-PHC-027,Gentamicin Injection 80mg,Antibiotic,P,10,ampoules,2026-02-18,IN_STOCK,True
+MP-IND-PHC-027,Oxytocin Injection 5IU,Obstetric,P,10,ampoules,2026-03-12,IN_STOCK,True
+MP-IND-PHC-027,Misoprostol 200mcg,Obstetric,P,8,tablets,2026-02-23,IN_STOCK,True
+MP-IND-PHC-027,Magnesium Sulphate Injection 50%,Anticonvulsant,P,12,ampoules,2026-03-14,IN_STOCK,True
+MP-IND-PHC-027,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,6,ampoules,2026-04-14,IN_STOCK,True
+MP-IND-PHC-027,Hydrocortisone Injection 100mg,Corticosteroid,P,13,vials,2026-03-18,IN_STOCK,True
+MP-IND-PHC-027,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,0,ampoules,2026-02-18,OUT_OF_STOCK,True
+MP-IND-PHC-027,Paracetamol 500mg,Analgesic,P,14,tablets,2026-03-27,IN_STOCK,False
+MP-IND-PHC-027,Ibuprofen 400mg,NSAID,P,20,tablets,2026-04-14,IN_STOCK,False
+MP-IND-PHC-027,Diclofenac Sodium 50mg,NSAID,P,3,tablets,2026-03-03,LOW,False
+MP-IND-PHC-027,Salbutamol Inhaler 100mcg,Bronchodilator,P,13,inhalers,2026-02-22,IN_STOCK,False
+MP-IND-PHC-027,Dexamethasone Injection 4mg,Corticosteroid,P,6,ampoules,2026-03-25,IN_STOCK,True
+MP-IND-PHC-027,Prednisolone 5mg,Corticosteroid,P,22,tablets,2026-03-11,IN_STOCK,False
+MP-IND-PHC-027,Metformin 500mg,Antidiabetic,P,19,tablets,2026-03-28,IN_STOCK,False
+MP-IND-PHC-027,Glimepiride 1mg,Antidiabetic,P,15,tablets,2026-03-02,IN_STOCK,False
+MP-IND-PHC-027,Amlodipine 5mg,Antihypertensive,P,30,tablets,2026-03-17,IN_STOCK,False
+MP-IND-PHC-027,Enalapril 5mg,Antihypertensive,P,15,tablets,2026-03-03,IN_STOCK,False
+MP-IND-PHC-027,Tetanus Toxoid Injection,Vaccine,P,14,doses,2026-02-26,IN_STOCK,True
+MP-IND-PHC-027,Anti-Tetanus Serum (ATS),Antiserum,P,7,vials,2026-03-24,IN_STOCK,True
+MP-IND-PHC-027,Anti-Rabies Vaccine (ARV),Vaccine,P,7,doses,2026-04-06,IN_STOCK,True
+MP-IND-PHC-027,Activated Charcoal Powder,Antidote,P,14,sachets,2026-03-23,IN_STOCK,True
+MP-DEW-PHC-028,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,14,vials,2026-04-15,IN_STOCK,True
+MP-DEW-PHC-028,Artesunate Injection 60mg,Antimalarial,P,14,vials,2026-04-03,IN_STOCK,True
+MP-DEW-PHC-028,Artemether-Lumefantrine Tablets,Antimalarial,P,12,tablets,2026-04-08,IN_STOCK,True
+MP-DEW-PHC-028,Chloroquine Phosphate 250mg,Antimalarial,P,12,tablets,2026-04-02,IN_STOCK,False
+MP-DEW-PHC-028,Primaquine 7.5mg,Antimalarial,P,20,tablets,2026-04-07,IN_STOCK,False
+MP-DEW-PHC-028,Dengue NS1 Antigen Test Kit,Diagnostic,P,15,kits,2026-03-08,IN_STOCK,True
+MP-DEW-PHC-028,Normal Saline 0.9% (1L),IV Fluid,P,5,bottles,2026-04-01,IN_STOCK,True
+MP-DEW-PHC-028,Ringer Lactate (1L),IV Fluid,P,10,bottles,2026-04-01,IN_STOCK,True
+MP-DEW-PHC-028,ORS Packets (WHO formula),ORS,P,5,packets,2026-03-24,IN_STOCK,True
+MP-DEW-PHC-028,Zinc Sulphate Dispersible 20mg,Micronutrient,P,23,tablets,2026-04-07,IN_STOCK,False
+MP-DEW-PHC-028,Metronidazole 400mg,Antiprotozoal,P,25,tablets,2026-02-20,IN_STOCK,False
+MP-DEW-PHC-028,Amoxicillin 500mg,Antibiotic,P,27,capsules,2026-03-24,IN_STOCK,False
+MP-DEW-PHC-028,Azithromycin 500mg,Antibiotic,P,25,tablets,2026-02-26,IN_STOCK,False
+MP-DEW-PHC-028,Ciprofloxacin 500mg,Antibiotic,P,30,tablets,2026-02-28,IN_STOCK,False
+MP-DEW-PHC-028,Cotrimoxazole Paediatric,Antibiotic,P,15,tablets,2026-03-20,IN_STOCK,False
+MP-DEW-PHC-028,Gentamicin Injection 80mg,Antibiotic,P,0,ampoules,2026-02-22,OUT_OF_STOCK,True
+MP-DEW-PHC-028,Oxytocin Injection 5IU,Obstetric,P,0,ampoules,2026-04-16,OUT_OF_STOCK,True
+MP-DEW-PHC-028,Misoprostol 200mcg,Obstetric,P,6,tablets,2026-03-27,IN_STOCK,True
+MP-DEW-PHC-028,Magnesium Sulphate Injection 50%,Anticonvulsant,P,6,ampoules,2026-03-13,IN_STOCK,True
+MP-DEW-PHC-028,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,10,ampoules,2026-03-10,IN_STOCK,True
+MP-DEW-PHC-028,Hydrocortisone Injection 100mg,Corticosteroid,P,5,vials,2026-03-21,IN_STOCK,True
+MP-DEW-PHC-028,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,11,ampoules,2026-04-07,IN_STOCK,True
+MP-DEW-PHC-028,Paracetamol 500mg,Analgesic,P,2,tablets,2026-04-04,LOW,False
+MP-DEW-PHC-028,Ibuprofen 400mg,NSAID,P,23,tablets,2026-03-04,IN_STOCK,False
+MP-DEW-PHC-028,Diclofenac Sodium 50mg,NSAID,P,27,tablets,2026-04-01,IN_STOCK,False
+MP-DEW-PHC-028,Salbutamol Inhaler 100mcg,Bronchodilator,P,19,inhalers,2026-04-02,IN_STOCK,False
+MP-DEW-PHC-028,Dexamethasone Injection 4mg,Corticosteroid,P,0,ampoules,2026-03-23,OUT_OF_STOCK,True
+MP-DEW-PHC-028,Prednisolone 5mg,Corticosteroid,P,25,tablets,2026-04-08,IN_STOCK,False
+MP-DEW-PHC-028,Metformin 500mg,Antidiabetic,P,1,tablets,2026-03-21,LOW,False
+MP-DEW-PHC-028,Glimepiride 1mg,Antidiabetic,P,3,tablets,2026-03-08,LOW,False
+MP-DEW-PHC-028,Amlodipine 5mg,Antihypertensive,P,16,tablets,2026-04-11,IN_STOCK,False
+MP-DEW-PHC-028,Enalapril 5mg,Antihypertensive,P,1,tablets,2026-03-08,LOW,False
+MP-DEW-PHC-028,Tetanus Toxoid Injection,Vaccine,P,1,doses,2026-03-29,LOW,True
+MP-DEW-PHC-028,Anti-Tetanus Serum (ATS),Antiserum,P,15,vials,2026-04-01,IN_STOCK,True
+MP-DEW-PHC-028,Anti-Rabies Vaccine (ARV),Vaccine,P,0,doses,2026-03-14,OUT_OF_STOCK,True
+MP-DEW-PHC-028,Activated Charcoal Powder,Antidote,P,11,sachets,2026-03-25,IN_STOCK,True
+MP-DEW-PHC-029,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,1,vials,2026-03-19,LOW,True
+MP-DEW-PHC-029,Artesunate Injection 60mg,Antimalarial,P,14,vials,2026-04-14,IN_STOCK,True
+MP-DEW-PHC-029,Artemether-Lumefantrine Tablets,Antimalarial,P,6,tablets,2026-04-12,IN_STOCK,True
+MP-DEW-PHC-029,Chloroquine Phosphate 250mg,Antimalarial,P,27,tablets,2026-03-22,IN_STOCK,False
+MP-DEW-PHC-029,Primaquine 7.5mg,Antimalarial,P,28,tablets,2026-04-03,IN_STOCK,False
+MP-DEW-PHC-029,Dengue NS1 Antigen Test Kit,Diagnostic,P,13,kits,2026-03-22,IN_STOCK,True
+MP-DEW-PHC-029,Normal Saline 0.9% (1L),IV Fluid,P,12,bottles,2026-03-12,IN_STOCK,True
+MP-DEW-PHC-029,Ringer Lactate (1L),IV Fluid,P,6,bottles,2026-03-23,IN_STOCK,True
+MP-DEW-PHC-029,ORS Packets (WHO formula),ORS,P,13,packets,2026-03-12,IN_STOCK,True
+MP-DEW-PHC-029,Zinc Sulphate Dispersible 20mg,Micronutrient,P,28,tablets,2026-03-05,IN_STOCK,False
+MP-DEW-PHC-029,Metronidazole 400mg,Antiprotozoal,P,14,tablets,2026-04-10,IN_STOCK,False
+MP-DEW-PHC-029,Amoxicillin 500mg,Antibiotic,P,24,capsules,2026-04-06,IN_STOCK,False
+MP-DEW-PHC-029,Azithromycin 500mg,Antibiotic,P,15,tablets,2026-04-04,IN_STOCK,False
+MP-DEW-PHC-029,Ciprofloxacin 500mg,Antibiotic,P,14,tablets,2026-04-15,IN_STOCK,False
+MP-DEW-PHC-029,Cotrimoxazole Paediatric,Antibiotic,P,23,tablets,2026-04-05,IN_STOCK,False
+MP-DEW-PHC-029,Gentamicin Injection 80mg,Antibiotic,P,14,ampoules,2026-04-01,IN_STOCK,True
+MP-DEW-PHC-029,Oxytocin Injection 5IU,Obstetric,P,6,ampoules,2026-04-12,IN_STOCK,True
+MP-DEW-PHC-029,Misoprostol 200mcg,Obstetric,P,10,tablets,2026-02-22,IN_STOCK,True
+MP-DEW-PHC-029,Magnesium Sulphate Injection 50%,Anticonvulsant,P,5,ampoules,2026-02-26,IN_STOCK,True
+MP-DEW-PHC-029,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,11,ampoules,2026-04-10,IN_STOCK,True
+MP-DEW-PHC-029,Hydrocortisone Injection 100mg,Corticosteroid,P,14,vials,2026-03-11,IN_STOCK,True
+MP-DEW-PHC-029,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,6,ampoules,2026-03-12,IN_STOCK,True
+MP-DEW-PHC-029,Paracetamol 500mg,Analgesic,P,19,tablets,2026-02-21,IN_STOCK,False
+MP-DEW-PHC-029,Ibuprofen 400mg,NSAID,P,21,tablets,2026-02-20,IN_STOCK,False
+MP-DEW-PHC-029,Diclofenac Sodium 50mg,NSAID,P,22,tablets,2026-03-07,IN_STOCK,False
+MP-DEW-PHC-029,Salbutamol Inhaler 100mcg,Bronchodilator,P,29,inhalers,2026-03-18,IN_STOCK,False
+MP-DEW-PHC-029,Dexamethasone Injection 4mg,Corticosteroid,P,0,ampoules,2026-03-31,OUT_OF_STOCK,True
+MP-DEW-PHC-029,Prednisolone 5mg,Corticosteroid,P,29,tablets,2026-03-10,IN_STOCK,False
+MP-DEW-PHC-029,Metformin 500mg,Antidiabetic,P,22,tablets,2026-04-15,IN_STOCK,False
+MP-DEW-PHC-029,Glimepiride 1mg,Antidiabetic,P,20,tablets,2026-03-04,IN_STOCK,False
+MP-DEW-PHC-029,Amlodipine 5mg,Antihypertensive,P,25,tablets,2026-02-18,IN_STOCK,False
+MP-DEW-PHC-029,Enalapril 5mg,Antihypertensive,P,21,tablets,2026-04-16,IN_STOCK,False
+MP-DEW-PHC-029,Tetanus Toxoid Injection,Vaccine,P,9,doses,2026-03-31,IN_STOCK,True
+MP-DEW-PHC-029,Anti-Tetanus Serum (ATS),Antiserum,P,15,vials,2026-04-11,IN_STOCK,True
+MP-DEW-PHC-029,Anti-Rabies Vaccine (ARV),Vaccine,P,9,doses,2026-03-01,IN_STOCK,True
+MP-DEW-PHC-029,Activated Charcoal Powder,Antidote,P,9,sachets,2026-03-02,IN_STOCK,True
+MP-UJJ-PHC-030,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,8,vials,2026-03-20,IN_STOCK,True
+MP-UJJ-PHC-030,Artesunate Injection 60mg,Antimalarial,P,12,vials,2026-02-28,IN_STOCK,True
+MP-UJJ-PHC-030,Artemether-Lumefantrine Tablets,Antimalarial,P,5,tablets,2026-03-16,IN_STOCK,True
+MP-UJJ-PHC-030,Chloroquine Phosphate 250mg,Antimalarial,P,12,tablets,2026-03-29,IN_STOCK,False
+MP-UJJ-PHC-030,Primaquine 7.5mg,Antimalarial,P,22,tablets,2026-04-09,IN_STOCK,False
+MP-UJJ-PHC-030,Dengue NS1 Antigen Test Kit,Diagnostic,P,14,kits,2026-04-16,IN_STOCK,True
+MP-UJJ-PHC-030,Normal Saline 0.9% (1L),IV Fluid,P,8,bottles,2026-02-23,IN_STOCK,True
+MP-UJJ-PHC-030,Ringer Lactate (1L),IV Fluid,P,0,bottles,2026-04-15,OUT_OF_STOCK,True
+MP-UJJ-PHC-030,ORS Packets (WHO formula),ORS,P,8,packets,2026-03-31,IN_STOCK,True
+MP-UJJ-PHC-030,Zinc Sulphate Dispersible 20mg,Micronutrient,P,24,tablets,2026-03-16,IN_STOCK,False
+MP-UJJ-PHC-030,Metronidazole 400mg,Antiprotozoal,P,13,tablets,2026-03-05,IN_STOCK,False
+MP-UJJ-PHC-030,Amoxicillin 500mg,Antibiotic,P,2,capsules,2026-03-17,LOW,False
+MP-UJJ-PHC-030,Azithromycin 500mg,Antibiotic,P,15,tablets,2026-02-21,IN_STOCK,False
+MP-UJJ-PHC-030,Ciprofloxacin 500mg,Antibiotic,P,27,tablets,2026-03-26,IN_STOCK,False
+MP-UJJ-PHC-030,Cotrimoxazole Paediatric,Antibiotic,P,18,tablets,2026-03-01,IN_STOCK,False
+MP-UJJ-PHC-030,Gentamicin Injection 80mg,Antibiotic,P,1,ampoules,2026-03-24,LOW,True
+MP-UJJ-PHC-030,Oxytocin Injection 5IU,Obstetric,P,0,ampoules,2026-02-22,OUT_OF_STOCK,True
+MP-UJJ-PHC-030,Misoprostol 200mcg,Obstetric,P,8,tablets,2026-03-07,IN_STOCK,True
+MP-UJJ-PHC-030,Magnesium Sulphate Injection 50%,Anticonvulsant,P,15,ampoules,2026-03-22,IN_STOCK,True
+MP-UJJ-PHC-030,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,15,ampoules,2026-04-17,IN_STOCK,True
+MP-UJJ-PHC-030,Hydrocortisone Injection 100mg,Corticosteroid,P,7,vials,2026-03-10,IN_STOCK,True
+MP-UJJ-PHC-030,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,14,ampoules,2026-02-25,IN_STOCK,True
+MP-UJJ-PHC-030,Paracetamol 500mg,Analgesic,P,30,tablets,2026-03-31,IN_STOCK,False
+MP-UJJ-PHC-030,Ibuprofen 400mg,NSAID,P,22,tablets,2026-02-22,IN_STOCK,False
+MP-UJJ-PHC-030,Diclofenac Sodium 50mg,NSAID,P,18,tablets,2026-04-04,IN_STOCK,False
+MP-UJJ-PHC-030,Salbutamol Inhaler 100mcg,Bronchodilator,P,26,inhalers,2026-02-24,IN_STOCK,False
+MP-UJJ-PHC-030,Dexamethasone Injection 4mg,Corticosteroid,P,5,ampoules,2026-03-16,IN_STOCK,True
+MP-UJJ-PHC-030,Prednisolone 5mg,Corticosteroid,P,21,tablets,2026-03-13,IN_STOCK,False
+MP-UJJ-PHC-030,Metformin 500mg,Antidiabetic,P,29,tablets,2026-03-30,IN_STOCK,False
+MP-UJJ-PHC-030,Glimepiride 1mg,Antidiabetic,P,13,tablets,2026-03-18,IN_STOCK,False
+MP-UJJ-PHC-030,Amlodipine 5mg,Antihypertensive,P,2,tablets,2026-03-08,LOW,False
+MP-UJJ-PHC-030,Enalapril 5mg,Antihypertensive,P,18,tablets,2026-04-01,IN_STOCK,False
+MP-UJJ-PHC-030,Tetanus Toxoid Injection,Vaccine,P,15,doses,2026-03-29,IN_STOCK,True
+MP-UJJ-PHC-030,Anti-Tetanus Serum (ATS),Antiserum,P,8,vials,2026-02-19,IN_STOCK,True
+MP-UJJ-PHC-030,Anti-Rabies Vaccine (ARV),Vaccine,P,0,doses,2026-02-22,OUT_OF_STOCK,True
+MP-UJJ-PHC-030,Activated Charcoal Powder,Antidote,P,15,sachets,2026-03-28,IN_STOCK,True
+MP-UJJ-PHC-031,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,15,vials,2026-03-17,IN_STOCK,True
+MP-UJJ-PHC-031,Artesunate Injection 60mg,Antimalarial,P,11,vials,2026-03-23,IN_STOCK,True
+MP-UJJ-PHC-031,Artemether-Lumefantrine Tablets,Antimalarial,P,1,tablets,2026-03-27,LOW,True
+MP-UJJ-PHC-031,Chloroquine Phosphate 250mg,Antimalarial,P,17,tablets,2026-03-05,IN_STOCK,False
+MP-UJJ-PHC-031,Primaquine 7.5mg,Antimalarial,P,25,tablets,2026-02-18,IN_STOCK,False
+MP-UJJ-PHC-031,Dengue NS1 Antigen Test Kit,Diagnostic,P,9,kits,2026-02-22,IN_STOCK,True
+MP-UJJ-PHC-031,Normal Saline 0.9% (1L),IV Fluid,P,13,bottles,2026-04-06,IN_STOCK,True
+MP-UJJ-PHC-031,Ringer Lactate (1L),IV Fluid,P,9,bottles,2026-03-02,IN_STOCK,True
+MP-UJJ-PHC-031,ORS Packets (WHO formula),ORS,P,7,packets,2026-03-05,IN_STOCK,True
+MP-UJJ-PHC-031,Zinc Sulphate Dispersible 20mg,Micronutrient,P,30,tablets,2026-04-12,IN_STOCK,False
+MP-UJJ-PHC-031,Metronidazole 400mg,Antiprotozoal,P,17,tablets,2026-03-01,IN_STOCK,False
+MP-UJJ-PHC-031,Amoxicillin 500mg,Antibiotic,P,23,capsules,2026-02-26,IN_STOCK,False
+MP-UJJ-PHC-031,Azithromycin 500mg,Antibiotic,P,21,tablets,2026-04-01,IN_STOCK,False
+MP-UJJ-PHC-031,Ciprofloxacin 500mg,Antibiotic,P,24,tablets,2026-02-22,IN_STOCK,False
+MP-UJJ-PHC-031,Cotrimoxazole Paediatric,Antibiotic,P,11,tablets,2026-02-21,IN_STOCK,False
+MP-UJJ-PHC-031,Gentamicin Injection 80mg,Antibiotic,P,14,ampoules,2026-04-13,IN_STOCK,True
+MP-UJJ-PHC-031,Oxytocin Injection 5IU,Obstetric,P,6,ampoules,2026-02-21,IN_STOCK,True
+MP-UJJ-PHC-031,Misoprostol 200mcg,Obstetric,P,11,tablets,2026-04-14,IN_STOCK,True
+MP-UJJ-PHC-031,Magnesium Sulphate Injection 50%,Anticonvulsant,P,8,ampoules,2026-03-27,IN_STOCK,True
+MP-UJJ-PHC-031,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,12,ampoules,2026-04-08,IN_STOCK,True
+MP-UJJ-PHC-031,Hydrocortisone Injection 100mg,Corticosteroid,P,6,vials,2026-03-17,IN_STOCK,True
+MP-UJJ-PHC-031,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,10,ampoules,2026-03-08,IN_STOCK,True
+MP-UJJ-PHC-031,Paracetamol 500mg,Analgesic,P,2,tablets,2026-03-31,LOW,False
+MP-UJJ-PHC-031,Ibuprofen 400mg,NSAID,P,15,tablets,2026-03-12,IN_STOCK,False
+MP-UJJ-PHC-031,Diclofenac Sodium 50mg,NSAID,P,25,tablets,2026-02-26,IN_STOCK,False
+MP-UJJ-PHC-031,Salbutamol Inhaler 100mcg,Bronchodilator,P,12,inhalers,2026-04-09,IN_STOCK,False
+MP-UJJ-PHC-031,Dexamethasone Injection 4mg,Corticosteroid,P,11,ampoules,2026-03-21,IN_STOCK,True
+MP-UJJ-PHC-031,Prednisolone 5mg,Corticosteroid,P,22,tablets,2026-04-17,IN_STOCK,False
+MP-UJJ-PHC-031,Metformin 500mg,Antidiabetic,P,1,tablets,2026-03-02,LOW,False
+MP-UJJ-PHC-031,Glimepiride 1mg,Antidiabetic,P,10,tablets,2026-02-19,IN_STOCK,False
+MP-UJJ-PHC-031,Amlodipine 5mg,Antihypertensive,P,26,tablets,2026-04-05,IN_STOCK,False
+MP-UJJ-PHC-031,Enalapril 5mg,Antihypertensive,P,1,tablets,2026-03-08,LOW,False
+MP-UJJ-PHC-031,Tetanus Toxoid Injection,Vaccine,P,10,doses,2026-03-29,IN_STOCK,True
+MP-UJJ-PHC-031,Anti-Tetanus Serum (ATS),Antiserum,P,0,vials,2026-03-24,OUT_OF_STOCK,True
+MP-UJJ-PHC-031,Anti-Rabies Vaccine (ARV),Vaccine,P,6,doses,2026-02-24,IN_STOCK,True
+MP-UJJ-PHC-031,Activated Charcoal Powder,Antidote,P,0,sachets,2026-03-30,OUT_OF_STOCK,True
+MP-DHA-PHC-032,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,13,vials,2026-03-27,IN_STOCK,True
+MP-DHA-PHC-032,Artesunate Injection 60mg,Antimalarial,P,7,vials,2026-03-27,IN_STOCK,True
+MP-DHA-PHC-032,Artemether-Lumefantrine Tablets,Antimalarial,P,8,tablets,2026-04-07,IN_STOCK,True
+MP-DHA-PHC-032,Chloroquine Phosphate 250mg,Antimalarial,P,22,tablets,2026-04-16,IN_STOCK,False
+MP-DHA-PHC-032,Primaquine 7.5mg,Antimalarial,P,14,tablets,2026-04-04,IN_STOCK,False
+MP-DHA-PHC-032,Dengue NS1 Antigen Test Kit,Diagnostic,P,7,kits,2026-04-10,IN_STOCK,True
+MP-DHA-PHC-032,Normal Saline 0.9% (1L),IV Fluid,P,5,bottles,2026-03-24,IN_STOCK,True
+MP-DHA-PHC-032,Ringer Lactate (1L),IV Fluid,P,13,bottles,2026-03-09,IN_STOCK,True
+MP-DHA-PHC-032,ORS Packets (WHO formula),ORS,P,0,packets,2026-04-14,OUT_OF_STOCK,True
+MP-DHA-PHC-032,Zinc Sulphate Dispersible 20mg,Micronutrient,P,30,tablets,2026-02-23,IN_STOCK,False
+MP-DHA-PHC-032,Metronidazole 400mg,Antiprotozoal,P,3,tablets,2026-04-10,LOW,False
+MP-DHA-PHC-032,Amoxicillin 500mg,Antibiotic,P,22,capsules,2026-04-10,IN_STOCK,False
+MP-DHA-PHC-032,Azithromycin 500mg,Antibiotic,P,25,tablets,2026-03-04,IN_STOCK,False
+MP-DHA-PHC-032,Ciprofloxacin 500mg,Antibiotic,P,30,tablets,2026-04-17,IN_STOCK,False
+MP-DHA-PHC-032,Cotrimoxazole Paediatric,Antibiotic,P,13,tablets,2026-03-06,IN_STOCK,False
+MP-DHA-PHC-032,Gentamicin Injection 80mg,Antibiotic,P,7,ampoules,2026-03-22,IN_STOCK,True
+MP-DHA-PHC-032,Oxytocin Injection 5IU,Obstetric,P,14,ampoules,2026-04-10,IN_STOCK,True
+MP-DHA-PHC-032,Misoprostol 200mcg,Obstetric,P,12,tablets,2026-04-05,IN_STOCK,True
+MP-DHA-PHC-032,Magnesium Sulphate Injection 50%,Anticonvulsant,P,13,ampoules,2026-04-05,IN_STOCK,True
+MP-DHA-PHC-032,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,7,ampoules,2026-04-15,IN_STOCK,True
+MP-DHA-PHC-032,Hydrocortisone Injection 100mg,Corticosteroid,P,12,vials,2026-03-27,IN_STOCK,True
+MP-DHA-PHC-032,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,1,ampoules,2026-02-18,LOW,True
+MP-DHA-PHC-032,Paracetamol 500mg,Analgesic,P,28,tablets,2026-03-06,IN_STOCK,False
+MP-DHA-PHC-032,Ibuprofen 400mg,NSAID,P,12,tablets,2026-02-27,IN_STOCK,False
+MP-DHA-PHC-032,Diclofenac Sodium 50mg,NSAID,P,13,tablets,2026-02-19,IN_STOCK,False
+MP-DHA-PHC-032,Salbutamol Inhaler 100mcg,Bronchodilator,P,17,inhalers,2026-03-19,IN_STOCK,False
+MP-DHA-PHC-032,Dexamethasone Injection 4mg,Corticosteroid,P,12,ampoules,2026-04-14,IN_STOCK,True
+MP-DHA-PHC-032,Prednisolone 5mg,Corticosteroid,P,1,tablets,2026-02-21,LOW,False
+MP-DHA-PHC-032,Metformin 500mg,Antidiabetic,P,2,tablets,2026-03-25,LOW,False
+MP-DHA-PHC-032,Glimepiride 1mg,Antidiabetic,P,20,tablets,2026-03-21,IN_STOCK,False
+MP-DHA-PHC-032,Amlodipine 5mg,Antihypertensive,P,13,tablets,2026-02-22,IN_STOCK,False
+MP-DHA-PHC-032,Enalapril 5mg,Antihypertensive,P,11,tablets,2026-04-17,IN_STOCK,False
+MP-DHA-PHC-032,Tetanus Toxoid Injection,Vaccine,P,7,doses,2026-03-27,IN_STOCK,True
+MP-DHA-PHC-032,Anti-Tetanus Serum (ATS),Antiserum,P,14,vials,2026-03-31,IN_STOCK,True
+MP-DHA-PHC-032,Anti-Rabies Vaccine (ARV),Vaccine,P,1,doses,2026-04-06,LOW,True
+MP-DHA-PHC-032,Activated Charcoal Powder,Antidote,P,0,sachets,2026-03-23,OUT_OF_STOCK,True
+MP-DHA-PHC-033,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,11,vials,2026-03-04,IN_STOCK,True
+MP-DHA-PHC-033,Artesunate Injection 60mg,Antimalarial,P,15,vials,2026-02-20,IN_STOCK,True
+MP-DHA-PHC-033,Artemether-Lumefantrine Tablets,Antimalarial,P,5,tablets,2026-02-22,IN_STOCK,True
+MP-DHA-PHC-033,Chloroquine Phosphate 250mg,Antimalarial,P,23,tablets,2026-02-18,IN_STOCK,False
+MP-DHA-PHC-033,Primaquine 7.5mg,Antimalarial,P,28,tablets,2026-03-05,IN_STOCK,False
+MP-DHA-PHC-033,Dengue NS1 Antigen Test Kit,Diagnostic,P,10,kits,2026-03-09,IN_STOCK,True
+MP-DHA-PHC-033,Normal Saline 0.9% (1L),IV Fluid,P,0,bottles,2026-03-05,OUT_OF_STOCK,True
+MP-DHA-PHC-033,Ringer Lactate (1L),IV Fluid,P,7,bottles,2026-03-18,IN_STOCK,True
+MP-DHA-PHC-033,ORS Packets (WHO formula),ORS,P,11,packets,2026-03-20,IN_STOCK,True
+MP-DHA-PHC-033,Zinc Sulphate Dispersible 20mg,Micronutrient,P,2,tablets,2026-03-07,LOW,False
+MP-DHA-PHC-033,Metronidazole 400mg,Antiprotozoal,P,26,tablets,2026-02-27,IN_STOCK,False
+MP-DHA-PHC-033,Amoxicillin 500mg,Antibiotic,P,28,capsules,2026-04-03,IN_STOCK,False
+MP-DHA-PHC-033,Azithromycin 500mg,Antibiotic,P,20,tablets,2026-03-15,IN_STOCK,False
+MP-DHA-PHC-033,Ciprofloxacin 500mg,Antibiotic,P,29,tablets,2026-04-11,IN_STOCK,False
+MP-DHA-PHC-033,Cotrimoxazole Paediatric,Antibiotic,P,17,tablets,2026-03-18,IN_STOCK,False
+MP-DHA-PHC-033,Gentamicin Injection 80mg,Antibiotic,P,11,ampoules,2026-04-08,IN_STOCK,True
+MP-DHA-PHC-033,Oxytocin Injection 5IU,Obstetric,P,14,ampoules,2026-04-14,IN_STOCK,True
+MP-DHA-PHC-033,Misoprostol 200mcg,Obstetric,P,0,tablets,2026-02-17,OUT_OF_STOCK,True
+MP-DHA-PHC-033,Magnesium Sulphate Injection 50%,Anticonvulsant,P,12,ampoules,2026-02-21,IN_STOCK,True
+MP-DHA-PHC-033,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,10,ampoules,2026-04-02,IN_STOCK,True
+MP-DHA-PHC-033,Hydrocortisone Injection 100mg,Corticosteroid,P,13,vials,2026-04-03,IN_STOCK,True
+MP-DHA-PHC-033,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,8,ampoules,2026-04-12,IN_STOCK,True
+MP-DHA-PHC-033,Paracetamol 500mg,Analgesic,P,28,tablets,2026-03-20,IN_STOCK,False
+MP-DHA-PHC-033,Ibuprofen 400mg,NSAID,P,2,tablets,2026-03-20,LOW,False
+MP-DHA-PHC-033,Diclofenac Sodium 50mg,NSAID,P,25,tablets,2026-03-01,IN_STOCK,False
+MP-DHA-PHC-033,Salbutamol Inhaler 100mcg,Bronchodilator,P,13,inhalers,2026-03-23,IN_STOCK,False
+MP-DHA-PHC-033,Dexamethasone Injection 4mg,Corticosteroid,P,5,ampoules,2026-02-24,IN_STOCK,True
+MP-DHA-PHC-033,Prednisolone 5mg,Corticosteroid,P,3,tablets,2026-03-09,LOW,False
+MP-DHA-PHC-033,Metformin 500mg,Antidiabetic,P,26,tablets,2026-03-13,IN_STOCK,False
+MP-DHA-PHC-033,Glimepiride 1mg,Antidiabetic,P,24,tablets,2026-03-27,IN_STOCK,False
+MP-DHA-PHC-033,Amlodipine 5mg,Antihypertensive,P,11,tablets,2026-02-24,IN_STOCK,False
+MP-DHA-PHC-033,Enalapril 5mg,Antihypertensive,P,24,tablets,2026-03-27,IN_STOCK,False
+MP-DHA-PHC-033,Tetanus Toxoid Injection,Vaccine,P,12,doses,2026-03-03,IN_STOCK,True
+MP-DHA-PHC-033,Anti-Tetanus Serum (ATS),Antiserum,P,6,vials,2026-04-11,IN_STOCK,True
+MP-DHA-PHC-033,Anti-Rabies Vaccine (ARV),Vaccine,P,10,doses,2026-03-26,IN_STOCK,True
+MP-DHA-PHC-033,Activated Charcoal Powder,Antidote,P,9,sachets,2026-03-13,IN_STOCK,True
+MP-KHA-PHC-034,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,5,vials,2026-02-19,IN_STOCK,True
+MP-KHA-PHC-034,Artesunate Injection 60mg,Antimalarial,P,11,vials,2026-04-11,IN_STOCK,True
+MP-KHA-PHC-034,Artemether-Lumefantrine Tablets,Antimalarial,P,6,tablets,2026-02-17,IN_STOCK,True
+MP-KHA-PHC-034,Chloroquine Phosphate 250mg,Antimalarial,P,16,tablets,2026-03-19,IN_STOCK,False
+MP-KHA-PHC-034,Primaquine 7.5mg,Antimalarial,P,16,tablets,2026-03-03,IN_STOCK,False
+MP-KHA-PHC-034,Dengue NS1 Antigen Test Kit,Diagnostic,P,5,kits,2026-02-17,IN_STOCK,True
+MP-KHA-PHC-034,Normal Saline 0.9% (1L),IV Fluid,P,6,bottles,2026-02-27,IN_STOCK,True
+MP-KHA-PHC-034,Ringer Lactate (1L),IV Fluid,P,14,bottles,2026-03-16,IN_STOCK,True
+MP-KHA-PHC-034,ORS Packets (WHO formula),ORS,P,0,packets,2026-03-17,OUT_OF_STOCK,True
+MP-KHA-PHC-034,Zinc Sulphate Dispersible 20mg,Micronutrient,P,3,tablets,2026-04-14,LOW,False
+MP-KHA-PHC-034,Metronidazole 400mg,Antiprotozoal,P,23,tablets,2026-02-23,IN_STOCK,False
+MP-KHA-PHC-034,Amoxicillin 500mg,Antibiotic,P,26,capsules,2026-02-27,IN_STOCK,False
+MP-KHA-PHC-034,Azithromycin 500mg,Antibiotic,P,15,tablets,2026-03-04,IN_STOCK,False
+MP-KHA-PHC-034,Ciprofloxacin 500mg,Antibiotic,P,14,tablets,2026-04-11,IN_STOCK,False
+MP-KHA-PHC-034,Cotrimoxazole Paediatric,Antibiotic,P,29,tablets,2026-03-10,IN_STOCK,False
+MP-KHA-PHC-034,Gentamicin Injection 80mg,Antibiotic,P,11,ampoules,2026-03-22,IN_STOCK,True
+MP-KHA-PHC-034,Oxytocin Injection 5IU,Obstetric,P,8,ampoules,2026-03-31,IN_STOCK,True
+MP-KHA-PHC-034,Misoprostol 200mcg,Obstetric,P,9,tablets,2026-03-20,IN_STOCK,True
+MP-KHA-PHC-034,Magnesium Sulphate Injection 50%,Anticonvulsant,P,14,ampoules,2026-03-04,IN_STOCK,True
+MP-KHA-PHC-034,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,13,ampoules,2026-02-21,IN_STOCK,True
+MP-KHA-PHC-034,Hydrocortisone Injection 100mg,Corticosteroid,P,13,vials,2026-03-08,IN_STOCK,True
+MP-KHA-PHC-034,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,9,ampoules,2026-03-05,IN_STOCK,True
+MP-KHA-PHC-034,Paracetamol 500mg,Analgesic,P,14,tablets,2026-03-03,IN_STOCK,False
+MP-KHA-PHC-034,Ibuprofen 400mg,NSAID,P,15,tablets,2026-03-16,IN_STOCK,False
+MP-KHA-PHC-034,Diclofenac Sodium 50mg,NSAID,P,30,tablets,2026-03-28,IN_STOCK,False
+MP-KHA-PHC-034,Salbutamol Inhaler 100mcg,Bronchodilator,P,21,inhalers,2026-03-13,IN_STOCK,False
+MP-KHA-PHC-034,Dexamethasone Injection 4mg,Corticosteroid,P,15,ampoules,2026-03-03,IN_STOCK,True
+MP-KHA-PHC-034,Prednisolone 5mg,Corticosteroid,P,27,tablets,2026-03-30,IN_STOCK,False
+MP-KHA-PHC-034,Metformin 500mg,Antidiabetic,P,23,tablets,2026-02-25,IN_STOCK,False
+MP-KHA-PHC-034,Glimepiride 1mg,Antidiabetic,P,1,tablets,2026-04-16,LOW,False
+MP-KHA-PHC-034,Amlodipine 5mg,Antihypertensive,P,11,tablets,2026-03-06,IN_STOCK,False
+MP-KHA-PHC-034,Enalapril 5mg,Antihypertensive,P,2,tablets,2026-02-28,LOW,False
+MP-KHA-PHC-034,Tetanus Toxoid Injection,Vaccine,P,15,doses,2026-04-01,IN_STOCK,True
+MP-KHA-PHC-034,Anti-Tetanus Serum (ATS),Antiserum,P,0,vials,2026-04-14,OUT_OF_STOCK,True
+MP-KHA-PHC-034,Anti-Rabies Vaccine (ARV),Vaccine,P,13,doses,2026-04-15,IN_STOCK,True
+MP-KHA-PHC-034,Activated Charcoal Powder,Antidote,P,14,sachets,2026-02-21,IN_STOCK,True
+MP-KHA-PHC-035,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,8,vials,2026-03-01,IN_STOCK,True
+MP-KHA-PHC-035,Artesunate Injection 60mg,Antimalarial,P,13,vials,2026-02-26,IN_STOCK,True
+MP-KHA-PHC-035,Artemether-Lumefantrine Tablets,Antimalarial,P,15,tablets,2026-04-14,IN_STOCK,True
+MP-KHA-PHC-035,Chloroquine Phosphate 250mg,Antimalarial,P,22,tablets,2026-03-22,IN_STOCK,False
+MP-KHA-PHC-035,Primaquine 7.5mg,Antimalarial,P,20,tablets,2026-03-13,IN_STOCK,False
+MP-KHA-PHC-035,Dengue NS1 Antigen Test Kit,Diagnostic,P,0,kits,2026-03-01,OUT_OF_STOCK,True
+MP-KHA-PHC-035,Normal Saline 0.9% (1L),IV Fluid,P,12,bottles,2026-02-23,IN_STOCK,True
+MP-KHA-PHC-035,Ringer Lactate (1L),IV Fluid,P,15,bottles,2026-03-25,IN_STOCK,True
+MP-KHA-PHC-035,ORS Packets (WHO formula),ORS,P,14,packets,2026-04-05,IN_STOCK,True
+MP-KHA-PHC-035,Zinc Sulphate Dispersible 20mg,Micronutrient,P,16,tablets,2026-03-30,IN_STOCK,False
+MP-KHA-PHC-035,Metronidazole 400mg,Antiprotozoal,P,12,tablets,2026-04-06,IN_STOCK,False
+MP-KHA-PHC-035,Amoxicillin 500mg,Antibiotic,P,26,capsules,2026-04-10,IN_STOCK,False
+MP-KHA-PHC-035,Azithromycin 500mg,Antibiotic,P,23,tablets,2026-03-31,IN_STOCK,False
+MP-KHA-PHC-035,Ciprofloxacin 500mg,Antibiotic,P,14,tablets,2026-04-07,IN_STOCK,False
+MP-KHA-PHC-035,Cotrimoxazole Paediatric,Antibiotic,P,18,tablets,2026-04-17,IN_STOCK,False
+MP-KHA-PHC-035,Gentamicin Injection 80mg,Antibiotic,P,7,ampoules,2026-04-15,IN_STOCK,True
+MP-KHA-PHC-035,Oxytocin Injection 5IU,Obstetric,P,5,ampoules,2026-02-27,IN_STOCK,True
+MP-KHA-PHC-035,Misoprostol 200mcg,Obstetric,P,15,tablets,2026-03-29,IN_STOCK,True
+MP-KHA-PHC-035,Magnesium Sulphate Injection 50%,Anticonvulsant,P,10,ampoules,2026-04-13,IN_STOCK,True
+MP-KHA-PHC-035,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,8,ampoules,2026-04-06,IN_STOCK,True
+MP-KHA-PHC-035,Hydrocortisone Injection 100mg,Corticosteroid,P,7,vials,2026-03-22,IN_STOCK,True
+MP-KHA-PHC-035,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,10,ampoules,2026-04-03,IN_STOCK,True
+MP-KHA-PHC-035,Paracetamol 500mg,Analgesic,P,20,tablets,2026-03-27,IN_STOCK,False
+MP-KHA-PHC-035,Ibuprofen 400mg,NSAID,P,16,tablets,2026-02-28,IN_STOCK,False
+MP-KHA-PHC-035,Diclofenac Sodium 50mg,NSAID,P,25,tablets,2026-03-13,IN_STOCK,False
+MP-KHA-PHC-035,Salbutamol Inhaler 100mcg,Bronchodilator,P,30,inhalers,2026-04-17,IN_STOCK,False
+MP-KHA-PHC-035,Dexamethasone Injection 4mg,Corticosteroid,P,0,ampoules,2026-03-26,OUT_OF_STOCK,True
+MP-KHA-PHC-035,Prednisolone 5mg,Corticosteroid,P,30,tablets,2026-03-09,IN_STOCK,False
+MP-KHA-PHC-035,Metformin 500mg,Antidiabetic,P,17,tablets,2026-04-15,IN_STOCK,False
+MP-KHA-PHC-035,Glimepiride 1mg,Antidiabetic,P,20,tablets,2026-03-24,IN_STOCK,False
+MP-KHA-PHC-035,Amlodipine 5mg,Antihypertensive,P,13,tablets,2026-03-24,IN_STOCK,False
+MP-KHA-PHC-035,Enalapril 5mg,Antihypertensive,P,19,tablets,2026-04-16,IN_STOCK,False
+MP-KHA-PHC-035,Tetanus Toxoid Injection,Vaccine,P,10,doses,2026-03-16,IN_STOCK,True
+MP-KHA-PHC-035,Anti-Tetanus Serum (ATS),Antiserum,P,5,vials,2026-03-30,IN_STOCK,True
+MP-KHA-PHC-035,Anti-Rabies Vaccine (ARV),Vaccine,P,13,doses,2026-04-12,IN_STOCK,True
+MP-KHA-PHC-035,Activated Charcoal Powder,Antidote,P,13,sachets,2026-03-14,IN_STOCK,True
+MP-KHA-PHC-036,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,0,vials,2026-04-13,OUT_OF_STOCK,True
+MP-KHA-PHC-036,Artesunate Injection 60mg,Antimalarial,P,8,vials,2026-02-21,IN_STOCK,True
+MP-KHA-PHC-036,Artemether-Lumefantrine Tablets,Antimalarial,P,8,tablets,2026-03-14,IN_STOCK,True
+MP-KHA-PHC-036,Chloroquine Phosphate 250mg,Antimalarial,P,23,tablets,2026-03-07,IN_STOCK,False
+MP-KHA-PHC-036,Primaquine 7.5mg,Antimalarial,P,12,tablets,2026-03-01,IN_STOCK,False
+MP-KHA-PHC-036,Dengue NS1 Antigen Test Kit,Diagnostic,P,1,kits,2026-04-15,LOW,True
+MP-KHA-PHC-036,Normal Saline 0.9% (1L),IV Fluid,P,0,bottles,2026-04-14,OUT_OF_STOCK,True
+MP-KHA-PHC-036,Ringer Lactate (1L),IV Fluid,P,6,bottles,2026-03-12,IN_STOCK,True
+MP-KHA-PHC-036,ORS Packets (WHO formula),ORS,P,11,packets,2026-03-24,IN_STOCK,True
+MP-KHA-PHC-036,Zinc Sulphate Dispersible 20mg,Micronutrient,P,22,tablets,2026-03-21,IN_STOCK,False
+MP-KHA-PHC-036,Metronidazole 400mg,Antiprotozoal,P,22,tablets,2026-03-05,IN_STOCK,False
+MP-KHA-PHC-036,Amoxicillin 500mg,Antibiotic,P,10,capsules,2026-03-07,IN_STOCK,False
+MP-KHA-PHC-036,Azithromycin 500mg,Antibiotic,P,12,tablets,2026-02-28,IN_STOCK,False
+MP-KHA-PHC-036,Ciprofloxacin 500mg,Antibiotic,P,11,tablets,2026-03-04,IN_STOCK,False
+MP-KHA-PHC-036,Cotrimoxazole Paediatric,Antibiotic,P,21,tablets,2026-02-17,IN_STOCK,False
+MP-KHA-PHC-036,Gentamicin Injection 80mg,Antibiotic,P,15,ampoules,2026-03-29,IN_STOCK,True
+MP-KHA-PHC-036,Oxytocin Injection 5IU,Obstetric,P,12,ampoules,2026-03-24,IN_STOCK,True
+MP-KHA-PHC-036,Misoprostol 200mcg,Obstetric,P,12,tablets,2026-04-07,IN_STOCK,True
+MP-KHA-PHC-036,Magnesium Sulphate Injection 50%,Anticonvulsant,P,11,ampoules,2026-02-26,IN_STOCK,True
+MP-KHA-PHC-036,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,15,ampoules,2026-04-08,IN_STOCK,True
+MP-KHA-PHC-036,Hydrocortisone Injection 100mg,Corticosteroid,P,15,vials,2026-03-25,IN_STOCK,True
+MP-KHA-PHC-036,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,1,ampoules,2026-04-10,LOW,True
+MP-KHA-PHC-036,Paracetamol 500mg,Analgesic,P,3,tablets,2026-03-10,LOW,False
+MP-KHA-PHC-036,Ibuprofen 400mg,NSAID,P,27,tablets,2026-04-12,IN_STOCK,False
+MP-KHA-PHC-036,Diclofenac Sodium 50mg,NSAID,P,21,tablets,2026-04-04,IN_STOCK,False
+MP-KHA-PHC-036,Salbutamol Inhaler 100mcg,Bronchodilator,P,30,inhalers,2026-02-22,IN_STOCK,False
+MP-KHA-PHC-036,Dexamethasone Injection 4mg,Corticosteroid,P,8,ampoules,2026-03-09,IN_STOCK,True
+MP-KHA-PHC-036,Prednisolone 5mg,Corticosteroid,P,16,tablets,2026-04-10,IN_STOCK,False
+MP-KHA-PHC-036,Metformin 500mg,Antidiabetic,P,28,tablets,2026-02-22,IN_STOCK,False
+MP-KHA-PHC-036,Glimepiride 1mg,Antidiabetic,P,3,tablets,2026-03-19,LOW,False
+MP-KHA-PHC-036,Amlodipine 5mg,Antihypertensive,P,12,tablets,2026-03-30,IN_STOCK,False
+MP-KHA-PHC-036,Enalapril 5mg,Antihypertensive,P,18,tablets,2026-04-11,IN_STOCK,False
+MP-KHA-PHC-036,Tetanus Toxoid Injection,Vaccine,P,10,doses,2026-03-26,IN_STOCK,True
+MP-KHA-PHC-036,Anti-Tetanus Serum (ATS),Antiserum,P,0,vials,2026-03-07,OUT_OF_STOCK,True
+MP-KHA-PHC-036,Anti-Rabies Vaccine (ARV),Vaccine,P,6,doses,2026-02-19,IN_STOCK,True
+MP-KHA-PHC-036,Activated Charcoal Powder,Antidote,P,10,sachets,2026-03-09,IN_STOCK,True
+MP-KHA-PHC-037,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,7,vials,2026-03-12,IN_STOCK,True
+MP-KHA-PHC-037,Artesunate Injection 60mg,Antimalarial,P,11,vials,2026-04-07,IN_STOCK,True
+MP-KHA-PHC-037,Artemether-Lumefantrine Tablets,Antimalarial,P,0,tablets,2026-04-02,OUT_OF_STOCK,True
+MP-KHA-PHC-037,Chloroquine Phosphate 250mg,Antimalarial,P,30,tablets,2026-03-21,IN_STOCK,False
+MP-KHA-PHC-037,Primaquine 7.5mg,Antimalarial,P,21,tablets,2026-04-09,IN_STOCK,False
+MP-KHA-PHC-037,Dengue NS1 Antigen Test Kit,Diagnostic,P,12,kits,2026-03-19,IN_STOCK,True
+MP-KHA-PHC-037,Normal Saline 0.9% (1L),IV Fluid,P,12,bottles,2026-03-13,IN_STOCK,True
+MP-KHA-PHC-037,Ringer Lactate (1L),IV Fluid,P,0,bottles,2026-03-07,OUT_OF_STOCK,True
+MP-KHA-PHC-037,ORS Packets (WHO formula),ORS,P,7,packets,2026-02-19,IN_STOCK,True
+MP-KHA-PHC-037,Zinc Sulphate Dispersible 20mg,Micronutrient,P,18,tablets,2026-03-02,IN_STOCK,False
+MP-KHA-PHC-037,Metronidazole 400mg,Antiprotozoal,P,12,tablets,2026-03-02,IN_STOCK,False
+MP-KHA-PHC-037,Amoxicillin 500mg,Antibiotic,P,1,capsules,2026-02-22,LOW,False
+MP-KHA-PHC-037,Azithromycin 500mg,Antibiotic,P,10,tablets,2026-02-24,IN_STOCK,False
+MP-KHA-PHC-037,Ciprofloxacin 500mg,Antibiotic,P,22,tablets,2026-02-27,IN_STOCK,False
+MP-KHA-PHC-037,Cotrimoxazole Paediatric,Antibiotic,P,11,tablets,2026-03-13,IN_STOCK,False
+MP-KHA-PHC-037,Gentamicin Injection 80mg,Antibiotic,P,13,ampoules,2026-03-18,IN_STOCK,True
+MP-KHA-PHC-037,Oxytocin Injection 5IU,Obstetric,P,11,ampoules,2026-04-03,IN_STOCK,True
+MP-KHA-PHC-037,Misoprostol 200mcg,Obstetric,P,9,tablets,2026-04-09,IN_STOCK,True
+MP-KHA-PHC-037,Magnesium Sulphate Injection 50%,Anticonvulsant,P,11,ampoules,2026-03-25,IN_STOCK,True
+MP-KHA-PHC-037,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,14,ampoules,2026-03-05,IN_STOCK,True
+MP-KHA-PHC-037,Hydrocortisone Injection 100mg,Corticosteroid,P,12,vials,2026-04-07,IN_STOCK,True
+MP-KHA-PHC-037,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,15,ampoules,2026-02-21,IN_STOCK,True
+MP-KHA-PHC-037,Paracetamol 500mg,Analgesic,P,25,tablets,2026-03-26,IN_STOCK,False
+MP-KHA-PHC-037,Ibuprofen 400mg,NSAID,P,2,tablets,2026-04-03,LOW,False
+MP-KHA-PHC-037,Diclofenac Sodium 50mg,NSAID,P,2,tablets,2026-04-03,LOW,False
+MP-KHA-PHC-037,Salbutamol Inhaler 100mcg,Bronchodilator,P,1,inhalers,2026-03-15,LOW,False
+MP-KHA-PHC-037,Dexamethasone Injection 4mg,Corticosteroid,P,12,ampoules,2026-02-18,IN_STOCK,True
+MP-KHA-PHC-037,Prednisolone 5mg,Corticosteroid,P,11,tablets,2026-04-15,IN_STOCK,False
+MP-KHA-PHC-037,Metformin 500mg,Antidiabetic,P,20,tablets,2026-04-11,IN_STOCK,False
+MP-KHA-PHC-037,Glimepiride 1mg,Antidiabetic,P,26,tablets,2026-03-08,IN_STOCK,False
+MP-KHA-PHC-037,Amlodipine 5mg,Antihypertensive,P,18,tablets,2026-03-11,IN_STOCK,False
+MP-KHA-PHC-037,Enalapril 5mg,Antihypertensive,P,15,tablets,2026-03-24,IN_STOCK,False
+MP-KHA-PHC-037,Tetanus Toxoid Injection,Vaccine,P,15,doses,2026-02-19,IN_STOCK,True
+MP-KHA-PHC-037,Anti-Tetanus Serum (ATS),Antiserum,P,11,vials,2026-02-18,IN_STOCK,True
+MP-KHA-PHC-037,Anti-Rabies Vaccine (ARV),Vaccine,P,10,doses,2026-03-17,IN_STOCK,True
+MP-KHA-PHC-037,Activated Charcoal Powder,Antidote,P,5,sachets,2026-03-16,IN_STOCK,True
+MP-IND-SC-038,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,6,vials,2026-04-13,IN_STOCK,True
+MP-IND-SC-038,Artesunate Injection 60mg,Antimalarial,P,5,vials,2026-04-06,IN_STOCK,True
+MP-IND-SC-038,Artemether-Lumefantrine Tablets,Antimalarial,P,0,tablets,2026-03-10,OUT_OF_STOCK,True
+MP-IND-SC-038,Chloroquine Phosphate 250mg,Antimalarial,P,4,tablets,2026-03-06,IN_STOCK,False
+MP-IND-SC-038,Primaquine 7.5mg,Antimalarial,P,8,tablets,2026-03-02,IN_STOCK,False
+MP-IND-SC-038,Dengue NS1 Antigen Test Kit,Diagnostic,P,0,kits,2026-03-05,OUT_OF_STOCK,True
+MP-IND-SC-038,Normal Saline 0.9% (1L),IV Fluid,P,5,bottles,2026-03-07,IN_STOCK,True
+MP-IND-SC-038,Ringer Lactate (1L),IV Fluid,P,1,bottles,2026-04-09,LOW,True
+MP-IND-SC-038,ORS Packets (WHO formula),ORS,P,3,packets,2026-02-19,IN_STOCK,True
+MP-IND-SC-038,Zinc Sulphate Dispersible 20mg,Micronutrient,P,3,tablets,2026-04-07,IN_STOCK,False
+MP-IND-SC-038,Metronidazole 400mg,Antiprotozoal,P,5,tablets,2026-03-15,IN_STOCK,False
+MP-IND-SC-038,Amoxicillin 500mg,Antibiotic,P,3,capsules,2026-02-20,IN_STOCK,False
+MP-IND-SC-038,Azithromycin 500mg,Antibiotic,P,7,tablets,2026-04-12,IN_STOCK,False
+MP-IND-SC-038,Ciprofloxacin 500mg,Antibiotic,P,10,tablets,2026-02-21,IN_STOCK,False
+MP-IND-SC-038,Cotrimoxazole Paediatric,Antibiotic,P,6,tablets,2026-02-23,IN_STOCK,False
+MP-IND-SC-038,Gentamicin Injection 80mg,Antibiotic,P,5,ampoules,2026-03-09,IN_STOCK,True
+MP-IND-SC-038,Oxytocin Injection 5IU,Obstetric,P,8,ampoules,2026-02-17,IN_STOCK,True
+MP-IND-SC-038,Misoprostol 200mcg,Obstetric,P,6,tablets,2026-03-24,IN_STOCK,True
+MP-IND-SC-038,Magnesium Sulphate Injection 50%,Anticonvulsant,P,6,ampoules,2026-03-15,IN_STOCK,True
+MP-IND-SC-038,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,9,ampoules,2026-02-24,IN_STOCK,True
+MP-IND-SC-038,Hydrocortisone Injection 100mg,Corticosteroid,P,0,vials,2026-04-11,OUT_OF_STOCK,True
+MP-IND-SC-038,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,0,ampoules,2026-02-19,OUT_OF_STOCK,True
+MP-IND-SC-038,Paracetamol 500mg,Analgesic,P,3,tablets,2026-02-20,IN_STOCK,False
+MP-IND-SC-038,Ibuprofen 400mg,NSAID,P,4,tablets,2026-04-12,IN_STOCK,False
+MP-IND-SC-038,Diclofenac Sodium 50mg,NSAID,P,5,tablets,2026-02-19,IN_STOCK,False
+MP-IND-SC-038,Salbutamol Inhaler 100mcg,Bronchodilator,P,3,inhalers,2026-02-19,IN_STOCK,False
+MP-IND-SC-038,Dexamethasone Injection 4mg,Corticosteroid,P,9,ampoules,2026-03-15,IN_STOCK,True
+MP-IND-SC-038,Prednisolone 5mg,Corticosteroid,P,3,tablets,2026-03-04,IN_STOCK,False
+MP-IND-SC-038,Metformin 500mg,Antidiabetic,P,6,tablets,2026-02-25,IN_STOCK,False
+MP-IND-SC-038,Glimepiride 1mg,Antidiabetic,P,9,tablets,2026-03-26,IN_STOCK,False
+MP-IND-SC-038,Amlodipine 5mg,Antihypertensive,P,4,tablets,2026-03-21,IN_STOCK,False
+MP-IND-SC-038,Enalapril 5mg,Antihypertensive,P,10,tablets,2026-02-27,IN_STOCK,False
+MP-IND-SC-038,Tetanus Toxoid Injection,Vaccine,P,0,doses,2026-02-22,OUT_OF_STOCK,True
+MP-IND-SC-038,Anti-Tetanus Serum (ATS),Antiserum,P,0,vials,2026-03-10,OUT_OF_STOCK,True
+MP-IND-SC-038,Anti-Rabies Vaccine (ARV),Vaccine,P,6,doses,2026-04-17,IN_STOCK,True
+MP-IND-SC-039,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,4,vials,2026-03-15,IN_STOCK,True
+MP-IND-SC-039,Artesunate Injection 60mg,Antimalarial,P,0,vials,2026-03-07,OUT_OF_STOCK,True
+MP-IND-SC-039,Artemether-Lumefantrine Tablets,Antimalarial,P,0,tablets,2026-02-25,OUT_OF_STOCK,True
+MP-IND-SC-039,Chloroquine Phosphate 250mg,Antimalarial,P,8,tablets,2026-04-11,IN_STOCK,False
+MP-IND-SC-039,Primaquine 7.5mg,Antimalarial,P,7,tablets,2026-04-01,IN_STOCK,False
+MP-IND-SC-039,Dengue NS1 Antigen Test Kit,Diagnostic,P,8,kits,2026-03-09,IN_STOCK,True
+MP-IND-SC-039,Normal Saline 0.9% (1L),IV Fluid,P,6,bottles,2026-03-22,IN_STOCK,True
+MP-IND-SC-039,Ringer Lactate (1L),IV Fluid,P,5,bottles,2026-03-25,IN_STOCK,True
+MP-IND-SC-039,ORS Packets (WHO formula),ORS,P,7,packets,2026-03-12,IN_STOCK,True
+MP-IND-SC-039,Zinc Sulphate Dispersible 20mg,Micronutrient,P,9,tablets,2026-03-01,IN_STOCK,False
+MP-IND-SC-039,Metronidazole 400mg,Antiprotozoal,P,4,tablets,2026-03-01,IN_STOCK,False
+MP-IND-SC-039,Amoxicillin 500mg,Antibiotic,P,5,capsules,2026-04-11,IN_STOCK,False
+MP-IND-SC-039,Azithromycin 500mg,Antibiotic,P,9,tablets,2026-02-26,IN_STOCK,False
+MP-IND-SC-039,Ciprofloxacin 500mg,Antibiotic,P,3,tablets,2026-04-07,IN_STOCK,False
+MP-IND-SC-039,Cotrimoxazole Paediatric,Antibiotic,P,3,tablets,2026-02-25,IN_STOCK,False
+MP-IND-SC-039,Gentamicin Injection 80mg,Antibiotic,P,0,ampoules,2026-04-08,OUT_OF_STOCK,True
+MP-IND-SC-039,Oxytocin Injection 5IU,Obstetric,P,4,ampoules,2026-04-13,IN_STOCK,True
+MP-IND-SC-039,Misoprostol 200mcg,Obstetric,P,3,tablets,2026-03-02,IN_STOCK,True
+MP-IND-SC-039,Magnesium Sulphate Injection 50%,Anticonvulsant,P,7,ampoules,2026-03-03,IN_STOCK,True
+MP-IND-SC-039,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,1,ampoules,2026-03-08,LOW,True
+MP-IND-SC-039,Hydrocortisone Injection 100mg,Corticosteroid,P,1,vials,2026-04-05,LOW,True
+MP-IND-SC-039,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,0,ampoules,2026-03-10,OUT_OF_STOCK,True
+MP-IND-SC-039,Paracetamol 500mg,Analgesic,P,6,tablets,2026-03-09,IN_STOCK,False
+MP-IND-SC-039,Ibuprofen 400mg,NSAID,P,3,tablets,2026-03-25,IN_STOCK,False
+MP-IND-SC-039,Diclofenac Sodium 50mg,NSAID,P,3,tablets,2026-04-07,IN_STOCK,False
+MP-IND-SC-039,Salbutamol Inhaler 100mcg,Bronchodilator,P,1,inhalers,2026-02-27,LOW,False
+MP-IND-SC-039,Dexamethasone Injection 4mg,Corticosteroid,P,9,ampoules,2026-03-11,IN_STOCK,True
+MP-IND-SC-039,Prednisolone 5mg,Corticosteroid,P,3,tablets,2026-03-01,IN_STOCK,False
+MP-IND-SC-039,Metformin 500mg,Antidiabetic,P,4,tablets,2026-03-13,IN_STOCK,False
+MP-IND-SC-039,Glimepiride 1mg,Antidiabetic,P,8,tablets,2026-03-26,IN_STOCK,False
+MP-IND-SC-039,Amlodipine 5mg,Antihypertensive,P,7,tablets,2026-04-03,IN_STOCK,False
+MP-IND-SC-039,Enalapril 5mg,Antihypertensive,P,6,tablets,2026-03-19,IN_STOCK,False
+MP-IND-SC-039,Tetanus Toxoid Injection,Vaccine,P,7,doses,2026-04-06,IN_STOCK,True
+MP-IND-SC-039,Anti-Tetanus Serum (ATS),Antiserum,P,4,vials,2026-03-16,IN_STOCK,True
+MP-IND-SC-039,Anti-Rabies Vaccine (ARV),Vaccine,P,7,doses,2026-02-20,IN_STOCK,True
+MP-IND-SC-040,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,7,vials,2026-03-04,IN_STOCK,True
+MP-IND-SC-040,Artesunate Injection 60mg,Antimalarial,P,10,vials,2026-02-27,IN_STOCK,True
+MP-IND-SC-040,Artemether-Lumefantrine Tablets,Antimalarial,P,0,tablets,2026-03-27,OUT_OF_STOCK,True
+MP-IND-SC-040,Chloroquine Phosphate 250mg,Antimalarial,P,10,tablets,2026-03-05,IN_STOCK,False
+MP-IND-SC-040,Primaquine 7.5mg,Antimalarial,P,3,tablets,2026-03-18,IN_STOCK,False
+MP-IND-SC-040,Dengue NS1 Antigen Test Kit,Diagnostic,P,0,kits,2026-04-13,OUT_OF_STOCK,True
+MP-IND-SC-040,Normal Saline 0.9% (1L),IV Fluid,P,6,bottles,2026-03-05,IN_STOCK,True
+MP-IND-SC-040,Ringer Lactate (1L),IV Fluid,P,9,bottles,2026-03-26,IN_STOCK,True
+MP-IND-SC-040,ORS Packets (WHO formula),ORS,P,1,packets,2026-04-02,LOW,True
+MP-IND-SC-040,Zinc Sulphate Dispersible 20mg,Micronutrient,P,9,tablets,2026-03-05,IN_STOCK,False
+MP-IND-SC-040,Metronidazole 400mg,Antiprotozoal,P,8,tablets,2026-04-13,IN_STOCK,False
+MP-IND-SC-040,Amoxicillin 500mg,Antibiotic,P,5,capsules,2026-03-18,IN_STOCK,False
+MP-IND-SC-040,Azithromycin 500mg,Antibiotic,P,6,tablets,2026-02-19,IN_STOCK,False
+MP-IND-SC-040,Ciprofloxacin 500mg,Antibiotic,P,5,tablets,2026-03-01,IN_STOCK,False
+MP-IND-SC-040,Cotrimoxazole Paediatric,Antibiotic,P,6,tablets,2026-03-17,IN_STOCK,False
+MP-IND-SC-040,Gentamicin Injection 80mg,Antibiotic,P,6,ampoules,2026-02-21,IN_STOCK,True
+MP-IND-SC-040,Oxytocin Injection 5IU,Obstetric,P,6,ampoules,2026-02-23,IN_STOCK,True
+MP-IND-SC-040,Misoprostol 200mcg,Obstetric,P,4,tablets,2026-04-10,IN_STOCK,True
+MP-IND-SC-040,Magnesium Sulphate Injection 50%,Anticonvulsant,P,10,ampoules,2026-03-09,IN_STOCK,True
+MP-IND-SC-040,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,0,ampoules,2026-02-22,OUT_OF_STOCK,True
+MP-IND-SC-040,Hydrocortisone Injection 100mg,Corticosteroid,P,1,vials,2026-03-25,LOW,True
+MP-IND-SC-040,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,7,ampoules,2026-03-17,IN_STOCK,True
+MP-IND-SC-040,Paracetamol 500mg,Analgesic,P,7,tablets,2026-03-23,IN_STOCK,False
+MP-IND-SC-040,Ibuprofen 400mg,NSAID,P,5,tablets,2026-04-14,IN_STOCK,False
+MP-IND-SC-040,Diclofenac Sodium 50mg,NSAID,P,9,tablets,2026-03-18,IN_STOCK,False
+MP-IND-SC-040,Salbutamol Inhaler 100mcg,Bronchodilator,P,3,inhalers,2026-03-16,IN_STOCK,False
+MP-IND-SC-040,Dexamethasone Injection 4mg,Corticosteroid,P,5,ampoules,2026-03-19,IN_STOCK,True
+MP-IND-SC-040,Prednisolone 5mg,Corticosteroid,P,10,tablets,2026-03-28,IN_STOCK,False
+MP-IND-SC-040,Metformin 500mg,Antidiabetic,P,3,tablets,2026-03-05,IN_STOCK,False
+MP-IND-SC-040,Glimepiride 1mg,Antidiabetic,P,4,tablets,2026-03-28,IN_STOCK,False
+MP-IND-SC-040,Amlodipine 5mg,Antihypertensive,P,7,tablets,2026-04-06,IN_STOCK,False
+MP-IND-SC-040,Enalapril 5mg,Antihypertensive,P,6,tablets,2026-03-31,IN_STOCK,False
+MP-IND-SC-040,Tetanus Toxoid Injection,Vaccine,P,8,doses,2026-04-06,IN_STOCK,True
+MP-IND-SC-040,Anti-Tetanus Serum (ATS),Antiserum,P,8,vials,2026-03-25,IN_STOCK,True
+MP-IND-SC-040,Anti-Rabies Vaccine (ARV),Vaccine,P,5,doses,2026-03-12,IN_STOCK,True
+MP-IND-SC-041,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,0,vials,2026-03-12,OUT_OF_STOCK,True
+MP-IND-SC-041,Artesunate Injection 60mg,Antimalarial,P,7,vials,2026-02-25,IN_STOCK,True
+MP-IND-SC-041,Artemether-Lumefantrine Tablets,Antimalarial,P,0,tablets,2026-03-21,OUT_OF_STOCK,True
+MP-IND-SC-041,Chloroquine Phosphate 250mg,Antimalarial,P,6,tablets,2026-04-08,IN_STOCK,False
+MP-IND-SC-041,Primaquine 7.5mg,Antimalarial,P,5,tablets,2026-03-18,IN_STOCK,False
+MP-IND-SC-041,Dengue NS1 Antigen Test Kit,Diagnostic,P,10,kits,2026-04-09,IN_STOCK,True
+MP-IND-SC-041,Normal Saline 0.9% (1L),IV Fluid,P,8,bottles,2026-02-26,IN_STOCK,True
+MP-IND-SC-041,Ringer Lactate (1L),IV Fluid,P,3,bottles,2026-03-23,IN_STOCK,True
+MP-IND-SC-041,ORS Packets (WHO formula),ORS,P,0,packets,2026-04-07,OUT_OF_STOCK,True
+MP-IND-SC-041,Zinc Sulphate Dispersible 20mg,Micronutrient,P,1,tablets,2026-03-18,LOW,False
+MP-IND-SC-041,Metronidazole 400mg,Antiprotozoal,P,4,tablets,2026-03-20,IN_STOCK,False
+MP-IND-SC-041,Amoxicillin 500mg,Antibiotic,P,7,capsules,2026-03-25,IN_STOCK,False
+MP-IND-SC-041,Azithromycin 500mg,Antibiotic,P,7,tablets,2026-03-26,IN_STOCK,False
+MP-IND-SC-041,Ciprofloxacin 500mg,Antibiotic,P,1,tablets,2026-03-26,LOW,False
+MP-IND-SC-041,Cotrimoxazole Paediatric,Antibiotic,P,6,tablets,2026-03-12,IN_STOCK,False
+MP-IND-SC-041,Gentamicin Injection 80mg,Antibiotic,P,5,ampoules,2026-02-27,IN_STOCK,True
+MP-IND-SC-041,Oxytocin Injection 5IU,Obstetric,P,10,ampoules,2026-02-27,IN_STOCK,True
+MP-IND-SC-041,Misoprostol 200mcg,Obstetric,P,9,tablets,2026-03-09,IN_STOCK,True
+MP-IND-SC-041,Magnesium Sulphate Injection 50%,Anticonvulsant,P,5,ampoules,2026-02-21,IN_STOCK,True
+MP-IND-SC-041,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,0,ampoules,2026-02-25,OUT_OF_STOCK,True
+MP-IND-SC-041,Hydrocortisone Injection 100mg,Corticosteroid,P,9,vials,2026-02-22,IN_STOCK,True
+MP-IND-SC-041,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,1,ampoules,2026-04-03,LOW,True
+MP-IND-SC-041,Paracetamol 500mg,Analgesic,P,7,tablets,2026-03-03,IN_STOCK,False
+MP-IND-SC-041,Ibuprofen 400mg,NSAID,P,9,tablets,2026-03-31,IN_STOCK,False
+MP-IND-SC-041,Diclofenac Sodium 50mg,NSAID,P,8,tablets,2026-03-01,IN_STOCK,False
+MP-IND-SC-041,Salbutamol Inhaler 100mcg,Bronchodilator,P,10,inhalers,2026-03-22,IN_STOCK,False
+MP-IND-SC-041,Dexamethasone Injection 4mg,Corticosteroid,P,0,ampoules,2026-02-22,OUT_OF_STOCK,True
+MP-IND-SC-041,Prednisolone 5mg,Corticosteroid,P,1,tablets,2026-03-06,LOW,False
+MP-IND-SC-041,Metformin 500mg,Antidiabetic,P,4,tablets,2026-04-04,IN_STOCK,False
+MP-IND-SC-041,Glimepiride 1mg,Antidiabetic,P,4,tablets,2026-04-11,IN_STOCK,False
+MP-IND-SC-041,Amlodipine 5mg,Antihypertensive,P,1,tablets,2026-03-13,LOW,False
+MP-IND-SC-041,Enalapril 5mg,Antihypertensive,P,1,tablets,2026-03-15,LOW,False
+MP-IND-SC-041,Tetanus Toxoid Injection,Vaccine,P,1,doses,2026-03-09,LOW,True
+MP-IND-SC-041,Anti-Tetanus Serum (ATS),Antiserum,P,0,vials,2026-03-07,OUT_OF_STOCK,True
+MP-IND-SC-041,Anti-Rabies Vaccine (ARV),Vaccine,P,6,doses,2026-04-02,IN_STOCK,True
+MP-IND-SC-042,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,5,vials,2026-04-09,IN_STOCK,True
+MP-IND-SC-042,Artesunate Injection 60mg,Antimalarial,P,3,vials,2026-03-06,IN_STOCK,True
+MP-IND-SC-042,Artemether-Lumefantrine Tablets,Antimalarial,P,10,tablets,2026-03-19,IN_STOCK,True
+MP-IND-SC-042,Chloroquine Phosphate 250mg,Antimalarial,P,7,tablets,2026-03-13,IN_STOCK,False
+MP-IND-SC-042,Primaquine 7.5mg,Antimalarial,P,5,tablets,2026-03-11,IN_STOCK,False
+MP-IND-SC-042,Dengue NS1 Antigen Test Kit,Diagnostic,P,9,kits,2026-03-15,IN_STOCK,True
+MP-IND-SC-042,Normal Saline 0.9% (1L),IV Fluid,P,8,bottles,2026-03-18,IN_STOCK,True
+MP-IND-SC-042,Ringer Lactate (1L),IV Fluid,P,10,bottles,2026-03-29,IN_STOCK,True
+MP-IND-SC-042,ORS Packets (WHO formula),ORS,P,7,packets,2026-04-17,IN_STOCK,True
+MP-IND-SC-042,Zinc Sulphate Dispersible 20mg,Micronutrient,P,1,tablets,2026-03-26,LOW,False
+MP-IND-SC-042,Metronidazole 400mg,Antiprotozoal,P,3,tablets,2026-03-04,IN_STOCK,False
+MP-IND-SC-042,Amoxicillin 500mg,Antibiotic,P,10,capsules,2026-03-29,IN_STOCK,False
+MP-IND-SC-042,Azithromycin 500mg,Antibiotic,P,1,tablets,2026-02-25,LOW,False
+MP-IND-SC-042,Ciprofloxacin 500mg,Antibiotic,P,6,tablets,2026-02-26,IN_STOCK,False
+MP-IND-SC-042,Cotrimoxazole Paediatric,Antibiotic,P,1,tablets,2026-04-05,LOW,False
+MP-IND-SC-042,Gentamicin Injection 80mg,Antibiotic,P,9,ampoules,2026-04-02,IN_STOCK,True
+MP-IND-SC-042,Oxytocin Injection 5IU,Obstetric,P,0,ampoules,2026-03-01,OUT_OF_STOCK,True
+MP-IND-SC-042,Misoprostol 200mcg,Obstetric,P,6,tablets,2026-04-01,IN_STOCK,True
+MP-IND-SC-042,Magnesium Sulphate Injection 50%,Anticonvulsant,P,0,ampoules,2026-03-08,OUT_OF_STOCK,True
+MP-IND-SC-042,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,0,ampoules,2026-02-28,OUT_OF_STOCK,True
+MP-IND-SC-042,Hydrocortisone Injection 100mg,Corticosteroid,P,7,vials,2026-03-30,IN_STOCK,True
+MP-IND-SC-042,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,7,ampoules,2026-03-22,IN_STOCK,True
+MP-IND-SC-042,Paracetamol 500mg,Analgesic,P,4,tablets,2026-04-06,IN_STOCK,False
+MP-IND-SC-042,Ibuprofen 400mg,NSAID,P,4,tablets,2026-03-08,IN_STOCK,False
+MP-IND-SC-042,Diclofenac Sodium 50mg,NSAID,P,10,tablets,2026-03-31,IN_STOCK,False
+MP-IND-SC-042,Salbutamol Inhaler 100mcg,Bronchodilator,P,10,inhalers,2026-04-05,IN_STOCK,False
+MP-IND-SC-042,Dexamethasone Injection 4mg,Corticosteroid,P,3,ampoules,2026-04-06,IN_STOCK,True
+MP-IND-SC-042,Prednisolone 5mg,Corticosteroid,P,7,tablets,2026-03-31,IN_STOCK,False
+MP-IND-SC-042,Metformin 500mg,Antidiabetic,P,10,tablets,2026-03-02,IN_STOCK,False
+MP-IND-SC-042,Glimepiride 1mg,Antidiabetic,P,1,tablets,2026-04-08,LOW,False
+MP-IND-SC-042,Amlodipine 5mg,Antihypertensive,P,1,tablets,2026-03-27,LOW,False
+MP-IND-SC-042,Enalapril 5mg,Antihypertensive,P,10,tablets,2026-03-25,IN_STOCK,False
+MP-IND-SC-042,Tetanus Toxoid Injection,Vaccine,P,8,doses,2026-04-12,IN_STOCK,True
+MP-IND-SC-042,Anti-Tetanus Serum (ATS),Antiserum,P,3,vials,2026-03-31,IN_STOCK,True
+MP-IND-SC-042,Anti-Rabies Vaccine (ARV),Vaccine,P,1,doses,2026-04-06,LOW,True
+MP-DEW-SC-043,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,0,vials,2026-02-23,OUT_OF_STOCK,True
+MP-DEW-SC-043,Artesunate Injection 60mg,Antimalarial,P,3,vials,2026-04-10,IN_STOCK,True
+MP-DEW-SC-043,Artemether-Lumefantrine Tablets,Antimalarial,P,9,tablets,2026-02-27,IN_STOCK,True
+MP-DEW-SC-043,Chloroquine Phosphate 250mg,Antimalarial,P,6,tablets,2026-03-01,IN_STOCK,False
+MP-DEW-SC-043,Primaquine 7.5mg,Antimalarial,P,6,tablets,2026-03-19,IN_STOCK,False
+MP-DEW-SC-043,Dengue NS1 Antigen Test Kit,Diagnostic,P,1,kits,2026-03-18,LOW,True
+MP-DEW-SC-043,Normal Saline 0.9% (1L),IV Fluid,P,8,bottles,2026-04-07,IN_STOCK,True
+MP-DEW-SC-043,Ringer Lactate (1L),IV Fluid,P,1,bottles,2026-04-01,LOW,True
+MP-DEW-SC-043,ORS Packets (WHO formula),ORS,P,8,packets,2026-02-20,IN_STOCK,True
+MP-DEW-SC-043,Zinc Sulphate Dispersible 20mg,Micronutrient,P,1,tablets,2026-04-10,LOW,False
+MP-DEW-SC-043,Metronidazole 400mg,Antiprotozoal,P,9,tablets,2026-03-28,IN_STOCK,False
+MP-DEW-SC-043,Amoxicillin 500mg,Antibiotic,P,1,capsules,2026-03-11,LOW,False
+MP-DEW-SC-043,Azithromycin 500mg,Antibiotic,P,6,tablets,2026-04-17,IN_STOCK,False
+MP-DEW-SC-043,Ciprofloxacin 500mg,Antibiotic,P,10,tablets,2026-03-04,IN_STOCK,False
+MP-DEW-SC-043,Cotrimoxazole Paediatric,Antibiotic,P,8,tablets,2026-02-27,IN_STOCK,False
+MP-DEW-SC-043,Gentamicin Injection 80mg,Antibiotic,P,0,ampoules,2026-04-07,OUT_OF_STOCK,True
+MP-DEW-SC-043,Oxytocin Injection 5IU,Obstetric,P,8,ampoules,2026-02-17,IN_STOCK,True
+MP-DEW-SC-043,Misoprostol 200mcg,Obstetric,P,3,tablets,2026-04-14,IN_STOCK,True
+MP-DEW-SC-043,Magnesium Sulphate Injection 50%,Anticonvulsant,P,4,ampoules,2026-04-09,IN_STOCK,True
+MP-DEW-SC-043,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,8,ampoules,2026-02-25,IN_STOCK,True
+MP-DEW-SC-043,Hydrocortisone Injection 100mg,Corticosteroid,P,3,vials,2026-03-04,IN_STOCK,True
+MP-DEW-SC-043,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,7,ampoules,2026-02-19,IN_STOCK,True
+MP-DEW-SC-043,Paracetamol 500mg,Analgesic,P,1,tablets,2026-03-13,LOW,False
+MP-DEW-SC-043,Ibuprofen 400mg,NSAID,P,10,tablets,2026-04-05,IN_STOCK,False
+MP-DEW-SC-043,Diclofenac Sodium 50mg,NSAID,P,8,tablets,2026-03-28,IN_STOCK,False
+MP-DEW-SC-043,Salbutamol Inhaler 100mcg,Bronchodilator,P,7,inhalers,2026-02-21,IN_STOCK,False
+MP-DEW-SC-043,Dexamethasone Injection 4mg,Corticosteroid,P,5,ampoules,2026-04-13,IN_STOCK,True
+MP-DEW-SC-043,Prednisolone 5mg,Corticosteroid,P,10,tablets,2026-03-30,IN_STOCK,False
+MP-DEW-SC-043,Metformin 500mg,Antidiabetic,P,8,tablets,2026-03-19,IN_STOCK,False
+MP-DEW-SC-043,Glimepiride 1mg,Antidiabetic,P,1,tablets,2026-03-02,LOW,False
+MP-DEW-SC-043,Amlodipine 5mg,Antihypertensive,P,3,tablets,2026-03-09,IN_STOCK,False
+MP-DEW-SC-043,Enalapril 5mg,Antihypertensive,P,6,tablets,2026-03-28,IN_STOCK,False
+MP-DEW-SC-043,Tetanus Toxoid Injection,Vaccine,P,9,doses,2026-04-05,IN_STOCK,True
+MP-DEW-SC-043,Anti-Tetanus Serum (ATS),Antiserum,P,5,vials,2026-03-09,IN_STOCK,True
+MP-DEW-SC-043,Anti-Rabies Vaccine (ARV),Vaccine,P,8,doses,2026-04-10,IN_STOCK,True
+MP-UJJ-SC-044,Polyvalent Anti-Snake Venom (ASV),Antivenom,P,0,vials,2026-03-06,OUT_OF_STOCK,True
+MP-UJJ-SC-044,Artesunate Injection 60mg,Antimalarial,P,0,vials,2026-02-23,OUT_OF_STOCK,True
+MP-UJJ-SC-044,Artemether-Lumefantrine Tablets,Antimalarial,P,3,tablets,2026-04-05,IN_STOCK,True
+MP-UJJ-SC-044,Chloroquine Phosphate 250mg,Antimalarial,P,6,tablets,2026-04-11,IN_STOCK,False
+MP-UJJ-SC-044,Primaquine 7.5mg,Antimalarial,P,1,tablets,2026-03-06,LOW,False
+MP-UJJ-SC-044,Dengue NS1 Antigen Test Kit,Diagnostic,P,7,kits,2026-04-14,IN_STOCK,True
+MP-UJJ-SC-044,Normal Saline 0.9% (1L),IV Fluid,P,4,bottles,2026-04-17,IN_STOCK,True
+MP-UJJ-SC-044,Ringer Lactate (1L),IV Fluid,P,10,bottles,2026-02-17,IN_STOCK,True
+MP-UJJ-SC-044,ORS Packets (WHO formula),ORS,P,1,packets,2026-03-25,LOW,True
+MP-UJJ-SC-044,Zinc Sulphate Dispersible 20mg,Micronutrient,P,9,tablets,2026-02-24,IN_STOCK,False
+MP-UJJ-SC-044,Metronidazole 400mg,Antiprotozoal,P,3,tablets,2026-02-24,IN_STOCK,False
+MP-UJJ-SC-044,Amoxicillin 500mg,Antibiotic,P,3,capsules,2026-03-02,IN_STOCK,False
+MP-UJJ-SC-044,Azithromycin 500mg,Antibiotic,P,1,tablets,2026-04-13,LOW,False
+MP-UJJ-SC-044,Ciprofloxacin 500mg,Antibiotic,P,4,tablets,2026-04-11,IN_STOCK,False
+MP-UJJ-SC-044,Cotrimoxazole Paediatric,Antibiotic,P,9,tablets,2026-04-05,IN_STOCK,False
+MP-UJJ-SC-044,Gentamicin Injection 80mg,Antibiotic,P,0,ampoules,2026-03-06,OUT_OF_STOCK,True
+MP-UJJ-SC-044,Oxytocin Injection 5IU,Obstetric,P,0,ampoules,2026-03-08,OUT_OF_STOCK,True
+MP-UJJ-SC-044,Misoprostol 200mcg,Obstetric,P,9,tablets,2026-03-01,IN_STOCK,True
+MP-UJJ-SC-044,Magnesium Sulphate Injection 50%,Anticonvulsant,P,0,ampoules,2026-03-08,OUT_OF_STOCK,True
+MP-UJJ-SC-044,Adrenaline (Epinephrine) 1mg/ml,Emergency,P,9,ampoules,2026-02-20,IN_STOCK,True
+MP-UJJ-SC-044,Hydrocortisone Injection 100mg,Corticosteroid,P,0,vials,2026-02-26,OUT_OF_STOCK,True
+MP-UJJ-SC-044,Atropine Sulphate 0.6mg/ml,Anticholinergic,P,0,ampoules,2026-03-23,OUT_OF_STOCK,True
+MP-UJJ-SC-044,Paracetamol 500mg,Analgesic,P,5,tablets,2026-03-14,IN_STOCK,False
+MP-UJJ-SC-044,Ibuprofen 400mg,NSAID,P,10,tablets,2026-02-17,IN_STOCK,False
+MP-UJJ-SC-044,Diclofenac Sodium 50mg,NSAID,P,8,tablets,2026-03-13,IN_STOCK,False
+MP-UJJ-SC-044,Salbutamol Inhaler 100mcg,Bronchodilator,P,8,inhalers,2026-02-22,IN_STOCK,False
+MP-UJJ-SC-044,Dexamethasone Injection 4mg,Corticosteroid,P,9,ampoules,2026-02-24,IN_STOCK,True
+MP-UJJ-SC-044,Prednisolone 5mg,Corticosteroid,P,6,tablets,2026-03-12,IN_STOCK,False
+MP-UJJ-SC-044,Metformin 500mg,Antidiabetic,P,9,tablets,2026-02-27,IN_STOCK,False
+MP-UJJ-SC-044,Glimepiride 1mg,Antidiabetic,P,7,tablets,2026-03-25,IN_STOCK,False
+MP-UJJ-SC-044,Amlodipine 5mg,Antihypertensive,P,10,tablets,2026-03-23,IN_STOCK,False
+MP-UJJ-SC-044,Enalapril 5mg,Antihypertensive,P,1,tablets,2026-03-30,LOW,False
+MP-UJJ-SC-044,Tetanus Toxoid Injection,Vaccine,P,7,doses,2026-04-17,IN_STOCK,True
+MP-UJJ-SC-044,Anti-Tetanus Serum (ATS),Antiserum,P,8,vials,2026-04-16,IN_STOCK,True
+MP-UJJ-SC-044,Anti-Rabies Vaccine (ARV),Vaccine,P,7,doses,2026-02-18,IN_STOCK,True
